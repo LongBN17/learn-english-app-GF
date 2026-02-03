@@ -366,18 +366,29 @@
     .hint {
       display: none;
       font-size: 16px;
-      color: #9ca3af;
+      color: #374151;
       text-align: center;
-      margin-top: 15px;
-      padding: 15px;
-      background: #fff9e6;
-      border-radius: 8px;
-      border-left: 4px solid #fbbf24;
+      margin-top: 20px;
+      padding: 18px;
+      background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+      border-radius: 12px;
+      border-left: 5px solid #f59e0b;
+      font-weight: 500;
+      line-height: 1.6;
+      box-shadow: 0 2px 8px rgba(245, 158, 11, 0.2);
     }
 
     .hint.show {
       display: block;
       animation: fadeIn 0.3s ease;
+    }
+    
+    #quizHint {
+      margin-top: 25px;
+      background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%);
+      border-left-color: #3b82f6;
+      color: #1e40af;
+      font-weight: 600;
     }
 
     @keyframes fadeIn {
@@ -1013,19 +1024,35 @@
           quizAnswered = true;
 
           const correctIdx = currentItem.answer;
+          
+          // Mark clicked option
           if (idx === correctIdx) {
             opt.classList.add('correct');
           } else {
             opt.classList.add('wrong');
+            // Always show correct answer when wrong
             if (options[correctIdx]) {
               options[correctIdx].classList.add('correct');
             }
           }
 
-          // Show explanation
+          // Always show explanation/hint (whether correct or wrong)
           const hintEl = document.getElementById('quizHint');
-          if (hintEl && currentItem.explain) {
-            hintEl.textContent = currentItem.explain;
+          if (hintEl) {
+            let hintText = '';
+            
+            // If there's an explanation, show it
+            if (currentItem.explain) {
+              hintText = currentItem.explain;
+            } else {
+              // Otherwise, show the correct answer
+              const correctAnswer = currentItem.options && currentItem.options[correctIdx] 
+                ? currentItem.options[correctIdx] 
+                : '';
+              hintText = `Đáp án đúng: ${correctAnswer}`;
+            }
+            
+            hintEl.textContent = hintText;
             hintEl.classList.add('show');
           }
         });
