@@ -1,0 +1,82 @@
+[
+    {
+        "type": "word",
+        "term": "implement",
+        "ipa": "/ˈɪmplɪment/",
+        "meaning": "triển khai, thực hiện",
+        "example": "Implement the feature.",
+        "level": "B1"
+    },
+    {
+        "type": "word",
+        "term": "optimize",
+        "ipa": "/ˈɒptɪmaɪz/",
+        "meaning": "tối ưu hóa",
+        "example": "Optimize the code.",
+        "level": "B2"
+    },
+    {
+        "type": "word",
+        "term": "migrate",
+        "ipa": "/maɪˈɡreɪt/",
+        "meaning": "di chuyển dữ liệu",
+        "example": "Migrate to cloud.",
+        "level": "B2"
+    },
+    {
+        "type": "word",
+        "term": "refactor",
+        "ipa": "/riːˈfæktə/",
+        "meaning": "tái cấu trúc",
+        "example": "Refactor legacy code.",
+        "level": "B2"
+    },
+    {
+        "type": "word",
+        "term": "debug",
+        "ipa": "/diːˈbʌɡ/",
+        "meaning": "gỡ lỗi",
+        "example": "Debug the issue.",
+        "level": "B1"
+    },
+    {
+        "type": "word",
+        "term": "integrate",
+        "ipa": "/ˈɪntɪɡreɪt/",
+        "meaning": "tích hợp",
+        "example": "Integrate APIs.",
+        "level": "B2"
+    },
+    {
+        "type": "word",
+        "term": "validate",
+        "ipa": "/ˈvælɪdeɪt/",
+        "meaning": "xác thực",
+        "example": "Validate user input.",
+        "level": "B1"
+    },
+    {
+        "type": "word",
+        "term": "monitor",
+        "ipa": "/ˈmɒnɪtə/",
+        "meaning": "giám sát",
+        "example": "Monitor the system.",
+        "level": "B1"
+    },
+    {
+        "type": "word",
+        "term": "analyze",
+        "ipa": "/ˈænəlaɪz/",
+        "meaning": "phân tích",
+        "example": "Analyze the data.",
+        "level": "B1"
+    },
+    {
+        "type": "word",
+        "term": "configure",
+        "ipa": "/kənˈfɪɡə/",
+        "meaning": "cấu hình",
+        "example": "Configure the server.",
+        "level": "B2"
+    }
+]
