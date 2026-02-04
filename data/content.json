@@ -53,7 +53,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -69,7 +73,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -101,7 +109,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -197,7 +209,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -233,7 +249,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -253,7 +273,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -285,7 +309,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -309,7 +337,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "grammar",
@@ -317,7 +349,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -333,7 +369,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -393,7 +433,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -421,7 +465,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -469,7 +517,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -485,7 +537,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -521,7 +577,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -545,7 +605,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -677,7 +741,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -953,7 +1021,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -1041,7 +1113,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -1065,7 +1141,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -1213,7 +1293,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -1377,7 +1461,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -1421,7 +1509,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -1485,7 +1577,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -1505,7 +1601,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -1605,7 +1705,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -1749,7 +1853,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -1789,7 +1897,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -1829,7 +1941,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -1913,7 +2029,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -1941,7 +2061,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "quiz",
@@ -1961,7 +2085,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -1993,7 +2121,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -2105,7 +2237,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -2289,7 +2425,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -2353,7 +2493,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -2421,7 +2565,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -2549,7 +2697,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "grammar",
@@ -2557,7 +2709,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -2609,7 +2765,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -2657,7 +2817,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -2757,7 +2921,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -2781,7 +2949,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -2809,7 +2981,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -2905,7 +3081,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -2921,7 +3101,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -2953,7 +3137,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "quiz",
@@ -3117,7 +3305,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -3169,7 +3361,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -3285,7 +3481,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "quiz",
@@ -3317,7 +3517,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -3361,7 +3565,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -3389,7 +3597,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -3561,7 +3773,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -3753,7 +3969,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -3841,7 +4061,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -3861,7 +4085,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "quiz",
@@ -3901,7 +4129,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -3941,7 +4173,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -3981,7 +4217,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "grammar",
@@ -3989,7 +4229,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -4089,7 +4333,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "grammar",
@@ -4097,7 +4345,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "grammar",
@@ -4105,7 +4357,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -4161,7 +4417,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -4185,7 +4445,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -4233,7 +4497,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -4277,7 +4545,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -4337,7 +4609,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -4493,7 +4769,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -4553,7 +4833,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -4673,7 +4957,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -4689,7 +4977,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "quiz",
@@ -4709,7 +5001,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -4741,7 +5037,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "quiz",
@@ -4841,7 +5141,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -4865,7 +5169,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -5017,7 +5325,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -5241,7 +5553,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -5293,7 +5609,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -5329,7 +5649,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "grammar",
@@ -5337,7 +5661,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -5397,7 +5725,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -5489,7 +5821,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -5513,7 +5849,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -5541,7 +5881,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -5557,7 +5901,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -5669,7 +6017,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -5781,7 +6133,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -5985,7 +6341,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -6033,7 +6393,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "quiz",
@@ -6065,7 +6429,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -6125,7 +6493,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -6221,7 +6593,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -6261,7 +6637,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -6309,7 +6689,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "grammar",
@@ -6317,7 +6701,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "grammar",
@@ -6325,7 +6713,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -6373,7 +6765,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -6421,7 +6817,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "quiz",
@@ -6441,7 +6841,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -6457,7 +6861,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -6709,7 +7117,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -6869,7 +7281,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -6913,7 +7329,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -6969,7 +7389,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -7001,7 +7425,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -7077,7 +7505,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -7113,7 +7545,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -7133,7 +7569,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -7229,7 +7669,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -7377,7 +7821,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -7429,7 +7877,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -7445,7 +7897,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -7577,7 +8033,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -7633,7 +8093,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -7669,7 +8133,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -7781,7 +8249,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -7837,7 +8309,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -7857,7 +8333,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "grammar",
@@ -7865,7 +8345,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "grammar",
@@ -7873,7 +8357,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -7985,7 +8473,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -8045,7 +8537,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -8181,7 +8677,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -8209,7 +8709,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -8277,7 +8781,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "quiz",
@@ -8309,7 +8817,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -8341,7 +8853,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "grammar",
@@ -8349,7 +8865,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -8493,7 +9013,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "quiz",
@@ -8577,7 +9101,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -8605,7 +9133,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "quiz",
@@ -8657,7 +9189,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -8873,7 +9409,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -9069,7 +9609,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -9121,7 +9665,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -9169,7 +9717,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "grammar",
@@ -9177,7 +9729,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -9245,7 +9801,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -9273,7 +9833,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -9449,7 +10013,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -9465,7 +10033,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -9481,7 +10053,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -9505,7 +10081,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -9533,7 +10113,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -9709,7 +10293,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -9765,7 +10353,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -9845,7 +10437,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "grammar",
@@ -9853,7 +10449,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -9869,7 +10469,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -9897,7 +10501,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "grammar",
@@ -9905,7 +10513,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -9937,7 +10549,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -9961,7 +10577,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -10009,7 +10629,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -10065,7 +10689,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -10129,7 +10757,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -10209,7 +10841,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -10289,7 +10925,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "grammar",
@@ -10297,7 +10937,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -10345,7 +10989,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -10373,7 +11021,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -10389,7 +11041,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -10441,7 +11097,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -10681,7 +11341,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -10761,7 +11425,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -11097,7 +11765,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -11217,7 +11889,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "grammar",
@@ -11225,7 +11901,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -11241,7 +11921,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -11365,7 +12049,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -11505,7 +12193,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "grammar",
@@ -11513,7 +12205,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "grammar",
@@ -11521,7 +12217,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -11609,7 +12309,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "grammar",
@@ -11617,7 +12321,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -11813,7 +12521,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -11829,7 +12541,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "grammar",
@@ -11837,7 +12553,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -11873,7 +12593,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -11909,7 +12633,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -12053,7 +12781,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -12073,7 +12805,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -12113,7 +12849,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "grammar",
@@ -12121,7 +12861,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "grammar",
@@ -12129,7 +12873,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -12193,7 +12941,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -12261,7 +13013,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -12281,7 +13037,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -12309,7 +13069,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -12393,7 +13157,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -12509,7 +13277,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "quiz",
@@ -12601,7 +13373,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -12621,7 +13397,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -12677,7 +13457,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "grammar",
@@ -12685,7 +13469,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -12701,7 +13489,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -12741,7 +13533,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -12761,7 +13557,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -12777,7 +13577,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "quiz",
@@ -12805,7 +13609,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "grammar",
@@ -12813,7 +13621,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -12921,7 +13733,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -13077,7 +13893,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -13113,7 +13933,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -13161,7 +13985,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -13209,7 +14037,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -13229,7 +14061,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -13377,7 +14213,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -13417,7 +14257,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -13461,7 +14305,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -13669,7 +14517,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -13701,7 +14553,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -13733,7 +14589,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -14033,7 +14893,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -14149,7 +15013,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -14205,7 +15073,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -14345,7 +15217,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -14425,7 +15301,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "grammar",
@@ -14433,7 +15313,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -14513,7 +15397,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -14545,7 +15433,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -14565,7 +15457,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -14705,7 +15601,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -14741,7 +15641,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -14777,7 +15681,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "grammar",
@@ -14785,7 +15693,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -14885,7 +15797,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -15001,7 +15917,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -15017,7 +15937,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -15037,7 +15961,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -15113,7 +16041,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -15209,7 +16141,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -15225,7 +16161,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -15369,7 +16309,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "quiz",
@@ -15389,7 +16333,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -15409,7 +16357,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -15509,7 +16461,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -15549,7 +16505,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "grammar",
@@ -15557,7 +16517,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -15585,7 +16549,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -15625,7 +16593,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "grammar",
@@ -15633,7 +16605,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -15793,7 +16769,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -15877,7 +16857,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -15961,7 +16945,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -15977,7 +16965,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -16045,7 +17037,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "grammar",
@@ -16053,7 +17049,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -16089,7 +17089,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -16173,7 +17177,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "grammar",
@@ -16181,7 +17189,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -16205,7 +17217,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "quiz",
@@ -16241,7 +17257,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "quiz",
@@ -16345,7 +17365,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -16373,7 +17397,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "grammar",
@@ -16381,7 +17409,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -16461,7 +17493,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "grammar",
@@ -16469,7 +17505,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -16597,7 +17637,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -16633,7 +17677,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -16729,7 +17777,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -16801,7 +17853,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -16925,7 +17981,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -17001,7 +18061,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -17049,7 +18113,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -17321,7 +18389,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -17561,7 +18633,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -17593,7 +18669,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -17705,7 +18785,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -17781,7 +18865,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -18025,7 +19113,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -18141,7 +19233,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -18201,7 +19297,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "grammar",
@@ -18209,7 +19309,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -18253,7 +19357,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -18429,7 +19537,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -18445,7 +19557,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "grammar",
@@ -18453,7 +19569,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -18605,7 +19725,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -18641,7 +19765,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -18741,7 +19869,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "grammar",
@@ -18749,7 +19881,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -18793,7 +19929,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -18837,7 +19977,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -18857,7 +20001,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -18941,7 +20089,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -18969,7 +20121,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -19001,7 +20157,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -19233,7 +20393,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -19265,7 +20429,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -19325,7 +20493,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -19385,7 +20557,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -19441,7 +20617,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -19461,7 +20641,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "grammar",
@@ -19469,7 +20653,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -19529,7 +20717,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -19569,7 +20761,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -19773,7 +20969,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -19793,7 +20993,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -19861,7 +21065,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -19905,7 +21113,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -19925,7 +21137,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "grammar",
@@ -19933,7 +21149,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -19969,7 +21189,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "quiz",
@@ -20041,7 +21265,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -20113,7 +21341,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -20289,7 +21521,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -20505,7 +21741,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "grammar",
@@ -20513,7 +21753,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -20565,7 +21809,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "quiz",
@@ -20617,7 +21865,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -20673,7 +21925,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -20709,7 +21965,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "grammar",
@@ -20717,7 +21977,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -20741,7 +22005,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -20765,7 +22033,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "grammar",
@@ -20773,7 +22045,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -21037,7 +22313,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -21209,7 +22489,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -21265,7 +22549,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "grammar",
@@ -21273,7 +22561,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "grammar",
@@ -21281,7 +22573,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -21341,7 +22637,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -21429,7 +22729,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "word",
@@ -21473,7 +22777,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "quiz",
@@ -21601,7 +22909,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "grammar",
@@ -21609,7 +22921,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "grammar",
@@ -21617,7 +22933,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -21681,7 +23001,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -21701,7 +23025,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -21717,7 +23045,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -21765,7 +23097,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -21793,7 +23129,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -21917,7 +23257,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -21933,7 +23277,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -22125,7 +23473,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -22173,7 +23525,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -22249,7 +23605,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "quiz",
@@ -22449,7 +23809,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "grammar",
@@ -22457,7 +23821,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -22553,7 +23921,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -22585,7 +23957,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -22625,7 +24001,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -22673,7 +24053,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -22773,7 +24157,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -22873,7 +24261,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -22945,7 +24337,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -23137,7 +24533,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -23233,7 +24633,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -23273,7 +24677,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -23333,7 +24741,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -23425,7 +24837,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "grammar",
@@ -23433,7 +24849,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -23513,7 +24933,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -23573,7 +24997,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -23593,7 +25021,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "grammar",
@@ -23601,7 +25033,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -23665,7 +25101,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "grammar",
@@ -23673,7 +25113,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -23737,7 +25181,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -23777,7 +25225,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -23873,7 +25325,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -23953,7 +25409,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -24013,7 +25473,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -24069,7 +25533,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -24161,7 +25629,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -24193,7 +25665,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -24329,7 +25805,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "grammar",
@@ -24337,7 +25817,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -24461,7 +25945,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -24585,7 +26073,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -24645,7 +26137,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "quiz",
@@ -24665,7 +26161,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -24705,7 +26205,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -24781,7 +26285,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "grammar",
@@ -24789,7 +26297,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "word",
@@ -24805,7 +26317,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -24881,7 +26397,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -24913,7 +26433,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "grammar",
@@ -24921,7 +26445,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "grammar",
@@ -24929,7 +26457,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -24953,7 +26485,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -25169,7 +26705,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -25189,7 +26729,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -25229,7 +26773,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "quiz",
@@ -25305,7 +26853,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -25429,7 +26981,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "grammar",
@@ -25437,7 +26993,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -25501,7 +27061,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -25769,7 +27333,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -25809,7 +27377,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -25909,7 +27481,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -25937,7 +27513,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -26049,7 +27629,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -26129,7 +27713,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -26205,7 +27793,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "grammar",
@@ -26213,7 +27805,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "grammar",
@@ -26221,7 +27817,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -26321,7 +27921,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -26349,7 +27953,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -26405,7 +28013,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -26473,7 +28085,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "quiz",
@@ -26521,7 +28137,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "grammar",
@@ -26529,7 +28149,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -26553,7 +28177,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "grammar",
@@ -26561,7 +28189,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -26605,7 +28237,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -26645,7 +28281,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -26757,7 +28397,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -26805,7 +28449,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -26833,7 +28481,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "grammar",
@@ -26841,7 +28493,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -26933,7 +28589,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -26969,7 +28629,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "quiz",
@@ -26989,7 +28653,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "quiz",
@@ -27017,7 +28685,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -27145,7 +28817,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "grammar",
@@ -27153,7 +28829,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -27193,7 +28873,11 @@
     "formula": "S + V(s/es)",
     "use": "Facts, Habits",
     "signal": "Always, Often",
-    "example": "He works here."
+    "example": "He works here.",
+    "topicVi": "Thì hiện tại đơn",
+    "useVi": "Sự thật, thói quen",
+    "signalVi": "Luôn, Thường",
+    "exampleVi": "Anh ấy làm việc ở đây."
   },
   {
     "type": "word",
@@ -27209,7 +28893,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "quiz",
@@ -27229,7 +28917,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "quiz",
@@ -27361,7 +29053,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -27421,7 +29117,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "grammar",
@@ -27429,7 +29129,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "grammar",
@@ -27437,7 +29141,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "quiz",
@@ -27501,7 +29209,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "grammar",
@@ -27509,7 +29221,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "word",
@@ -27573,7 +29289,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -27633,7 +29353,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -27749,7 +29473,11 @@
     "formula": "Be + V3",
     "use": "Action receiver",
     "signal": "By",
-    "example": "The code was written by him."
+    "example": "The code was written by him.",
+    "topicVi": "Câu bị động",
+    "useVi": "Nhấn mạnh đối tượng chịu tác động",
+    "signalVi": "By (bởi)",
+    "exampleVi": "Code được viết bởi anh ấy."
   },
   {
     "type": "quiz",
@@ -27769,7 +29497,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -27869,7 +29601,11 @@
     "formula": "V-ing",
     "use": "As subject/object",
     "signal": "None",
-    "example": "Coding is fun."
+    "example": "Coding is fun.",
+    "topicVi": "Danh động từ (V-ing)",
+    "useVi": "Làm chủ ngữ / tân ngữ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Viết code rất vui."
   },
   {
     "type": "word",
@@ -27885,7 +29621,11 @@
     "formula": "S + have/has + V3",
     "use": "Experience, Result",
     "signal": "Since, For, Just",
-    "example": "I have finished content."
+    "example": "I have finished content.",
+    "topicVi": "Thì hiện tại hoàn thành",
+    "useVi": "Kinh nghiệm, kết quả",
+    "signalVi": "Since, For, Just (từ khi, trong, vừa mới)",
+    "exampleVi": "Tôi đã hoàn thành nội dung."
   },
   {
     "type": "word",
@@ -27913,7 +29653,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "quiz",
@@ -27985,7 +29729,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -28045,7 +29793,11 @@
     "formula": "If S + V, S + will + V",
     "use": "Real possibility",
     "signal": "If",
-    "example": "If it works, we will ship."
+    "example": "If it works, we will ship.",
+    "topicVi": "Câu điều kiện loại 1",
+    "useVi": "Khả năng có thật",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu nó chạy, chúng ta sẽ ship."
   },
   {
     "type": "word",
@@ -28193,7 +29945,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "word",
@@ -28237,7 +29993,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -28269,7 +30029,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "grammar",
@@ -28277,7 +30041,11 @@
     "formula": "S + V2/ed",
     "use": "Finished action",
     "signal": "Yesterday, Ago",
-    "example": "She joined the meeting."
+    "example": "She joined the meeting.",
+    "topicVi": "Thì quá khứ đơn",
+    "useVi": "Hành động đã hoàn thành",
+    "signalVi": "Hôm qua, Cách đây",
+    "exampleVi": "Cô ấy đã tham gia cuộc họp."
   },
   {
     "type": "quiz",
@@ -28465,7 +30233,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -28481,7 +30253,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -28501,7 +30277,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",
@@ -28545,7 +30325,11 @@
     "formula": "S + am/is/are + V-ing",
     "use": "Happening now",
     "signal": "Now, At the moment",
-    "example": "I am coding."
+    "example": "I am coding.",
+    "topicVi": "Thì hiện tại tiếp diễn",
+    "useVi": "Đang xảy ra lúc nói",
+    "signalVi": "Bây giờ, Lúc này",
+    "exampleVi": "Tôi đang code."
   },
   {
     "type": "quiz",
@@ -28621,7 +30405,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "quiz",
@@ -28657,7 +30445,11 @@
     "formula": "If S + V2, S + would + V",
     "use": "Unreal present",
     "signal": "If",
-    "example": "If I were you, I would refactor."
+    "example": "If I were you, I would refactor.",
+    "topicVi": "Câu điều kiện loại 2",
+    "useVi": "Không có thật ở hiện tại",
+    "signalVi": "Nếu",
+    "exampleVi": "Nếu tôi là bạn, tôi sẽ refactor."
   },
   {
     "type": "word",
@@ -28701,7 +30493,11 @@
     "formula": "Who/Which/That",
     "use": "Describe noun",
     "signal": "None",
-    "example": " The tool which helps me."
+    "example": " The tool which helps me.",
+    "topicVi": "Mệnh đề quan hệ",
+    "useVi": "Bổ nghĩa cho danh từ",
+    "signalVi": "Không đặc trưng",
+    "exampleVi": "Công cụ giúp tôi."
   },
   {
     "type": "quiz",
@@ -28769,7 +30565,11 @@
     "formula": "S + will + V",
     "use": "Prediction, Decision",
     "signal": "Tomorrow, Next week",
-    "example": "We will launch soon."
+    "example": "We will launch soon.",
+    "topicVi": "Thì tương lai đơn",
+    "useVi": "Dự đoán, quyết định",
+    "signalVi": "Ngày mai, Tuần sau",
+    "exampleVi": "Chúng ta sẽ ra mắt sớm."
   },
   {
     "type": "word",

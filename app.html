@@ -1390,25 +1390,38 @@
         }
       } else if (item.type === 'grammar') {
         html += '<div class="term-container">';
-        html += `<div class="term" style="font-size: 48px;">${item.topic || ''}</div>`;
+        html += `<div class="term" style="font-size: 48px;">${escapeHtml(item.topic || '')}</div>`;
+        if (item.topicVi) {
+          html += `<div class="grammar-vi">${escapeHtml(item.topicVi)}</div>`;
+        }
         html += '</div>';
         
         html += '<div class="grammar-formula">';
-        html += `<div>${item.formula || ''}</div>`;
+        html += `<div>${escapeHtml(item.formula || '')}</div>`;
         html += '</div>';
         
         html += '<div class="grammar-info">';
-        html += `<strong>Usage:</strong> ${item.use || ''}`;
+        html += `<strong>Usage:</strong> ${escapeHtml(item.use || '')}`;
+        if (item.useVi) {
+          html += `<span class="grammar-vi"> ${escapeHtml(item.useVi)}</span>`;
+        }
         html += '</div>';
         
         if (item.signal) {
           html += '<div class="grammar-info">';
-          html += `<strong>Signal words:</strong> ${item.signal || ''}`;
+          html += `<strong>Signal words:</strong> ${escapeHtml(item.signal || '')}`;
+          if (item.signalVi) {
+            html += `<span class="grammar-vi"> ${escapeHtml(item.signalVi)}</span>`;
+          }
           html += '</div>';
         }
         
         if (item.example) {
-          html += `<div class="example">${item.example}</div>`;
+          html += `<div class="example">${escapeHtml(item.example)}`;
+          if (item.exampleVi) {
+            html += `<div class="grammar-vi">${escapeHtml(item.exampleVi)}</div>`;
+          }
+          html += '</div>';
         }
       } else if (item.type === 'quiz') {
         html += '<div class="term-container">';
