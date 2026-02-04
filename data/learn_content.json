@@ -63,7 +63,13 @@
       "Diễn tả hành động cảm nhận bằng giác quan tại thời điểm nói.",
       "Diễn tả lịch trình đã định sẵn (tàu, xe, máy bay)."
     ],
-    "signals": "Often, Always, Usually, Frequently, Seldom, Rarely, Sometimes, Every day/week."
+    "signals": "Often, Always, Usually, Frequently, Seldom, Rarely, Sometimes, Every day/week.",
+    "usageEn": [
+      "Describe general truths and scientific facts.",
+      "Describe habits, preferences or opinions.",
+      "Describe actions perceived by senses at the moment of speaking.",
+      "Describe fixed schedules (transport, etc.)."
+    ]
   },
   {
     "type": "lesson",
@@ -116,7 +122,13 @@
       "Kế hoạch đã định trước trong tương lai gần.",
       "Sự phàn nàn (với always)."
     ],
-    "signals": "Now, Right now, At the moment, Look!, Listen!, Currently, This week/month."
+    "signals": "Now, Right now, At the moment, Look!, Listen!, Currently, This week/month.",
+    "usageEn": [
+      "Action happening at the moment of speaking.",
+      "Temporary action, not finished.",
+      "Pre-arranged plan in the near future.",
+      "Complaint (with always)."
+    ]
   },
   {
     "type": "lesson",
@@ -169,7 +181,13 @@
       "Hành động trong quá khứ, kết quả còn ở hiện tại.",
       "Hành động bắt đầu trong quá khứ và tiếp tục đến hiện tại."
     ],
-    "signals": "Just, Already, Yet, Ever, Never, Since, For, So far, Recently, Lately."
+    "signals": "Just, Already, Yet, Ever, Never, Since, For, So far, Recently, Lately.",
+    "usageEn": [
+      "Action that just happened (just).",
+      "Experience up to the present (ever, never).",
+      "Past action with result in the present.",
+      "Action started in the past and continues to the present."
+    ]
   },
   {
     "type": "lesson",
@@ -225,7 +243,12 @@
       "Thói quen trong quá khứ (đã chấm dứt).",
       "Chuỗi hành động xảy ra liên tiếp trong quá khứ."
     ],
-    "signals": "Yesterday, Last week/month/year, Ago, In 2020, When I was young."
+    "signals": "Yesterday, Last week/month/year, Ago, In 2020, When I was young.",
+    "usageEn": [
+      "Action that happened and ended in the past.",
+      "Past habit (no longer continued).",
+      "Sequence of actions in the past."
+    ]
   },
   {
     "type": "lesson",
@@ -278,7 +301,13 @@
       "Lời hứa, đề nghị, yêu cầu.",
       "Câu điều kiện loại I."
     ],
-    "signals": "Tomorrow, Next week/month/year, In the future, Soon, In + thời gian."
+    "signals": "Tomorrow, Next week/month/year, In the future, Soon, In + thời gian.",
+    "usageEn": [
+      "Prediction about the future.",
+      "Sudden decision at the moment of speaking.",
+      "Promise, offer, request.",
+      "First conditional."
+    ]
   },
   {
     "type": "lesson",
@@ -323,7 +352,12 @@
       "Hành động đang xảy ra thì có hành động khác xen vào (when/while).",
       "Hai hành động song song trong quá khứ (while)."
     ],
-    "signals": "While, When, At that time, At 5pm yesterday, All day/week."
+    "signals": "While, When, At that time, At 5pm yesterday, All day/week.",
+    "usageEn": [
+      "Action in progress at a point in the past.",
+      "Action in progress when another interrupted (when/while).",
+      "Two parallel actions in the past (while)."
+    ]
   },
   {
     "type": "lesson",
@@ -368,7 +402,12 @@
       "Hành động xảy ra trước một thời điểm trong quá khứ (by + time).",
       "Trong câu điều kiện loại 3."
     ],
-    "signals": "Before, After, By the time, By 2020, Already, Just, Never."
+    "signals": "Before, After, By the time, By 2020, Already, Just, Never.",
+    "usageEn": [
+      "Action completed before another past action.",
+      "Action completed before a point in the past (by + time).",
+      "In third conditional."
+    ]
   },
   {
     "type": "lesson",
@@ -412,7 +451,11 @@
       "Hành động sẽ đang xảy ra tại thời điểm xác định trong tương lai.",
       "Hành động đã được lên kế hoạch hoặc là phần của thói quen tương lai."
     ],
-    "signals": "At this time tomorrow/next week, At 8pm tomorrow, In the future."
+    "signals": "At this time tomorrow/next week, At 8pm tomorrow, In the future.",
+    "usageEn": [
+      "Action in progress at a point in the future.",
+      "Planned or habitual future action."
+    ]
   },
   {
     "type": "lesson",
@@ -457,7 +500,12 @@
       "Hành động vừa kết thúc, kết quả còn thấy rõ.",
       "Thường dùng với since, for."
     ],
-    "signals": "Since, For, All day/week, How long..., Lately, Recently."
+    "signals": "Since, For, All day/week, How long..., Lately, Recently.",
+    "usageEn": [
+      "Action from past to present (emphasis on duration).",
+      "Action just finished, result still visible.",
+      "Often with since, for."
+    ]
   },
   {
     "type": "lesson",
@@ -500,7 +548,11 @@
       "Diễn tả sự thật hiển nhiên, khoa học.",
       "Diễn tả thói quen, quy luật."
     ],
-    "signals": "Always true, general facts, habits."
+    "signals": "Always true, general facts, habits.",
+    "usageEn": [
+      "State general truths and scientific facts.",
+      "State habits and rules."
+    ]
   },
   {
     "type": "lesson",
@@ -541,7 +593,12 @@
       "Đề nghị, cảnh báo, thỏa thuận.",
       "Có thể dùng Unless = If not."
     ],
-    "signals": "If + present, will/can/may + V. Unless = if not."
+    "signals": "If + present, will/can/may + V. Unless = if not.",
+    "usageEn": [
+      "Real possibility in the future.",
+      "Suggestion, warning, agreement.",
+      "Unless = if not."
+    ]
   },
   {
     "type": "lesson",
@@ -582,7 +639,12 @@
       "Lời khuyên: If I were you, I would...",
       "Were dùng cho tất cả ngôi trong văn phong trang trọng."
     ],
-    "signals": "If I were..., Would/Could/Might + V. Unreal present/future."
+    "signals": "If I were..., Would/Could/Might + V. Unreal present/future.",
+    "usageEn": [
+      "Unreal present or future (wish, hypothesis).",
+      "Advice: If I were you, I would...",
+      "Use 'were' for all persons in formal style."
+    ]
   },
   {
     "type": "lesson",
@@ -623,7 +685,12 @@
       "Diễn tả hối tiếc về việc đã không làm.",
       "Phỏng đoán về kết quả đã không xảy ra."
     ],
-    "signals": "If + had V3, would have V3. Past unreal."
+    "signals": "If + had V3, would have V3. Past unreal.",
+    "usageEn": [
+      "Unreal past.",
+      "Regret about what did not happen.",
+      "Speculation about a different past result."
+    ]
   },
   {
     "type": "lesson",
@@ -663,7 +730,11 @@
       "Nhấn mạnh đối tượng chịu tác động.",
       "Khi không biết hoặc không cần nêu chủ thể gây ra hành động."
     ],
-    "signals": "Am/Is/Are + V3. By + O (optional)."
+    "signals": "Am/Is/Are + V3. By + O (optional).",
+    "usageEn": [
+      "Emphasize the receiver of the action.",
+      "When the doer is unknown or unnecessary."
+    ]
   },
   {
     "type": "lesson",
@@ -702,7 +773,10 @@
     "usage": [
       "Diễn tả hành động bị động đã xảy ra và kết thúc trong quá khứ."
     ],
-    "signals": "Was/Were + V3."
+    "signals": "Was/Were + V3.",
+    "usageEn": [
+      "Describe a completed passive action in the past."
+    ]
   },
   {
     "type": "lesson",
@@ -745,7 +819,10 @@
     "usage": [
       "Dùng khi cần diễn đạt bị động với khả năng, bắt buộc, hoặc lời khuyên."
     ],
-    "signals": "Can/Could/May/Must/Should + be + V3."
+    "signals": "Can/Could/May/Must/Should + be + V3.",
+    "usageEn": [
+      "Passive with ability, obligation, or advice."
+    ]
   },
   {
     "type": "lesson",
@@ -780,7 +857,10 @@
     "usage": [
       "Khả năng hiện tại, xin phép, đề nghị."
     ],
-    "signals": "Can + V (không có to)."
+    "signals": "Can + V (không có to).",
+    "usageEn": [
+      "Present ability, permission, request."
+    ]
   },
   {
     "type": "lesson",
@@ -815,7 +895,10 @@
     "usage": [
       "Khả năng quá khứ, yêu cầu lịch sự, điều kiện."
     ],
-    "signals": "Could + V-inf."
+    "signals": "Could + V-inf.",
+    "usageEn": [
+      "Past ability, polite request, conditional."
+    ]
   },
   {
     "type": "lesson",
@@ -850,7 +933,10 @@
     "usage": [
       "Xin phép trang trọng, phỏng đoán không chắc."
     ],
-    "signals": "May + V-inf."
+    "signals": "May + V-inf.",
+    "usageEn": [
+      "Formal permission, uncertainty."
+    ]
   },
   {
     "type": "lesson",
@@ -885,7 +971,10 @@
     "usage": [
       "Phỏng đoán không chắc chắn, khả năng thấp."
     ],
-    "signals": "Might + V-inf."
+    "signals": "Might + V-inf.",
+    "usageEn": [
+      "Lower possibility than may."
+    ]
   },
   {
     "type": "lesson",
@@ -920,7 +1009,10 @@
     "usage": [
       "Bắt buộc, nghĩa vụ, suy luận chắc chắn."
     ],
-    "signals": "Must + V-inf. Mustn't = cấm."
+    "signals": "Must + V-inf. Mustn't = cấm.",
+    "usageEn": [
+      "Obligation, strong necessity, certainty."
+    ]
   },
   {
     "type": "lesson",
@@ -955,7 +1047,10 @@
     "usage": [
       "Bắt buộc do quy định, ngoại cảnh."
     ],
-    "signals": "Have to / Has to + V-inf."
+    "signals": "Have to / Has to + V-inf.",
+    "usageEn": [
+      "External obligation (rules, circumstances)."
+    ]
   },
   {
     "type": "lesson",
@@ -990,7 +1085,10 @@
     "usage": [
       "Lời khuyên, gợi ý, mong đợi hợp lý."
     ],
-    "signals": "Should + V-inf."
+    "signals": "Should + V-inf.",
+    "usageEn": [
+      "Advice, suggestion, reasonable expectation."
+    ]
   },
   {
     "type": "lesson",
@@ -1025,7 +1123,10 @@
     "usage": [
       "Lời khuyên trang trọng, nghĩa vụ đạo đức."
     ],
-    "signals": "Ought to + V-inf."
+    "signals": "Ought to + V-inf.",
+    "usageEn": [
+      "Formal advice, moral duty."
+    ]
   },
   {
     "type": "lesson",
@@ -1060,7 +1161,10 @@
     "usage": [
       "Thói quen quá khứ, lời mời lịch sự, câu điều kiện."
     ],
-    "signals": "Would + V-inf."
+    "signals": "Would + V-inf.",
+    "usageEn": [
+      "Past habit, polite offer, conditional."
+    ]
   },
   {
     "type": "lesson",
@@ -1095,7 +1199,10 @@
     "usage": [
       "Thói quen/tình trạng trong quá khứ, nay không còn."
     ],
-    "signals": "Used to + V-inf. (chỉ quá khứ)."
+    "signals": "Used to + V-inf. (chỉ quá khứ).",
+    "usageEn": [
+      "Past habit or state, no longer true."
+    ]
   },
   {
     "type": "lesson",
@@ -1144,7 +1251,12 @@
       "So sánh từ 3 đối tượng trở lên: dùng so sánh nhất.",
       "Tính từ ngắn: thêm -er/-est. Tính từ dài: more/most."
     ],
-    "signals": "Than (so sánh hơn), The (so sánh nhất), In/Of (phạm vi)."
+    "signals": "Than (so sánh hơn), The (so sánh nhất), In/Of (phạm vi).",
+    "usageEn": [
+      "Compare two: use comparative.",
+      "Compare three or more: use superlative.",
+      "Short adj: -er/-est. Long adj: more/most."
+    ]
   },
   {
     "type": "lesson",
@@ -1188,7 +1300,11 @@
       "Too: vượt quá mức, thường dẫn đến kết quả tiêu cực.",
       "Enough: đủ để làm gì đó."
     ],
-    "signals": "Too + adj. Adj + enough. Enough + N."
+    "signals": "Too + adj. Adj + enough. Enough + N.",
+    "usageEn": [
+      "Too: beyond desired level, often negative result.",
+      "Enough: sufficient for something."
+    ]
   },
   {
     "type": "lesson",
@@ -1228,7 +1344,11 @@
       "So dùng với tính từ/trạng từ.",
       "Such dùng với danh từ (có a/an nếu danh từ đếm được số ít)."
     ],
-    "signals": "So + adj/adv. Such + (a/an) + adj + N."
+    "signals": "So + adj/adv. Such + (a/an) + adj + N.",
+    "usageEn": [
+      "So + adj/adv.",
+      "Such + (a/an) + adj + N."
+    ]
   },
   {
     "type": "lesson",
@@ -1276,7 +1396,11 @@
       "Used to: chỉ quá khứ, không dùng cho hiện tại.",
       "Be/Get used to: theo sau là V-ing hoặc danh từ."
     ],
-    "signals": "Used to V. Be/Get used to V-ing."
+    "signals": "Used to V. Be/Get used to V-ing.",
+    "usageEn": [
+      "Used to: past only, not present.",
+      "Be/Get used to: followed by V-ing or N."
+    ]
   },
   {
     "type": "lesson",
@@ -1320,7 +1444,11 @@
       "Would rather: thể hiện sở thích, lựa chọn.",
       "Had better: khuyên nên làm (nếu không sẽ có hậu quả)."
     ],
-    "signals": "Would rather. Had better (thường viết 'd better)."
+    "signals": "Would rather. Had better (thường viết 'd better).",
+    "usageEn": [
+      "Would rather: preference, choice.",
+      "Had better: strong advice (warning)."
+    ]
   },
   {
     "type": "lesson",
@@ -1369,7 +1497,12 @@
       "Chủ ngữ câu đuôi luôn là đại từ (it, they, he, she...).",
       "Lên giọng ở đuôi = hỏi thật; xuống giọng = mong đợi đồng ý."
     ],
-    "signals": "Trợ động từ + đại từ. Khẳng định ↔ Phủ định."
+    "signals": "Trợ động từ + đại từ. Khẳng định ↔ Phủ định.",
+    "usageEn": [
+      "Auxiliary in tag matches the tense.",
+      "Tag subject is always a pronoun.",
+      "Rising tone = real question; falling = expect agreement."
+    ]
   },
   {
     "type": "lesson",
@@ -1418,7 +1551,12 @@
       "The: đã xác định, người nghe biết đang nói về cái gì; sự vật duy nhất.",
       "Không dùng a/an với danh từ không đếm được hoặc số nhiều."
     ],
-    "signals": "A + phụ âm. An + nguyên âm. The = xác định."
+    "signals": "A + phụ âm. An + nguyên âm. The = xác định.",
+    "usageEn": [
+      "A/An: first mention, indefinite.",
+      "The: definite, listener knows what; unique things.",
+      "No a/an with uncountable or plural."
+    ]
   },
   {
     "type": "lesson",
@@ -1467,7 +1605,12 @@
       "On: ngày.",
       "In: khoảng thời gian dài hơn (tháng, năm)."
     ],
-    "signals": "At + time. On + day/date. In + month/year/season."
+    "signals": "At + time. On + day/date. In + month/year/season.",
+    "usageEn": [
+      "At: specific time (hour).",
+      "On: day.",
+      "In: longer period (month, year)."
+    ]
   },
   {
     "type": "lesson",
@@ -1516,7 +1659,12 @@
       "On: tiếp xúc bề mặt.",
       "At: vị trí điểm (địa chỉ, nơi chốn cụ thể)."
     ],
-    "signals": "In + place (inside). On + surface. At + point/place."
+    "signals": "In + place (inside). On + surface. At + point/place.",
+    "usageEn": [
+      "In: inside, within.",
+      "On: surface.",
+      "At: point or place."
+    ]
   },
   {
     "type": "lesson",
@@ -1565,7 +1713,12 @@
       "Any: bất kỳ (phủ định, hỏi).",
       "No + N = not any."
     ],
-    "signals": "Some: +. Any: -, ?. No = not any."
+    "signals": "Some: +. Any: -, ?. No = not any.",
+    "usageEn": [
+      "Some: positive or offer.",
+      "Any: negative or question.",
+      "No + N = not any."
+    ]
   },
   {
     "type": "lesson",
@@ -1614,7 +1767,12 @@
       "That thường dùng thay who/which trong mệnh đề xác định.",
       "Whom: thay cho người (tân ngữ); có thể bỏ nếu không có giới từ."
     ],
-    "signals": "Who (person). Which (thing). That (person/thing, defining)."
+    "signals": "Who (person). Which (thing). That (person/thing, defining).",
+    "usageEn": [
+      "Who/Which/That as subject cannot be omitted.",
+      "That often replaces who/which in defining clauses.",
+      "Whom: object (person); can be omitted."
+    ]
   },
   {
     "type": "lesson",
@@ -1655,7 +1813,12 @@
       "To V: mục đích, sau tính từ (happy to see), sau một số động từ.",
       "Remember/Forget/Stop + V-ing: việc đã xảy ra. + to V: việc cần làm."
     ],
-    "signals": "Enjoy + V-ing. Want + to V. Remember + V-ing (past) / to V (future)."
+    "signals": "Enjoy + V-ing. Want + to V. Remember + V-ing (past) / to V (future).",
+    "usageEn": [
+      "V-ing: when verb is subject or after preposition.",
+      "To V: purpose, after adjective, after certain verbs.",
+      "Remember/Forget/Stop + V-ing (past) / to V (future)."
+    ]
   },
   {
     "type": "lesson",
