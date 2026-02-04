@@ -1,0 +1,3659 @@
+[
+  {
+    "type": "lesson",
+    "id": "present-simple",
+    "title": "Thì hiện tại đơn - Present Simple Tense",
+    "definition": "Thì hiện tại đơn (Present simple) là thì được dùng để diễn tả những hành động, đặc điểm và thói quen đang diễn ra trong hiện tại.",
+    "formula": {
+      "headers": [
+        "Loại câu",
+        "Động từ thường",
+        "Động từ to be"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "S + V1 (V-s/es với ngôi 3 số ít)",
+          "S + am/is/are"
+        ],
+        [
+          "Phủ định",
+          "S + do not/does not + V-inf",
+          "S + am not/is not/are not"
+        ],
+        [
+          "Nghi vấn (Yes/No)",
+          "Do/Does + S + V-inf?",
+          "Am/Is/Are + S + ...?"
+        ],
+        [
+          "Nghi vấn (thông tin)",
+          "Từ hỏi + do/does + S + V-inf?",
+          "Từ hỏi + am/is/are + S?"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Loại câu",
+        "Ví dụ động từ thường",
+        "Ví dụ động từ to be"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "I play football every day.",
+          "She is a teacher."
+        ],
+        [
+          "Phủ định",
+          "I do not like coffee.",
+          "He is not happy."
+        ],
+        [
+          "Nghi vấn",
+          "Do you like pizza?",
+          "Is she your friend?"
+        ]
+      ]
+    },
+    "usage": [
+      "Diễn tả hiện tượng, quy luật chung khó thay đổi.",
+      "Diễn tả thói quen, sở thích hoặc quan điểm.",
+      "Diễn tả hành động cảm nhận bằng giác quan tại thời điểm nói.",
+      "Diễn tả lịch trình đã định sẵn (tàu, xe, máy bay)."
+    ],
+    "signals": "Often, Always, Usually, Frequently, Seldom, Rarely, Sometimes, Every day/week."
+  },
+  {
+    "type": "lesson",
+    "id": "present-continuous",
+    "title": "Thì hiện tại tiếp diễn - Present Continuous Tense",
+    "definition": "Thì hiện tại tiếp diễn dùng để diễn tả hành động đang xảy ra tại thời điểm nói hoặc xung quanh thời điểm nói.",
+    "formula": {
+      "headers": [
+        "Loại câu",
+        "Công thức"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "S + am/is/are + V-ing"
+        ],
+        [
+          "Phủ định",
+          "S + am not/is not/are not + V-ing"
+        ],
+        [
+          "Nghi vấn",
+          "Am/Is/Are + S + V-ing?"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Loại câu",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "She is reading now."
+        ],
+        [
+          "Phủ định",
+          "They are not playing games."
+        ],
+        [
+          "Nghi vấn",
+          "Are you listening to me?"
+        ]
+      ]
+    },
+    "usage": [
+      "Hành động đang xảy ra tại thời điểm nói.",
+      "Hành động tạm thời, chưa kết thúc.",
+      "Kế hoạch đã định trước trong tương lai gần.",
+      "Sự phàn nàn (với always)."
+    ],
+    "signals": "Now, Right now, At the moment, Look!, Listen!, Currently, This week/month."
+  },
+  {
+    "type": "lesson",
+    "id": "present-perfect",
+    "title": "Thì hiện tại hoàn thành - Present Perfect Tense",
+    "definition": "Thì hiện tại hoàn thành diễn tả hành động đã xảy ra trong quá khứ nhưng còn liên quan đến hiện tại hoặc kết quả còn lưu đến hiện tại.",
+    "formula": {
+      "headers": [
+        "Loại câu",
+        "Công thức"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "S + have/has + V3"
+        ],
+        [
+          "Phủ định",
+          "S + have not/has not + V3"
+        ],
+        [
+          "Nghi vấn",
+          "Have/Has + S + V3?"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Loại câu",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "I have finished my homework."
+        ],
+        [
+          "Phủ định",
+          "She has not seen that film."
+        ],
+        [
+          "Nghi vấn",
+          "Have you ever been to Japan?"
+        ]
+      ]
+    },
+    "usage": [
+      "Hành động vừa mới xảy ra (just).",
+      "Kinh nghiệm cho đến hiện tại (ever, never).",
+      "Hành động trong quá khứ, kết quả còn ở hiện tại.",
+      "Hành động bắt đầu trong quá khứ và tiếp tục đến hiện tại."
+    ],
+    "signals": "Just, Already, Yet, Ever, Never, Since, For, So far, Recently, Lately."
+  },
+  {
+    "type": "lesson",
+    "id": "past-simple",
+    "title": "Thì quá khứ đơn - Past Simple Tense",
+    "definition": "Thì quá khứ đơn dùng để diễn tả hành động đã xảy ra và đã kết thúc trong quá khứ, biết rõ thời gian.",
+    "formula": {
+      "headers": [
+        "Loại câu",
+        "Động từ thường",
+        "Động từ to be"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "S + V2",
+          "S + was/were"
+        ],
+        [
+          "Phủ định",
+          "S + did not + V-inf",
+          "S + was not/were not"
+        ],
+        [
+          "Nghi vấn",
+          "Did + S + V-inf?",
+          "Was/Were + S + ...?"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Loại câu",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "I went to school yesterday."
+        ],
+        [
+          "Phủ định",
+          "She did not come to the party."
+        ],
+        [
+          "Nghi vấn",
+          "Did you see him last week?"
+        ]
+      ]
+    },
+    "usage": [
+      "Hành động đã xảy ra và chấm dứt trong quá khứ.",
+      "Thói quen trong quá khứ (đã chấm dứt).",
+      "Chuỗi hành động xảy ra liên tiếp trong quá khứ."
+    ],
+    "signals": "Yesterday, Last week/month/year, Ago, In 2020, When I was young."
+  },
+  {
+    "type": "lesson",
+    "id": "future-simple",
+    "title": "Thì tương lai đơn - Future Simple Tense",
+    "definition": "Thì tương lai đơn dùng để diễn tả hành động sẽ xảy ra trong tương lai, quyết định tại thời điểm nói.",
+    "formula": {
+      "headers": [
+        "Loại câu",
+        "Công thức"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "S + will + V-inf"
+        ],
+        [
+          "Phủ định",
+          "S + will not (won't) + V-inf"
+        ],
+        [
+          "Nghi vấn",
+          "Will + S + V-inf?"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Loại câu",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "I will call you tomorrow."
+        ],
+        [
+          "Phủ định",
+          "She will not go to the meeting."
+        ],
+        [
+          "Nghi vấn",
+          "Will you marry me?"
+        ]
+      ]
+    },
+    "usage": [
+      "Dự đoán về tương lai.",
+      "Quyết định đột xuất tại thời điểm nói.",
+      "Lời hứa, đề nghị, yêu cầu.",
+      "Câu điều kiện loại I."
+    ],
+    "signals": "Tomorrow, Next week/month/year, In the future, Soon, In + thời gian."
+  },
+  {
+    "type": "lesson",
+    "id": "past-continuous",
+    "title": "Thì quá khứ tiếp diễn - Past Continuous Tense",
+    "definition": "Thì quá khứ tiếp diễn diễn tả hành động đang xảy ra tại một thời điểm trong quá khứ hoặc khi có hành động khác xen vào.",
+    "formula": {
+      "headers": [
+        "Loại câu",
+        "Công thức"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "S + was/were + V-ing"
+        ],
+        [
+          "Phủ định",
+          "S + was not/were not + V-ing"
+        ],
+        [
+          "Nghi vấn",
+          "Was/Were + S + V-ing?"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I was studying when she called."
+        ],
+        [
+          "They were playing football at 5pm yesterday."
+        ]
+      ]
+    },
+    "usage": [
+      "Hành động đang xảy ra tại một thời điểm trong quá khứ.",
+      "Hành động đang xảy ra thì có hành động khác xen vào (when/while).",
+      "Hai hành động song song trong quá khứ (while)."
+    ],
+    "signals": "While, When, At that time, At 5pm yesterday, All day/week."
+  },
+  {
+    "type": "lesson",
+    "id": "past-perfect",
+    "title": "Thì quá khứ hoàn thành - Past Perfect Tense",
+    "definition": "Thì quá khứ hoàn thành diễn tả hành động xảy ra trước một hành động khác hoặc trước một thời điểm trong quá khứ.",
+    "formula": {
+      "headers": [
+        "Loại câu",
+        "Công thức"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "S + had + V3"
+        ],
+        [
+          "Phủ định",
+          "S + had not + V3"
+        ],
+        [
+          "Nghi vấn",
+          "Had + S + V3?"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "She had left before I arrived."
+        ],
+        [
+          "By 2020, I had graduated from university."
+        ]
+      ]
+    },
+    "usage": [
+      "Hành động xảy ra trước một hành động khác trong quá khứ.",
+      "Hành động xảy ra trước một thời điểm trong quá khứ (by + time).",
+      "Trong câu điều kiện loại 3."
+    ],
+    "signals": "Before, After, By the time, By 2020, Already, Just, Never."
+  },
+  {
+    "type": "lesson",
+    "id": "future-continuous",
+    "title": "Thì tương lai tiếp diễn - Future Continuous Tense",
+    "definition": "Thì tương lai tiếp diễn diễn tả hành động sẽ đang xảy ra tại một thời điểm trong tương lai.",
+    "formula": {
+      "headers": [
+        "Loại câu",
+        "Công thức"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "S + will be + V-ing"
+        ],
+        [
+          "Phủ định",
+          "S + will not be + V-ing"
+        ],
+        [
+          "Nghi vấn",
+          "Will + S + be + V-ing?"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "At 8pm tomorrow, I will be watching TV."
+        ],
+        [
+          "This time next week, she will be travelling."
+        ]
+      ]
+    },
+    "usage": [
+      "Hành động sẽ đang xảy ra tại thời điểm xác định trong tương lai.",
+      "Hành động đã được lên kế hoạch hoặc là phần của thói quen tương lai."
+    ],
+    "signals": "At this time tomorrow/next week, At 8pm tomorrow, In the future."
+  },
+  {
+    "type": "lesson",
+    "id": "present-perfect-continuous",
+    "title": "Thì hiện tại hoàn thành tiếp diễn - Present Perfect Continuous",
+    "definition": "Thì hiện tại hoàn thành tiếp diễn nhấn mạnh sự kéo dài của hành động từ quá khứ đến hiện tại (có thể còn tiếp tục).",
+    "formula": {
+      "headers": [
+        "Loại câu",
+        "Công thức"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "S + have/has been + V-ing"
+        ],
+        [
+          "Phủ định",
+          "S + have not/has not been + V-ing"
+        ],
+        [
+          "Nghi vấn",
+          "Have/Has + S + been + V-ing?"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I have been learning English for 5 years."
+        ],
+        [
+          "She has been working here since 2020."
+        ]
+      ]
+    },
+    "usage": [
+      "Hành động bắt đầu trong quá khứ, kéo dài đến hiện tại (nhấn mạnh thời gian).",
+      "Hành động vừa kết thúc, kết quả còn thấy rõ.",
+      "Thường dùng với since, for."
+    ],
+    "signals": "Since, For, All day/week, How long..., Lately, Recently."
+  },
+  {
+    "type": "lesson",
+    "id": "conditional-type-0",
+    "title": "Câu điều kiện loại 0 - Zero Conditional",
+    "definition": "Câu điều kiện loại 0 diễn tả sự thật hiển nhiên, quy luật tự nhiên, thói quen. If + present → present.",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "If + S + V1, S + V1",
+          "If you heat ice, it melts."
+        ],
+        [
+          "If + S + V1, S + V1",
+          "If it rains, the ground gets wet."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Cách dùng",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Sự thật hiển nhiên",
+          "If water reaches 100°C, it boils."
+        ],
+        [
+          "Quy luật/Thói quen",
+          "If I'm tired, I go to bed early."
+        ]
+      ]
+    },
+    "usage": [
+      "Diễn tả sự thật hiển nhiên, khoa học.",
+      "Diễn tả thói quen, quy luật."
+    ],
+    "signals": "Always true, general facts, habits."
+  },
+  {
+    "type": "lesson",
+    "id": "conditional-type-1",
+    "title": "Câu điều kiện loại 1 - First Conditional",
+    "definition": "Câu điều kiện loại 1 diễn tả điều kiện có thể xảy ra ở hiện tại hoặc tương lai. If + present → future.",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "If + S + V1, S + will + V-inf",
+          "If it rains, I will stay at home."
+        ],
+        [
+          "If + S + V1, S + can/may/must + V-inf",
+          "If you study hard, you can pass."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "If you come early, we will have time to talk."
+        ],
+        [
+          "If she doesn't call, I will call her."
+        ]
+      ]
+    },
+    "usage": [
+      "Điều kiện có thể xảy ra trong tương lai.",
+      "Đề nghị, cảnh báo, thỏa thuận.",
+      "Có thể dùng Unless = If not."
+    ],
+    "signals": "If + present, will/can/may + V. Unless = if not."
+  },
+  {
+    "type": "lesson",
+    "id": "conditional-type-2",
+    "title": "Câu điều kiện loại 2 - Second Conditional",
+    "definition": "Câu điều kiện loại 2 diễn tả điều kiện không có thật ở hiện tại hoặc tương lai (giả định). If + past → would + V.",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "If + S + V2, S + would + V-inf",
+          "If I had money, I would buy a car."
+        ],
+        [
+          "If + S + were, S + would + V-inf",
+          "If I were you, I would tell the truth."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "If I were rich, I would travel the world."
+        ],
+        [
+          "If it didn't rain, we would go out."
+        ]
+      ]
+    },
+    "usage": [
+      "Điều kiện không có thật ở hiện tại (ước, giả định).",
+      "Lời khuyên: If I were you, I would...",
+      "Were dùng cho tất cả ngôi trong văn phong trang trọng."
+    ],
+    "signals": "If I were..., Would/Could/Might + V. Unreal present/future."
+  },
+  {
+    "type": "lesson",
+    "id": "conditional-type-3",
+    "title": "Câu điều kiện loại 3 - Third Conditional",
+    "definition": "Câu điều kiện loại 3 diễn tả điều kiện không có thật trong quá khứ (hối tiếc, phỏng đoán). If + had V3 → would have V3.",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "If + S + had + V3, S + would have + V3",
+          "If I had known, I would have told you."
+        ],
+        [
+          "Phủ định",
+          "If she hadn't been ill, she would have come."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "If I had studied harder, I would have passed the exam."
+        ],
+        [
+          "If you had told me, I would have helped."
+        ]
+      ]
+    },
+    "usage": [
+      "Điều kiện không có thật trong quá khứ.",
+      "Diễn tả hối tiếc về việc đã không làm.",
+      "Phỏng đoán về kết quả đã không xảy ra."
+    ],
+    "signals": "If + had V3, would have V3. Past unreal."
+  },
+  {
+    "type": "lesson",
+    "id": "passive-present-simple",
+    "title": "Bị động thì hiện tại đơn - Passive (Present Simple)",
+    "definition": "Câu bị động thì hiện tại đơn: S + am/is/are + V3 (by O). Chủ ngữ chịu tác động của hành động.",
+    "formula": {
+      "headers": [
+        "Chủ động",
+        "Bị động"
+      ],
+      "rows": [
+        [
+          "S + V1/V-s/es + O",
+          "S + am/is/are + V3 (by O)"
+        ],
+        [
+          "They build houses.",
+          "Houses are built (by them)."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "English is spoken all over the world."
+        ],
+        [
+          "The room is cleaned every day."
+        ]
+      ]
+    },
+    "usage": [
+      "Nhấn mạnh đối tượng chịu tác động.",
+      "Khi không biết hoặc không cần nêu chủ thể gây ra hành động."
+    ],
+    "signals": "Am/Is/Are + V3. By + O (optional)."
+  },
+  {
+    "type": "lesson",
+    "id": "passive-past-simple",
+    "title": "Bị động thì quá khứ đơn - Passive (Past Simple)",
+    "definition": "Câu bị động thì quá khứ đơn: S + was/were + V3 (by O).",
+    "formula": {
+      "headers": [
+        "Chủ động",
+        "Bị động"
+      ],
+      "rows": [
+        [
+          "S + V2 + O",
+          "S + was/were + V3 (by O)"
+        ],
+        [
+          "They built this house in 1990.",
+          "This house was built in 1990."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "The letter was sent yesterday."
+        ],
+        [
+          "The window was broken by the boy."
+        ]
+      ]
+    },
+    "usage": [
+      "Diễn tả hành động bị động đã xảy ra và kết thúc trong quá khứ."
+    ],
+    "signals": "Was/Were + V3."
+  },
+  {
+    "type": "lesson",
+    "id": "passive-modal",
+    "title": "Bị động với động từ khuyết thiếu - Passive with Modals",
+    "definition": "Câu bị động với can, could, may, might, must, should: S + modal + be + V3 (by O).",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "S + can be + V3",
+          "The problem can be solved."
+        ],
+        [
+          "S + must be + V3",
+          "The work must be done today."
+        ],
+        [
+          "S + should be + V3",
+          "Homework should be done carefully."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "This room can be used for meetings."
+        ],
+        [
+          "The door must be closed at night."
+        ]
+      ]
+    },
+    "usage": [
+      "Dùng khi cần diễn đạt bị động với khả năng, bắt buộc, hoặc lời khuyên."
+    ],
+    "signals": "Can/Could/May/Must/Should + be + V3."
+  },
+  {
+    "type": "lesson",
+    "id": "can",
+    "title": "Can - Có thể (khả năng, xin phép)",
+    "definition": "Diễn tả khả năng, xin phép, yêu cầu. Can + V-inf.",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Can + V (không có to)",
+          "I can swim."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I can swim."
+        ],
+        [
+          "Can I use your phone?"
+        ]
+      ]
+    },
+    "usage": [
+      "Khả năng hiện tại, xin phép, đề nghị."
+    ],
+    "signals": "Can + V (không có to)."
+  },
+  {
+    "type": "lesson",
+    "id": "could",
+    "title": "Could - Có thể (quá khứ, lịch sự)",
+    "definition": "Could là dạng quá khứ của can; cũng dùng để yêu cầu lịch sự hoặc khả năng trong quá khứ.",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Could + V-inf",
+          "I could run fast when I was young."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I could run fast when I was young."
+        ],
+        [
+          "Could you help me?"
+        ]
+      ]
+    },
+    "usage": [
+      "Khả năng quá khứ, yêu cầu lịch sự, điều kiện."
+    ],
+    "signals": "Could + V-inf."
+  },
+  {
+    "type": "lesson",
+    "id": "may",
+    "title": "May - Có thể (xin phép, phỏng đoán)",
+    "definition": "May dùng để xin phép lịch sự hoặc phỏng đoán (khả năng thấp).",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "May + V-inf",
+          "May I come in?"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "May I come in?"
+        ],
+        [
+          "It may rain tomorrow."
+        ]
+      ]
+    },
+    "usage": [
+      "Xin phép trang trọng, phỏng đoán không chắc."
+    ],
+    "signals": "May + V-inf."
+  },
+  {
+    "type": "lesson",
+    "id": "might",
+    "title": "Might - Có thể (phỏng đoán yếu hơn may)",
+    "definition": "Might dùng để phỏng đoán khả năng thấp hơn may; cũng là quá khứ của may.",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Might + V-inf",
+          "She might be at home."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "She might be at home."
+        ],
+        [
+          "I might go to the party."
+        ]
+      ]
+    },
+    "usage": [
+      "Phỏng đoán không chắc chắn, khả năng thấp."
+    ],
+    "signals": "Might + V-inf."
+  },
+  {
+    "type": "lesson",
+    "id": "must",
+    "title": "Must - Phải (bắt buộc)",
+    "definition": "Must diễn tả sự bắt buộc, nghĩa vụ mạnh hoặc suy luận chắc chắn.",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Must + V-inf",
+          "You must wear a seatbelt."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "You must wear a seatbelt."
+        ],
+        [
+          "He must be tired."
+        ]
+      ]
+    },
+    "usage": [
+      "Bắt buộc, nghĩa vụ, suy luận chắc chắn."
+    ],
+    "signals": "Must + V-inf. Mustn't = cấm."
+  },
+  {
+    "type": "lesson",
+    "id": "have-to",
+    "title": "Have to - Phải (bắt buộc do ngoại cảnh)",
+    "definition": "Have to diễn tả sự bắt buộc do quy định, hoàn cảnh bên ngoài (khác với must là do bản thân).",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Have to / Has to + V-inf",
+          "I have to work on Saturday."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I have to work on Saturday."
+        ],
+        [
+          "You have to pass the test."
+        ]
+      ]
+    },
+    "usage": [
+      "Bắt buộc do quy định, ngoại cảnh."
+    ],
+    "signals": "Have to / Has to + V-inf."
+  },
+  {
+    "type": "lesson",
+    "id": "should",
+    "title": "Should - Nên (lời khuyên)",
+    "definition": "Should dùng để đưa lời khuyên, gợi ý hoặc diễn tả điều nên làm.",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Should + V-inf",
+          "You should see a doctor."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "You should see a doctor."
+        ],
+        [
+          "We should leave now."
+        ]
+      ]
+    },
+    "usage": [
+      "Lời khuyên, gợi ý, mong đợi hợp lý."
+    ],
+    "signals": "Should + V-inf."
+  },
+  {
+    "type": "lesson",
+    "id": "ought-to",
+    "title": "Ought to - Nên (lời khuyên trang trọng)",
+    "definition": "Ought to tương tự should nhưng trang trọng hơn. Ought to + V-inf.",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Ought to + V-inf",
+          "You ought to apologize."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "You ought to apologize."
+        ],
+        [
+          "We ought to be more careful."
+        ]
+      ]
+    },
+    "usage": [
+      "Lời khuyên trang trọng, nghĩa vụ đạo đức."
+    ],
+    "signals": "Ought to + V-inf."
+  },
+  {
+    "type": "lesson",
+    "id": "would",
+    "title": "Would - Sẽ (thói quen quá khứ, lịch sự)",
+    "definition": "Would dùng cho thói quen trong quá khứ, lời mời lịch sự, hoặc trong câu điều kiện.",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Would + V-inf",
+          "When I was young, I would play football."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "When I was young, I would play football."
+        ],
+        [
+          "Would you like some tea?"
+        ]
+      ]
+    },
+    "usage": [
+      "Thói quen quá khứ, lời mời lịch sự, câu điều kiện."
+    ],
+    "signals": "Would + V-inf."
+  },
+  {
+    "type": "lesson",
+    "id": "used-to",
+    "title": "Used to - Đã từng (thói quen quá khứ)",
+    "definition": "Used to diễn tả thói quen hoặc tình trạng trong quá khứ nhưng đã chấm dứt.",
+    "formula": {
+      "headers": [
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Used to + V-inf",
+          "I used to smoke."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I used to smoke."
+        ],
+        [
+          "She used to live in London."
+        ]
+      ]
+    },
+    "usage": [
+      "Thói quen/tình trạng trong quá khứ, nay không còn."
+    ],
+    "signals": "Used to + V-inf. (chỉ quá khứ)."
+  },
+  {
+    "type": "lesson",
+    "id": "comparative-superlative",
+    "title": "So sánh hơn và so sánh nhất - Comparative and Superlative",
+    "definition": "So sánh hơn: short adj + -er than / more + long adj + than. So sánh nhất: the + -est / the most + adj.",
+    "formula": {
+      "headers": [
+        "Dạng",
+        "So sánh hơn",
+        "So sánh nhất"
+      ],
+      "rows": [
+        [
+          "Tính từ ngắn (1-2 âm)",
+          "adj + -er + than",
+          "the + adj + -est"
+        ],
+        [
+          "Tính từ dài",
+          "more + adj + than",
+          "the most + adj"
+        ],
+        [
+          "Bất quy tắc",
+          "good → better, bad → worse",
+          "best, worst"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "She is taller than me. / She is the tallest."
+        ],
+        [
+          "This is more expensive than that. / the most expensive."
+        ]
+      ]
+    },
+    "usage": [
+      "So sánh giữa 2 đối tượng: dùng so sánh hơn.",
+      "So sánh từ 3 đối tượng trở lên: dùng so sánh nhất.",
+      "Tính từ ngắn: thêm -er/-est. Tính từ dài: more/most."
+    ],
+    "signals": "Than (so sánh hơn), The (so sánh nhất), In/Of (phạm vi)."
+  },
+  {
+    "type": "lesson",
+    "id": "too-and-enough",
+    "title": "Too và Enough - Quá và Đủ",
+    "definition": "Too + adj/adv: quá (mức không mong muốn). Adj/Adv + enough: đủ. Enough + N: đủ (số lượng).",
+    "formula": {
+      "headers": [
+        "Cấu trúc",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "too + adj/adv + to V",
+          "It's too cold to go out."
+        ],
+        [
+          "adj/adv + enough + to V",
+          "She's old enough to drive."
+        ],
+        [
+          "enough + N",
+          "I don't have enough money."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "The box is too heavy to carry."
+        ],
+        [
+          "He's strong enough to lift it."
+        ]
+      ]
+    },
+    "usage": [
+      "Too: vượt quá mức, thường dẫn đến kết quả tiêu cực.",
+      "Enough: đủ để làm gì đó."
+    ],
+    "signals": "Too + adj. Adj + enough. Enough + N."
+  },
+  {
+    "type": "lesson",
+    "id": "so-such",
+    "title": "So...that và Such...that",
+    "definition": "So + adj/adv + that: quá...đến nỗi. Such + (a/an) + adj + N + that: một...đến nỗi.",
+    "formula": {
+      "headers": [
+        "Cấu trúc",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "So + adj/adv + that",
+          "She was so tired that she fell asleep."
+        ],
+        [
+          "Such (a/an) + adj + N + that",
+          "It was such a nice day that we went out."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "The film was so boring that I left."
+        ],
+        [
+          "He's such a good teacher that everyone likes him."
+        ]
+      ]
+    },
+    "usage": [
+      "So dùng với tính từ/trạng từ.",
+      "Such dùng với danh từ (có a/an nếu danh từ đếm được số ít)."
+    ],
+    "signals": "So + adj/adv. Such + (a/an) + adj + N."
+  },
+  {
+    "type": "lesson",
+    "id": "used-to-be-used-to",
+    "title": "Used to / Be used to / Get used to",
+    "definition": "Used to + V: đã từng (quá khứ). Be used to + V-ing/N: quen với. Get used to + V-ing/N: dần quen với.",
+    "formula": {
+      "headers": [
+        "Cấu trúc",
+        "Nghĩa",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "used to + V-inf",
+          "Đã từng (thói quen quá khứ)",
+          "I used to play tennis."
+        ],
+        [
+          "be used to + V-ing/N",
+          "Quen với (hiện tại)",
+          "I am used to getting up early."
+        ],
+        [
+          "get used to + V-ing/N",
+          "Dần quen với",
+          "I'm getting used to the new job."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "She used to live in Paris."
+        ],
+        [
+          "He is used to working at night."
+        ]
+      ]
+    },
+    "usage": [
+      "Used to: chỉ quá khứ, không dùng cho hiện tại.",
+      "Be/Get used to: theo sau là V-ing hoặc danh từ."
+    ],
+    "signals": "Used to V. Be/Get used to V-ing."
+  },
+  {
+    "type": "lesson",
+    "id": "would-rather-had-better",
+    "title": "Would rather và Had better",
+    "definition": "Would rather + V: thích...hơn (would rather not: không muốn). Had better + V: nên (lời khuyên mạnh, gần cảnh báo).",
+    "formula": {
+      "headers": [
+        "Cấu trúc",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "would rather + V-inf",
+          "I would rather stay home."
+        ],
+        [
+          "would rather + S + V2 (so sánh)",
+          "I'd rather you didn't smoke."
+        ],
+        [
+          "had better + V-inf",
+          "You had better leave now."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I'd rather not go to the party."
+        ],
+        [
+          "You'd better see a doctor."
+        ]
+      ]
+    },
+    "usage": [
+      "Would rather: thể hiện sở thích, lựa chọn.",
+      "Had better: khuyên nên làm (nếu không sẽ có hậu quả)."
+    ],
+    "signals": "Would rather. Had better (thường viết 'd better)."
+  },
+  {
+    "type": "lesson",
+    "id": "question-tags",
+    "title": "Câu hỏi đuôi - Question Tags",
+    "definition": "Câu hỏi đuôi là phần ngắn đứng cuối câu để xác nhận. Nếu câu chính khẳng định thì đuôi phủ định và ngược lại.",
+    "formula": {
+      "headers": [
+        "Câu chính",
+        "Đuôi",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Khẳng định",
+          "Phủ định",
+          "You are a student, aren't you?"
+        ],
+        [
+          "Phủ định",
+          "Khẳng định",
+          "She doesn't like it, does she?"
+        ],
+        [
+          "I'm..., aren't I?",
+          "Đặc biệt",
+          "I'm late, aren't I?"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "It's cold, isn't it?"
+        ],
+        [
+          "You won't tell anyone, will you?"
+        ]
+      ]
+    },
+    "usage": [
+      "Đuôi dùng trợ động từ hoặc be phù hợp với thì.",
+      "Chủ ngữ câu đuôi luôn là đại từ (it, they, he, she...).",
+      "Lên giọng ở đuôi = hỏi thật; xuống giọng = mong đợi đồng ý."
+    ],
+    "signals": "Trợ động từ + đại từ. Khẳng định ↔ Phủ định."
+  },
+  {
+    "type": "lesson",
+    "id": "articles-a-an-the",
+    "title": "Mạo từ A, An, The - Articles",
+    "definition": "A/An: mạo từ không xác định (danh từ đếm được số ít). A: trước phụ âm. An: trước nguyên âm (a, e, i, o, u). The: mạo từ xác định.",
+    "formula": {
+      "headers": [
+        "Mạo từ",
+        "Dùng khi",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "a",
+          "Danh từ số ít, bắt đầu bằng phụ âm",
+          "a book, a university"
+        ],
+        [
+          "an",
+          "Danh từ số ít, bắt đầu bằng nguyên âm",
+          "an apple, an hour"
+        ],
+        [
+          "the",
+          "Đã xác định, duy nhất, đã đề cập",
+          "the sun, the book I bought"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I need a pen. The pen is on the table."
+        ],
+        [
+          "An hour ago. The Earth moves around the Sun."
+        ]
+      ]
+    },
+    "usage": [
+      "A/An: lần đầu nhắc đến, chưa xác định.",
+      "The: đã xác định, người nghe biết đang nói về cái gì; sự vật duy nhất.",
+      "Không dùng a/an với danh từ không đếm được hoặc số nhiều."
+    ],
+    "signals": "A + phụ âm. An + nguyên âm. The = xác định."
+  },
+  {
+    "type": "lesson",
+    "id": "prepositions-time",
+    "title": "Giới từ chỉ thời gian - Prepositions of Time",
+    "definition": "At: giờ, thời điểm ngắn (at 5pm, at night). On: ngày, ngày lễ (on Monday, on Christmas Day). In: tháng, năm, mùa, buổi (in 2020, in the morning).",
+    "formula": {
+      "headers": [
+        "Giới từ",
+        "Dùng với",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "at",
+          "Giờ, at night, at noon, at weekend",
+          "at 7am, at midnight"
+        ],
+        [
+          "on",
+          "Ngày, ngày cụ thể",
+          "on Monday, on 25th December"
+        ],
+        [
+          "in",
+          "Tháng, năm, mùa, in the morning/afternoon",
+          "in January, in 2020"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I'll see you at 3 o'clock on Friday."
+        ],
+        [
+          "She was born in 1990 in summer."
+        ]
+      ]
+    },
+    "usage": [
+      "At: thời điểm cụ thể (giờ).",
+      "On: ngày.",
+      "In: khoảng thời gian dài hơn (tháng, năm)."
+    ],
+    "signals": "At + time. On + day/date. In + month/year/season."
+  },
+  {
+    "type": "lesson",
+    "id": "prepositions-place",
+    "title": "Giới từ chỉ nơi chốn - Prepositions of Place",
+    "definition": "In: trong (không gian 3 chiều). On: trên bề mặt. At: tại địa điểm (thường là điểm, địa chỉ).",
+    "formula": {
+      "headers": [
+        "Giới từ",
+        "Dùng khi",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "in",
+          "Trong (thành phố, phòng, nước)",
+          "in the room, in Vietnam"
+        ],
+        [
+          "on",
+          "Trên bề mặt",
+          "on the table, on the wall"
+        ],
+        [
+          "at",
+          "Tại địa điểm (điểm đến)",
+          "at the door, at home, at school"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I live in Hanoi. The book is on the desk."
+        ],
+        [
+          "Meet me at the station. She's at home."
+        ]
+      ]
+    },
+    "usage": [
+      "In: bên trong, trong phạm vi.",
+      "On: tiếp xúc bề mặt.",
+      "At: vị trí điểm (địa chỉ, nơi chốn cụ thể)."
+    ],
+    "signals": "In + place (inside). On + surface. At + point/place."
+  },
+  {
+    "type": "lesson",
+    "id": "some-any-no",
+    "title": "Some, Any, No - Một vài / Bất kỳ / Không",
+    "definition": "Some: dùng trong câu khẳng định, câu mời (would you like...). Any: câu phủ định và nghi vấn. No: nghĩa phủ định (no + N = not any).",
+    "formula": {
+      "headers": [
+        "Từ",
+        "Dùng trong",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "some",
+          "Khẳng định, câu mời",
+          "I have some money. Would you like some tea?"
+        ],
+        [
+          "any",
+          "Phủ định, nghi vấn",
+          "I don't have any time. Do you have any questions?"
+        ],
+        [
+          "no",
+          "Khẳng định nhưng mang nghĩa phủ định",
+          "I have no idea. There's no milk."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "There are some apples. There aren't any apples."
+        ],
+        [
+          "There is no sugar. = There isn't any sugar."
+        ]
+      ]
+    },
+    "usage": [
+      "Some: một vài, một ít (khẳng định hoặc mời).",
+      "Any: bất kỳ (phủ định, hỏi).",
+      "No + N = not any."
+    ],
+    "signals": "Some: +. Any: -, ?. No = not any."
+  },
+  {
+    "type": "lesson",
+    "id": "relative-clauses-who-which",
+    "title": "Mệnh đề quan hệ - Who, Which, That",
+    "definition": "Who: thay cho người (chủ ngữ). Which: thay cho vật/sự việc. That: thay cho cả người và vật (trong mệnh đề xác định).",
+    "formula": {
+      "headers": [
+        "Đại từ",
+        "Thay thế",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "who",
+          "Người (chủ ngữ)",
+          "The man who lives next door is a doctor."
+        ],
+        [
+          "which",
+          "Vật, sự việc",
+          "The book which I bought is interesting."
+        ],
+        [
+          "that",
+          "Người hoặc vật (xác định)",
+          "Everything that he said was true."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "The woman who is standing there is my teacher."
+        ],
+        [
+          "This is the house which/that was built in 1990."
+        ]
+      ]
+    },
+    "usage": [
+      "Who/Which/That làm chủ ngữ trong mệnh đề quan hệ thì không bỏ được.",
+      "That thường dùng thay who/which trong mệnh đề xác định.",
+      "Whom: thay cho người (tân ngữ); có thể bỏ nếu không có giới từ."
+    ],
+    "signals": "Who (person). Which (thing). That (person/thing, defining)."
+  },
+  {
+    "type": "lesson",
+    "id": "gerund-vs-infinitive",
+    "title": "Danh động từ (V-ing) và Động từ nguyên mẫu (to V)",
+    "definition": "Một số động từ chỉ đi với V-ing (enjoy, avoid, finish). Một số chỉ đi với to V (want, decide, hope). Một số đi với cả hai nhưng nghĩa khác (remember, forget, stop).",
+    "formula": {
+      "headers": [
+        "Theo sau bởi V-ing",
+        "Theo sau bởi to V"
+      ],
+      "rows": [
+        [
+          "enjoy, avoid, finish, mind, suggest",
+          "want, decide, hope, agree, promise"
+        ],
+        [
+          "keep, consider, imagine, risk",
+          "plan, expect, refuse, learn"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I enjoy swimming. She avoided answering."
+        ],
+        [
+          "I want to go. He decided to leave."
+        ]
+      ]
+    },
+    "usage": [
+      "V-ing: khi động từ là chủ ngữ hoặc sau giới từ.",
+      "To V: mục đích, sau tính từ (happy to see), sau một số động từ.",
+      "Remember/Forget/Stop + V-ing: việc đã xảy ra. + to V: việc cần làm."
+    ],
+    "signals": "Enjoy + V-ing. Want + to V. Remember + V-ing (past) / to V (future)."
+  },
+  {
+    "type": "lesson",
+    "id": "linking-although-however",
+    "title": "Liên từ Although, However, Therefore",
+    "definition": "Although/Though + clause: mặc dù (đứng đầu hoặc giữa câu). However: tuy nhiên (đứng đầu câu, sau dấu chấm phẩy). Therefore: do đó.",
+    "formula": {
+      "headers": [
+        "Từ",
+        "Vị trí",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Although",
+          "Đầu/giữa câu",
+          "Although it rained, we went out."
+        ],
+        [
+          "However",
+          "Đầu câu mới",
+          "It was cold. However, we went out."
+        ],
+        [
+          "Therefore",
+          "Kết quả",
+          "He was ill. Therefore, he didn't come."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Xem công thức."
+        ]
+      ]
+    },
+    "usage": [
+      "Nối ý tương phản (although) hoặc kết quả (therefore)."
+    ],
+    "signals": "Although + clause. However, ... Therefore, ..."
+  },
+  {
+    "type": "lesson",
+    "id": "countable-uncountable",
+    "title": "Danh từ đếm được và không đếm được",
+    "definition": "Danh từ đếm được: có số nhiều (a book, two books). Danh từ không đếm được: không có a/an, không số nhiều (water, rice, information).",
+    "formula": {
+      "headers": [
+        "Đếm được",
+        "Không đếm được"
+      ],
+      "rows": [
+        [
+          "a book, an apple, many books",
+          "water, rice, information, advice"
+        ],
+        [
+          "few/fewer, many",
+          "little/less, much"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Xem công thức."
+        ]
+      ]
+    },
+    "usage": [
+      "Đếm được: dùng a/an, many, few.",
+      "Không đếm được: dùng some, much, little (không dùng a/an)."
+    ],
+    "signals": "Many + countable. Much + uncountable."
+  },
+  {
+    "type": "lesson",
+    "id": "much-many-lot-of",
+    "title": "Much, Many, A lot of",
+    "definition": "Much: danh từ không đếm được (thường trong câu phủ định, nghi vấn). Many: danh từ đếm được. A lot of / Lots of: cả hai (thường trong câu khẳng định).",
+    "formula": {
+      "headers": [
+        "Từ",
+        "Dùng với",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "much",
+          "N không đếm được",
+          "I don't have much time."
+        ],
+        [
+          "many",
+          "N đếm được",
+          "There aren't many people."
+        ],
+        [
+          "a lot of",
+          "Cả hai (khẳng định)",
+          "She has a lot of friends."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Xem công thức."
+        ]
+      ]
+    },
+    "usage": [
+      "Much/Many thường dùng trong câu phủ định và nghi vấn.",
+      "A lot of thường dùng trong khẳng định."
+    ],
+    "signals": "Much + U. Many + C. A lot of + C/U."
+  },
+  {
+    "type": "lesson",
+    "id": "reported-speech-statements",
+    "title": "Câu tường thuật - Statements",
+    "definition": "Khi chuyển câu trực tiếp sang gián tiếp: lùi thì (present → past), đổi đại từ, trạng từ (now → then, today → that day).",
+    "formula": {
+      "headers": [
+        "Trực tiếp",
+        "Gián tiếp"
+      ],
+      "rows": [
+        [
+          "I am tired.",
+          "He said (that) he was tired."
+        ],
+        [
+          "I will go.",
+          "She said (that) she would go."
+        ],
+        [
+          "I have finished.",
+          "He said (that) he had finished."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Xem công thức."
+        ]
+      ]
+    },
+    "usage": [
+      "Lùi thì: present → past, will → would, can → could.",
+      "Đổi ngôi, đổi trạng từ thời gian/nơi chốn."
+    ],
+    "signals": "Say/Tell + (that) + clause. Lùi thì."
+  },
+  {
+    "type": "lesson",
+    "id": "reported-speech-questions",
+    "title": "Câu tường thuật - Questions",
+    "definition": "Câu hỏi Yes/No: asked (sb) if/whether + S + V (lùi thì). Câu hỏi Wh: asked (sb) + từ để hỏi + S + V (lùi thì).",
+    "formula": {
+      "headers": [
+        "Trực tiếp",
+        "Gián tiếp"
+      ],
+      "rows": [
+        [
+          "Do you like it?",
+          "He asked (me) if I liked it."
+        ],
+        [
+          "Where do you live?",
+          "She asked (him) where he lived."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Xem công thức."
+        ]
+      ]
+    },
+    "usage": [
+      "Bỏ trợ động từ do/does/did, đổi thành S + V (lùi thì).",
+      "If/Whether cho câu hỏi Yes/No."
+    ],
+    "signals": "Asked + if/whether. Asked + wh-word."
+  },
+  {
+    "type": "lesson",
+    "id": "wish-if-only",
+    "title": "Wish và If only",
+    "definition": "Wish/If only + V2 (were): ước về hiện tại (không có thật). Wish + had V3: ước về quá khứ. Wish + would: ước về tương lai (phàn nàn).",
+    "formula": {
+      "headers": [
+        "Loại",
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Hiện tại",
+          "wish + S + V2/were",
+          "I wish I were rich."
+        ],
+        [
+          "Quá khứ",
+          "wish + S + had V3",
+          "I wish I had known."
+        ],
+        [
+          "Tương lai",
+          "wish + S + would V",
+          "I wish it would stop raining."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Xem công thức."
+        ]
+      ]
+    },
+    "usage": [
+      "Ước về hiện tại: dùng past (were cho tất cả ngôi).",
+      "Ước về quá khứ: had V3.",
+      "Ước về tương lai: would V (thường phàn nàn)."
+    ],
+    "signals": "Wish + past (unreal)."
+  },
+  {
+    "type": "lesson",
+    "id": "subject-verb-agreement",
+    "title": "Sự hòa hợp chủ ngữ - động từ (Subject-Verb Agreement)",
+    "definition": "Chủ ngữ số ít → động từ số ít (V-s/es). Chủ ngữ số nhiều → động từ nguyên thể. Each/Every + N → V số ít. N1 + as well as + N2 → V theo N1.",
+    "formula": {
+      "headers": [
+        "Chủ ngữ",
+        "Động từ"
+      ],
+      "rows": [
+        [
+          "He/She/It, Each student",
+          "V-s/es"
+        ],
+        [
+          "I/You/We/They, Students",
+          "V-inf"
+        ],
+        [
+          "The number of + N",
+          "V số ít. A number of + N",
+          "V số nhiều"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Xem công thức."
+        ]
+      ]
+    },
+    "usage": [
+      "Luôn xác định chủ ngữ chính (có thể sau of, with, as well as).",
+      "Each, Every, Nobody, Someone → V số ít."
+    ],
+    "signals": "S (singular) + V-s. S (plural) + V."
+  },
+  {
+    "type": "lesson",
+    "id": "adverbs-position",
+    "title": "Vị trí trạng từ trong câu",
+    "definition": "Trạng từ cách thức (quickly): thường sau động từ hoặc sau tân ngữ. Trạng từ tần suất (always): trước động từ thường, sau be. Trạng từ thời gian (yesterday): đầu hoặc cuối câu.",
+    "formula": {
+      "headers": [
+        "Loại",
+        "Vị trí",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Cách thức",
+          "Sau V hoặc sau O",
+          "He speaks English well."
+        ],
+        [
+          "Tần suất",
+          "Trước V thường, sau be",
+          "She is always late. He never lies."
+        ],
+        [
+          "Thời gian",
+          "Đầu/cuối câu",
+          "Yesterday I met him. I'll call you tomorrow."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Xem công thức."
+        ]
+      ]
+    },
+    "usage": [
+      "Trạng từ tần suất: giữa chủ ngữ và động từ (sau be).",
+      "Trạng từ cách thức: sau động từ (hoặc sau tân ngữ)."
+    ],
+    "signals": "Frequency: before main V, after be. Manner: after V/O."
+  },
+  {
+    "type": "lesson",
+    "id": "both-either-neither",
+    "title": "Both, Either, Neither",
+    "definition": "Both: cả hai. Either: một trong hai (khẳng định). Neither: không cái nào trong hai. Both + N (plural) + V plural. Either/Neither + N (singular) + V singular.",
+    "formula": {
+      "headers": [
+        "Từ",
+        "Nghĩa",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "both",
+          "Cả hai",
+          "Both (of) the books are good."
+        ],
+        [
+          "either",
+          "Một trong hai",
+          "Either option is fine."
+        ],
+        [
+          "neither",
+          "Không cái nào",
+          "Neither answer is correct."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Xem công thức."
+        ]
+      ]
+    },
+    "usage": [
+      "Both...and. Either...or. Neither...nor.",
+      "Either/Neither of + N (plural) + V singular (formal)."
+    ],
+    "signals": "Both + plural. Either/Neither + singular."
+  },
+  {
+    "type": "lesson",
+    "id": "phrasal-verbs-basics",
+    "title": "Cụm động từ (Phrasal Verbs) - Cơ bản",
+    "definition": "Phrasal verb = động từ + giới từ/trạng từ (look after, give up). Nghĩa thường khác nghĩa động từ gốc. Có loại có tân ngữ ở giữa (turn off the light = turn the light off).",
+    "formula": {
+      "headers": [
+        "Phrasal verb",
+        "Nghĩa",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "look after",
+          "Chăm sóc",
+          "She looks after her mother."
+        ],
+        [
+          "give up",
+          "Từ bỏ",
+          "Don't give up."
+        ],
+        [
+          "turn on/off",
+          "Bật/Tắt",
+          "Turn off the TV."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Xem công thức."
+        ]
+      ]
+    },
+    "usage": [
+      "Học thuộc nghĩa từng cụm.",
+      "Một số có thể tách (turn it off), một số không (look after him)."
+    ],
+    "signals": "Verb + particle. Meaning often different from verb."
+  },
+  {
+    "type": "lesson",
+    "id": "past-perfect-continuous",
+    "title": "Thì quá khứ hoàn thành tiếp diễn - Past Perfect Continuous",
+    "definition": "S + had been + V-ing. Diễn tả hành động kéo dài trước một thời điểm/một hành động khác trong quá khứ.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "S + had been + V-ing. Diễn tả hành động kéo dài trước một thời điểm/một hành độn..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Before she left, she had been working for 3 hours."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Before/By the time, For, Since."
+  },
+  {
+    "type": "lesson",
+    "id": "future-perfect",
+    "title": "Thì tương lai hoàn thành - Future Perfect",
+    "definition": "S + will have + V3. Diễn tả hành động hoàn thành trước một thời điểm trong tương lai.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "S + will have + V3. Diễn tả hành động hoàn thành trước một thời điểm trong tương..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "By 2030, I will have graduated."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "By + time in future, By then."
+  },
+  {
+    "type": "lesson",
+    "id": "passive-present-continuous",
+    "title": "Bị động thì hiện tại tiếp diễn",
+    "definition": "S + am/is/are being + V3. The house is being built.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "S + am/is/are being + V3. The house is being built."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Đang bị (làm gì đó)."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Is/Are being + V3."
+  },
+  {
+    "type": "lesson",
+    "id": "passive-present-perfect",
+    "title": "Bị động thì hiện tại hoàn thành",
+    "definition": "S + have/has been + V3. The letter has been sent.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "S + have/has been + V3. The letter has been sent."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Đã bị (kết quả đến hiện tại)."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Have/Has been + V3."
+  },
+  {
+    "type": "lesson",
+    "id": "indirect-questions",
+    "title": "Câu hỏi gián tiếp - Indirect Questions",
+    "definition": "Could you tell me + wh-word + S + V? (không đảo trợ động từ). I wonder where he is.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Could you tell me + wh-word + S + V? (không đảo trợ động từ). I wonder where he ..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Lịch sự hơn câu hỏi trực tiếp."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Could you tell me... I wonder..."
+  },
+  {
+    "type": "lesson",
+    "id": "ellipsis-so-do-i",
+    "title": "So do I / Neither do I",
+    "definition": "So + trợ ĐT + S: đồng ý khẳng định. Neither/Nor + trợ ĐT + S: đồng ý phủ định. I like coffee. - So do I.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "So + trợ ĐT + S: đồng ý khẳng định. Neither/Nor + trợ ĐT + S: đồng ý phủ định. I..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Đồng ý ngắn gọn."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "So do I. Neither do I."
+  },
+  {
+    "type": "lesson",
+    "id": "cleft-sentences",
+    "title": "Câu chẻ - Cleft Sentences (It is...that)",
+    "definition": "Nhấn mạnh thành phần: It is/was + thành phần nhấn mạnh + that + clause. It was in Paris that I met him.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Nhấn mạnh thành phần: It is/was + thành phần nhấn mạnh + that + clause. It was i..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Nhấn mạnh chủ ngữ, tân ngữ, trạng từ."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "It is...that/who/which."
+  },
+  {
+    "type": "lesson",
+    "id": "inversion",
+    "title": "Đảo ngữ - Inversion",
+    "definition": "Never/Rarely/Seldom + trợ ĐT + S + V. Not only...but also... Hardly had I left when...",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Never/Rarely/Seldom + trợ ĐT + S + V. Not only...but also... Hardly had I left w..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Nhấn mạnh, trang trọng."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Never had I seen... Not only did he..."
+  },
+  {
+    "type": "lesson",
+    "id": "despite-in-spite-of",
+    "title": "Despite và In spite of",
+    "definition": "Despite/In spite of + N/V-ing: mặc dù (theo sau bởi danh từ hoặc V-ing, không phải mệnh đề).",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Despite/In spite of + N/V-ing: mặc dù (theo sau bởi danh từ hoặc V-ing, không ph..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Despite the rain, we went out."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Despite/In spite of + N/V-ing."
+  },
+  {
+    "type": "lesson",
+    "id": "because-because-of",
+    "title": "Because và Because of",
+    "definition": "Because + clause (S + V). Because of + N/V-ing. I stayed home because it rained. I stayed home because of the rain.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Because + clause (S + V). Because of + N/V-ing. I stayed home because it rained...."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Because: theo sau là câu. Because of: theo sau là N/V-ing."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Because + clause. Because of + N."
+  },
+  {
+    "type": "lesson",
+    "id": "so-that-in-order-to",
+    "title": "So that và In order to",
+    "definition": "In order to/To + V: để (mục đích). So that + S + can/could/will/would + V: để cho ai đó làm gì.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "In order to/To + V: để (mục đích). So that + S + can/could/will/would + V: để ch..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I study hard to pass. I study hard so that I can pass."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "To/In order to + V. So that + clause."
+  },
+  {
+    "type": "lesson",
+    "id": "definite-article-the",
+    "title": "Cách dùng mạo từ The",
+    "definition": "The: sông, biển, dãy núi (the Thames, the Pacific); nhạc cụ (play the piano); so sánh nhất; đã đề cập; duy nhất (the sun).",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "The: sông, biển, dãy núi (the Thames, the Pacific); nhạc cụ (play the piano); so..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "The Earth, the rich, the same"
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "The + adj = nhóm người (the poor). The + N đã xác định."
+  },
+  {
+    "type": "lesson",
+    "id": "zero-article",
+    "title": "Không dùng mạo từ - Zero Article",
+    "definition": "Không dùng the: bữa ăn (breakfast), môn học (math), ngôn ngữ (English), thể thao (football), tên riêng (Vietnam).",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Không dùng the: bữa ăn (breakfast), môn học (math), ngôn ngữ (English), thể thao..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I have breakfast at 7. She speaks English."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Meals, languages, sports, proper nouns."
+  },
+  {
+    "type": "lesson",
+    "id": "few-little",
+    "title": "Few và Little",
+    "definition": "Few: danh từ đếm được số nhiều (rất ít, mang nghĩa tiêu cực). A few: một vài (ít nhưng đủ). Little: không đếm được (rất ít). A little: một chút.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Few: danh từ đếm được số nhiều (rất ít, mang nghĩa tiêu cực). A few: một vài (ít..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Few people came. I have a little money."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Few/A few + C (plural). Little/A little + U."
+  },
+  {
+    "type": "lesson",
+    "id": "another-other-the-other",
+    "title": "Another, Other, The other",
+    "definition": "Another: một cái khác (số ít). Other: những cái khác (số nhiều, không xác định). The other: cái còn lại (xác định).",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Another: một cái khác (số ít). Other: những cái khác (số nhiều, không xác định)...."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I need another cup. The other day."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Another + singular. Other + plural. The other = còn lại."
+  },
+  {
+    "type": "lesson",
+    "id": "all-most-some-none",
+    "title": "All, Most, Some, None",
+    "definition": "All (of) + N: tất cả. Most (of): hầu hết. Some: một số. None: không ai/cái gì. None + V số ít (formal) hoặc số nhiều.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "All (of) + N: tất cả. Most (of): hầu hết. Some: một số. None: không ai/cái gì. N..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "All students passed. None of them was/were there."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "All/Most/Some/None + of + N."
+  },
+  {
+    "type": "lesson",
+    "id": "each-every",
+    "title": "Each và Every",
+    "definition": "Each: từng cái một (nhấn từng cá thể), có thể dùng cho 2. Every: mọi (nhấn toàn bộ), từ 3 trở lên. Each/Every + N (singular) + V singular.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Each: từng cái một (nhấn từng cá thể), có thể dùng cho 2. Every: mọi (nhấn toàn ..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Each student has a book. Every day."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Each + singular. Every + singular (all)."
+  },
+  {
+    "type": "lesson",
+    "id": "possessive-adjectives-pronouns",
+    "title": "Tính từ sở hữu và Đại từ sở hữu",
+    "definition": "My, your, his, her, its, our, their + N. Mine, yours, his, hers, its, ours, theirs (thay thế N). This is my book. This book is mine.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "My, your, his, her, its, our, their + N. Mine, yours, his, hers, its, ours, thei..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Tính từ sở hữu + N. Đại từ sở hữu đứng một mình."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "My book / This is mine."
+  },
+  {
+    "type": "lesson",
+    "id": "reflexive-pronouns",
+    "title": "Đại từ phản thân - Reflexive Pronouns",
+    "definition": "Myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Dùng khi chủ ngữ và tân ngữ cùng một đối tượng.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. D..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I hurt myself. She taught herself."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "By myself = alone. Enjoy yourself."
+  },
+  {
+    "type": "lesson",
+    "id": "there-is-are",
+    "title": "There is / There are",
+    "definition": "There is + N số ít / N không đếm được. There are + N số nhiều. There was/were (quá khứ). There will be. There has/have been.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "There is + N số ít / N không đếm được. There are + N số nhiều. There was/were (q..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "There is a book. There are two books."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "There is/are + N. N quyết định is/are."
+  },
+  {
+    "type": "lesson",
+    "id": "have-got",
+    "title": "Have got / Has got",
+    "definition": "Have got = have (sở hữu). I've got a car. Have you got...? (Anh-Anh). Have/Has + got + N.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Have got = have (sở hữu). I've got a car. Have you got...? (Anh-Anh). Have/Has +..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "She has got blue eyes. I haven't got any money."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Have got = have (possession)."
+  },
+  {
+    "type": "lesson",
+    "id": "imperatives",
+    "title": "Câu mệnh lệnh - Imperatives",
+    "definition": "V-inf (đầu câu). Don't + V-inf (phủ định). Do + V (nhấn mạnh). Sit down. Don't move. Do be quiet.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "V-inf (đầu câu). Don't + V-inf (phủ định). Do + V (nhấn mạnh). Sit down. Don't m..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Mệnh lệnh, yêu cầu, chỉ dẫn, lời mời."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "V-inf. Don't + V-inf."
+  },
+  {
+    "type": "lesson",
+    "id": "exclamations-what-how",
+    "title": "Câu cảm thán - What và How",
+    "definition": "What + (a/an) + adj + N! What a nice day! How + adj/adv + S + V! How beautiful she is! How + S + V! How I miss you!",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "What + (a/an) + adj + N! What a nice day! How + adj/adv + S + V! How beautiful s..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "What + N. How + adj/adv hoặc How + clause."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "What a/an...! How + adj...!"
+  },
+  {
+    "type": "lesson",
+    "id": "double-comparative",
+    "title": "So sánh kép - Double Comparative",
+    "definition": "The + so sánh hơn + S + V, the + so sánh hơn + S + V. Càng...càng... The more you study, the more you learn.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "The + so sánh hơn + S + V, the + so sánh hơn + S + V. Càng...càng... The more yo..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Hai biến đổi cùng chiều."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "The more...the more... The + comparative...the + comparative."
+  },
+  {
+    "type": "lesson",
+    "id": "as-as-equality",
+    "title": "So sánh bằng - As...as",
+    "definition": "As + adj/adv + as. Not as/so + adj/adv + as. She is as tall as me. This is not as good as that.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "As + adj/adv + as. Not as/so + adj/adv + as. She is as tall as me. This is not a..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "So sánh ngang bằng."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "As + adj/adv + as. Not as/so...as."
+  },
+  {
+    "type": "lesson",
+    "id": "relative-clauses-whose-whom",
+    "title": "Mệnh đề quan hệ - Whose, Whom",
+    "definition": "Whose: thay cho his/her/their + N (sở hữu). Whom: thay cho người (tân ngữ), trang trọng. The man whose car was stolen. The woman whom I met.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Whose: thay cho his/her/their + N (sở hữu). Whom: thay cho người (tân ngữ), tran..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Whose + N. Whom làm tân ngữ."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Whose (possession). Whom (object, formal)."
+  },
+  {
+    "type": "lesson",
+    "id": "participle-clauses",
+    "title": "Mệnh đề phân từ - Participle Clauses",
+    "definition": "V-ing: chủ động, đồng thời. V3 (past participle): bị động. Seeing her, I smiled. Built in 1990, the house is old.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "V-ing: chủ động, đồng thời. V3 (past participle): bị động. Seeing her, I smiled...."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Rút gọn mệnh đề khi chủ ngữ giống nhau."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "V-ing (active). V3 (passive)."
+  },
+  {
+    "type": "lesson",
+    "id": "direct-indirect-objects",
+    "title": "Tân ngữ trực tiếp và gián tiếp",
+    "definition": "S + V + Oi + Od (give him a book). S + V + Od + to/for + Oi (give a book to him). Oi = người, Od = vật. Give, send, show + to. Buy, make + for.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "S + V + Oi + Od (give him a book). S + V + Od + to/for + Oi (give a book to him)..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Give me the book. Give the book to me."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "V + Oi + Od. V + Od + to/for + Oi."
+  },
+  {
+    "type": "lesson",
+    "id": "collocations-common",
+    "title": "Collocation thường gặp",
+    "definition": "Động từ + danh từ: make a decision, do homework, take a photo. Tính từ + danh từ: heavy rain, strong coffee. Trạng từ + tính từ: deeply sorry.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Động từ + danh từ: make a decision, do homework, take a photo. Tính từ + danh từ..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Make a mistake. Do your best. Take a break."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Học theo cụm, không dịch từng từ."
+  },
+  {
+    "type": "lesson",
+    "id": "word-formation-prefixes",
+    "title": "Cách tạo từ - Tiền tố (Prefixes)",
+    "definition": "Un-, in-, im-, dis-, mis- (phủ định): unhappy, incorrect, impossible. Re- (lại): rewrite. Pre- (trước): preview. Over- (quá): overload.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Un-, in-, im-, dis-, mis- (phủ định): unhappy, incorrect, impossible. Re- (lại):..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Unhappy, rewrite, preview, overload."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Un-/In-/Dis- = not. Re- = again."
+  },
+  {
+    "type": "lesson",
+    "id": "word-formation-suffixes",
+    "title": "Cách tạo từ - Hậu tố (Suffixes)",
+    "definition": "-tion/-sion: N (action, decision). -ment: N (development). -ful: adj (careful). -less: adj (careless). -ly: adv (quickly). -er/-or: N chỉ người (teacher).",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "-tion/-sion: N (action, decision). -ment: N (development). -ful: adj (careful). ..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Care → careful, carelessly. Act → action."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "-tion = N. -ful/-less = adj. -ly = adv."
+  },
+  {
+    "type": "lesson",
+    "id": "capitalization-rules",
+    "title": "Quy tắc viết hoa - Capitalization",
+    "definition": "Viết hoa: đầu câu, tên riêng (người, địa danh), ngôn ngữ, quốc tịch, tháng/ngày lễ, I, tên môn học khi là môn cụ thể.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Viết hoa: đầu câu, tên riêng (người, địa danh), ngôn ngữ, quốc tịch, tháng/ngày ..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I live in Hanoi. She studies English. Christmas."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "First letter of sentence. Proper nouns. I."
+  },
+  {
+    "type": "lesson",
+    "id": "punctuation-basics",
+    "title": "Dấu câu cơ bản - Punctuation",
+    "definition": "Dấu chấm (.): kết thúc câu. Dấu phẩy (,): liệt kê, sau trạng từ đầu câu, mệnh đề không xác định. Dấu chấm hỏi (?): câu hỏi. Dấu chấm than (!): cảm thán.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Dấu chấm (.): kết thúc câu. Dấu phẩy (,): liệt kê, sau trạng từ đầu câu, mệnh đề..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Hello, how are you? What a day!"
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Period, comma, question mark, exclamation."
+  },
+  {
+    "type": "lesson",
+    "id": "numbers-dates-time",
+    "title": "Số, ngày tháng, giờ",
+    "definition": "Số đếm: one, two. Số thứ tự: first, second. Ngày: the 25th of December / December 25th. Giờ: 3:15 = three fifteen / a quarter past three.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Số đếm: one, two. Số thứ tự: first, second. Ngày: the 25th of December / Decembe..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I was born on the 5th of May. It's half past six."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Ordinals: first, second. Date: on + day, in + month."
+  },
+  {
+    "type": "lesson",
+    "id": "apostrophe-contractions",
+    "title": "Dấu nháy đơn - Apostrophe và Contractions",
+    "definition": "Sở hữu: the dog's tail, students' books (số nhiều tận cùng s). Viết tắt: I'm, don't, it's (it is). Lưu ý: its (sở hữu) ≠ it's (it is).",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Sở hữu: the dog's tail, students' books (số nhiều tận cùng s). Viết tắt: I'm, do..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "John's book. They're here. Its color."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "'s = is/has or possessive. s' = plural possessive."
+  },
+  {
+    "type": "lesson",
+    "id": "spelling-rules-ing-ed",
+    "title": "Quy tắc chính tả V-ing và V-ed",
+    "definition": "V-ing: bỏ e (make → making), gấp đôi phụ âm (run → running) khi 1 nguyên âm + 1 phụ âm + stress. V-ed: tương tự (stop → stopped).",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "V-ing: bỏ e (make → making), gấp đôi phụ âm (run → running) khi 1 nguyên âm + 1 ..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Swim → swimming. Love → loved."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Double consonant: 1 vowel + 1 consonant + stress."
+  },
+  {
+    "type": "lesson",
+    "id": "sentence-types",
+    "title": "Các loại câu theo mục đích",
+    "definition": "Câu trần thuật (declarative): I am a student. Câu hỏi (interrogative): Are you OK? Câu mệnh lệnh (imperative): Sit down. Câu cảm thán (exclamatory): How nice!",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Câu trần thuật (declarative): I am a student. Câu hỏi (interrogative): Are you O..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Statement, question, command, exclamation."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Declarative, interrogative, imperative, exclamatory."
+  },
+  {
+    "type": "lesson",
+    "id": "simple-compound-complex",
+    "title": "Câu đơn, câu ghép, câu phức",
+    "definition": "Câu đơn: 1 mệnh đề độc lập. Câu ghép: 2+ mệnh đề độc lập (and, but, or). Câu phức: 1 độc lập + 1+ phụ thuộc (because, when, although).",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Câu đơn: 1 mệnh đề độc lập. Câu ghép: 2+ mệnh đề độc lập (and, but, or). Câu phứ..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I left. I left and she stayed. I left because she stayed."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Simple: 1 clause. Compound: and/but/or. Complex: subordinator."
+  },
+  {
+    "type": "lesson",
+    "id": "connectors-linking",
+    "title": "Từ nối - Connectors và Linking words",
+    "definition": "Thêm ý: and, moreover, furthermore. Tương phản: but, however, although. Nguyên nhân: because, since, as. Kết quả: so, therefore. Trình tự: first, then, finally.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Thêm ý: and, moreover, furthermore. Tương phản: but, however, although. Nguyên n..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I was tired. However, I went out."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "And, but, however, because, so, first, then."
+  },
+  {
+    "type": "lesson",
+    "id": "common-mistakes-vietnamese",
+    "title": "Lỗi thường gặp (người Việt)",
+    "definition": "Nhầm since/for (since + điểm, for + khoảng). Nhầm say/tell (say sth, tell sb sth). Nhầm make/do (make a cake, do homework). Bỏ 's' ngôi 3 số ít. Nhầm much/many.",
+    "formula": {
+      "headers": [
+        "Công thức / Nội dung"
+      ],
+      "rows": [
+        [
+          "Nhầm since/for (since + điểm, for + khoảng). Nhầm say/tell (say sth, tell sb sth..."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "I have been here for 2 years. He says hello. She tells me a story."
+        ]
+      ]
+    },
+    "usage": [
+      "Xem định nghĩa và ví dụ."
+    ],
+    "signals": "Since/For. Say/Tell. Make/Do. Third person -s."
+  },
+  {
+    "type": "lesson",
+    "id": "extra-89",
+    "title": "Ôn tập và mở rộng - Bài 89",
+    "definition": "Đây là bài ôn tập. Hãy xem lại các bài trước và thực hành với tab Luyện tập.",
+    "formula": {
+      "headers": [
+        "Gợi ý"
+      ],
+      "rows": [
+        [
+          "Ôn lại các thì, câu điều kiện, bị động, và từ nối."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Practice makes perfect."
+        ]
+      ]
+    },
+    "usage": [
+      "Ôn tập định kỳ giúp ghi nhớ lâu hơn.",
+      "Kết hợp đọc (tab Học) và làm bài (tab Luyện tập)."
+    ],
+    "signals": "Review, Practice, Repeat."
+  },
+  {
+    "type": "lesson",
+    "id": "extra-90",
+    "title": "Ôn tập và mở rộng - Bài 90",
+    "definition": "Đây là bài ôn tập. Hãy xem lại các bài trước và thực hành với tab Luyện tập.",
+    "formula": {
+      "headers": [
+        "Gợi ý"
+      ],
+      "rows": [
+        [
+          "Ôn lại các thì, câu điều kiện, bị động, và từ nối."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Practice makes perfect."
+        ]
+      ]
+    },
+    "usage": [
+      "Ôn tập định kỳ giúp ghi nhớ lâu hơn.",
+      "Kết hợp đọc (tab Học) và làm bài (tab Luyện tập)."
+    ],
+    "signals": "Review, Practice, Repeat."
+  },
+  {
+    "type": "lesson",
+    "id": "extra-91",
+    "title": "Ôn tập và mở rộng - Bài 91",
+    "definition": "Đây là bài ôn tập. Hãy xem lại các bài trước và thực hành với tab Luyện tập.",
+    "formula": {
+      "headers": [
+        "Gợi ý"
+      ],
+      "rows": [
+        [
+          "Ôn lại các thì, câu điều kiện, bị động, và từ nối."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Practice makes perfect."
+        ]
+      ]
+    },
+    "usage": [
+      "Ôn tập định kỳ giúp ghi nhớ lâu hơn.",
+      "Kết hợp đọc (tab Học) và làm bài (tab Luyện tập)."
+    ],
+    "signals": "Review, Practice, Repeat."
+  },
+  {
+    "type": "lesson",
+    "id": "extra-92",
+    "title": "Ôn tập và mở rộng - Bài 92",
+    "definition": "Đây là bài ôn tập. Hãy xem lại các bài trước và thực hành với tab Luyện tập.",
+    "formula": {
+      "headers": [
+        "Gợi ý"
+      ],
+      "rows": [
+        [
+          "Ôn lại các thì, câu điều kiện, bị động, và từ nối."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Practice makes perfect."
+        ]
+      ]
+    },
+    "usage": [
+      "Ôn tập định kỳ giúp ghi nhớ lâu hơn.",
+      "Kết hợp đọc (tab Học) và làm bài (tab Luyện tập)."
+    ],
+    "signals": "Review, Practice, Repeat."
+  },
+  {
+    "type": "lesson",
+    "id": "extra-93",
+    "title": "Ôn tập và mở rộng - Bài 93",
+    "definition": "Đây là bài ôn tập. Hãy xem lại các bài trước và thực hành với tab Luyện tập.",
+    "formula": {
+      "headers": [
+        "Gợi ý"
+      ],
+      "rows": [
+        [
+          "Ôn lại các thì, câu điều kiện, bị động, và từ nối."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Practice makes perfect."
+        ]
+      ]
+    },
+    "usage": [
+      "Ôn tập định kỳ giúp ghi nhớ lâu hơn.",
+      "Kết hợp đọc (tab Học) và làm bài (tab Luyện tập)."
+    ],
+    "signals": "Review, Practice, Repeat."
+  },
+  {
+    "type": "lesson",
+    "id": "extra-94",
+    "title": "Ôn tập và mở rộng - Bài 94",
+    "definition": "Đây là bài ôn tập. Hãy xem lại các bài trước và thực hành với tab Luyện tập.",
+    "formula": {
+      "headers": [
+        "Gợi ý"
+      ],
+      "rows": [
+        [
+          "Ôn lại các thì, câu điều kiện, bị động, và từ nối."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Practice makes perfect."
+        ]
+      ]
+    },
+    "usage": [
+      "Ôn tập định kỳ giúp ghi nhớ lâu hơn.",
+      "Kết hợp đọc (tab Học) và làm bài (tab Luyện tập)."
+    ],
+    "signals": "Review, Practice, Repeat."
+  },
+  {
+    "type": "lesson",
+    "id": "extra-95",
+    "title": "Ôn tập và mở rộng - Bài 95",
+    "definition": "Đây là bài ôn tập. Hãy xem lại các bài trước và thực hành với tab Luyện tập.",
+    "formula": {
+      "headers": [
+        "Gợi ý"
+      ],
+      "rows": [
+        [
+          "Ôn lại các thì, câu điều kiện, bị động, và từ nối."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Practice makes perfect."
+        ]
+      ]
+    },
+    "usage": [
+      "Ôn tập định kỳ giúp ghi nhớ lâu hơn.",
+      "Kết hợp đọc (tab Học) và làm bài (tab Luyện tập)."
+    ],
+    "signals": "Review, Practice, Repeat."
+  },
+  {
+    "type": "lesson",
+    "id": "extra-96",
+    "title": "Ôn tập và mở rộng - Bài 96",
+    "definition": "Đây là bài ôn tập. Hãy xem lại các bài trước và thực hành với tab Luyện tập.",
+    "formula": {
+      "headers": [
+        "Gợi ý"
+      ],
+      "rows": [
+        [
+          "Ôn lại các thì, câu điều kiện, bị động, và từ nối."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Practice makes perfect."
+        ]
+      ]
+    },
+    "usage": [
+      "Ôn tập định kỳ giúp ghi nhớ lâu hơn.",
+      "Kết hợp đọc (tab Học) và làm bài (tab Luyện tập)."
+    ],
+    "signals": "Review, Practice, Repeat."
+  },
+  {
+    "type": "lesson",
+    "id": "extra-97",
+    "title": "Ôn tập và mở rộng - Bài 97",
+    "definition": "Đây là bài ôn tập. Hãy xem lại các bài trước và thực hành với tab Luyện tập.",
+    "formula": {
+      "headers": [
+        "Gợi ý"
+      ],
+      "rows": [
+        [
+          "Ôn lại các thì, câu điều kiện, bị động, và từ nối."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Practice makes perfect."
+        ]
+      ]
+    },
+    "usage": [
+      "Ôn tập định kỳ giúp ghi nhớ lâu hơn.",
+      "Kết hợp đọc (tab Học) và làm bài (tab Luyện tập)."
+    ],
+    "signals": "Review, Practice, Repeat."
+  },
+  {
+    "type": "lesson",
+    "id": "extra-98",
+    "title": "Ôn tập và mở rộng - Bài 98",
+    "definition": "Đây là bài ôn tập. Hãy xem lại các bài trước và thực hành với tab Luyện tập.",
+    "formula": {
+      "headers": [
+        "Gợi ý"
+      ],
+      "rows": [
+        [
+          "Ôn lại các thì, câu điều kiện, bị động, và từ nối."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Practice makes perfect."
+        ]
+      ]
+    },
+    "usage": [
+      "Ôn tập định kỳ giúp ghi nhớ lâu hơn.",
+      "Kết hợp đọc (tab Học) và làm bài (tab Luyện tập)."
+    ],
+    "signals": "Review, Practice, Repeat."
+  },
+  {
+    "type": "lesson",
+    "id": "extra-99",
+    "title": "Ôn tập và mở rộng - Bài 99",
+    "definition": "Đây là bài ôn tập. Hãy xem lại các bài trước và thực hành với tab Luyện tập.",
+    "formula": {
+      "headers": [
+        "Gợi ý"
+      ],
+      "rows": [
+        [
+          "Ôn lại các thì, câu điều kiện, bị động, và từ nối."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Practice makes perfect."
+        ]
+      ]
+    },
+    "usage": [
+      "Ôn tập định kỳ giúp ghi nhớ lâu hơn.",
+      "Kết hợp đọc (tab Học) và làm bài (tab Luyện tập)."
+    ],
+    "signals": "Review, Practice, Repeat."
+  },
+  {
+    "type": "lesson",
+    "id": "extra-100",
+    "title": "Ôn tập và mở rộng - Bài 100",
+    "definition": "Đây là bài ôn tập. Hãy xem lại các bài trước và thực hành với tab Luyện tập.",
+    "formula": {
+      "headers": [
+        "Gợi ý"
+      ],
+      "rows": [
+        [
+          "Ôn lại các thì, câu điều kiện, bị động, và từ nối."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Practice makes perfect."
+        ]
+      ]
+    },
+    "usage": [
+      "Ôn tập định kỳ giúp ghi nhớ lâu hơn.",
+      "Kết hợp đọc (tab Học) và làm bài (tab Luyện tập)."
+    ],
+    "signals": "Review, Practice, Repeat."
+  }
+]
