@@ -1209,11 +1209,58 @@
         return result;
       }
 
-      // Kiểu 3: "X: ... Y: ... Z: ..." (nhiều mục "Từ:" trên cùng dòng, tách bằng ". ")
+      // Kiểu 3: "X: ... Y: ... Z: ..." (nhiều mục "Từ:" tách bằng ". ")
       const bySentence = raw.split(/\.\s+/).filter(Boolean);
       if (bySentence.length > 1) {
         let result = '';
         bySentence.forEach((p) => {
+          p = p.trim();
+          if (!p) return;
+          const m = p.match(/^([^:]+):\s*(.*)$/s);
+          if (m) {
+            const content = m[2].trim();
+            // Trong nội dung, nếu có "; " thì xuống dòng từng ý
+            const subParts = content.split(/\s*;\s*/).map(s => s.trim()).filter(Boolean);
+            const contentStr = subParts.length > 1
+              ? subParts.map((s, i) => (i === 0 ? escape(s) : '• ' + escape(s))).join('<br>')
+              : escape(content).replace(/\n/g, '<br>');
+            result += (result ? '<br>' : '') + '<strong>' + escape(m[1].trim()) + ':</strong> ' + contentStr;
+          } else {
+            result += (result ? '<br>' : '') + escape(p).replace(/\n/g, '<br>');
+          }
+        });
+        return result;
+      }
+
+      // Kiểu 4: Một câu dài có "; " (chấm phẩy) tách nhiều ý — xuống dòng từng ý
+      if (raw.includes(';')) {
+        parts = raw.split(/\s*;\s*/).map(s => s.trim()).filter(Boolean);
+        if (parts.length > 1) {
+          const first = parts[0];
+          const m = first.match(/^([^:]+):\s*(.*)$/s);
+          let result = '';
+          if (m) {
+            result = '<strong>' + escape(m[1].trim()) + ':</strong> ' + escape(m[2].trim());
+            for (let i = 1; i < parts.length; i++) {
+              const pm = parts[i].match(/^([^:]+):\s*(.*)$/s);
+              if (pm) {
+                result += '<br><strong>' + escape(pm[1].trim()) + ':</strong> ' + escape(pm[2].trim());
+              } else {
+                result += '<br>• ' + escape(parts[i]);
+              }
+            }
+          } else {
+            result = parts.map((p, i) => (i === 0 ? escape(p) : '• ' + escape(p))).join('<br>');
+          }
+          return result.replace(/\n/g, '<br>');
+        }
+      }
+
+      // Kiểu 5: "X: ... — Y: ..." hoặc "X: ... – Y: ..." (gạch ngang tách mục)
+      const byDash = raw.split(/\s*[—–]\s+/);
+      if (byDash.length > 1) {
+        let result = '';
+        byDash.forEach((p) => {
           p = p.trim();
           if (!p) return;
           const m = p.match(/^([^:]+):\s*(.*)$/s);
@@ -1415,11 +1462,13 @@
     function loadNextLearn() {
       const item = getLearnItem();
       renderLearn(item);
+      document.querySelector('#contentLearn .card-container').scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
 
     function loadNextPractice() {
       const item = getRandomItem();
       renderPractice(item);
+      document.querySelector('#contentPractice .card-container').scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
 
     function toggleHint() {
