@@ -391,6 +391,92 @@
       font-weight: 600;
     }
 
+    /* ===== LESSON (Tab Học) ===== */
+    .lesson-title {
+      font-size: 26px;
+      font-weight: 700;
+      color: #1e40af;
+      text-align: center;
+      margin-bottom: 20px;
+      line-height: 1.3;
+      padding: 0 10px;
+    }
+    .lesson-section {
+      margin-bottom: 22px;
+      text-align: left;
+    }
+    .lesson-section-title {
+      font-size: 15px;
+      font-weight: 700;
+      color: #3b82f6;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .lesson-definition {
+      font-size: 15px;
+      color: #374151;
+      line-height: 1.6;
+      padding: 14px;
+      background: #f8fafc;
+      border-radius: 10px;
+      border-left: 4px solid #3b82f6;
+    }
+    .lesson-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .lesson-table th {
+      background: linear-gradient(135deg, #3b82f6 0%, #1e40af 100%);
+      color: white;
+      padding: 12px 10px;
+      text-align: left;
+      font-weight: 600;
+    }
+    .lesson-table td {
+      padding: 10px;
+      border-bottom: 1px solid #e5e7eb;
+      color: #374151;
+    }
+    .lesson-table tr:nth-child(even) {
+      background: #f9fafb;
+    }
+    .lesson-table tr:hover {
+      background: #eff6ff;
+    }
+    .lesson-usage-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    .lesson-usage-list li {
+      padding: 8px 0 8px 24px;
+      position: relative;
+      font-size: 14px;
+      color: #374151;
+      line-height: 1.5;
+    }
+    .lesson-usage-list li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: #10b981;
+      font-weight: 700;
+    }
+    .lesson-signals {
+      font-size: 14px;
+      color: #1e40af;
+      padding: 14px;
+      background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+      border-radius: 10px;
+      font-weight: 600;
+      line-height: 1.5;
+    }
+
     @keyframes fadeIn {
       from { opacity: 0; transform: translateY(-10px); }
       to { opacity: 1; transform: translateY(0); }
@@ -623,6 +709,17 @@
       .quiz-options {
         grid-template-columns: 1fr;
       }
+
+      .lesson-title {
+        font-size: 20px;
+      }
+      .lesson-table {
+        font-size: 12px;
+      }
+      .lesson-table th,
+      .lesson-table td {
+        padding: 8px 6px;
+      }
     }
   </style>
 </head>
@@ -787,6 +884,7 @@
 
     // ===== STATE =====
     let allData = [];
+    let learnData = [];  // Nội dung riêng cho tab Học (bài học chi tiết)
     let currentItem = null;
     let currentLearnItem = null;
     let showHints = false;
@@ -800,6 +898,7 @@
     // ===== UTILITIES =====
     function makeId(item) {
       if (item.id) return String(item.id);
+      if (item.type === "lesson") return `lesson:${item.id || item.title || ""}`;
       if (item.type === "word") return `word:${item.term}:${item.ipa || ""}`;
       if (item.type === "grammar") return `grammar:${item.topic}:${item.formula || ""}`;
       if (item.type === "quiz") return `quiz:${item.question}:${(item.options || []).join("|")}`;
@@ -942,6 +1041,12 @@
       return pickFrom[Math.floor(Math.random() * pickFrom.length)];
     }
 
+    // ===== GET LEARN ITEM (chỉ dùng cho tab Học - từ learn_content.json) =====
+    function getLearnItem() {
+      if (learnData.length === 0) return null;
+      return learnData[Math.floor(Math.random() * learnData.length)];
+    }
+
     // ===== SPEAK =====
     function speak(text, lang = 'en-US') {
       if ('speechSynthesis' in window) {
@@ -952,10 +1057,15 @@
       }
     }
 
-    // ===== RENDER LEARN TAB (Chỉ hiển thị thông tin) =====
+    // ===== RENDER LEARN TAB (Chỉ đọc nội dung - dùng learnData) =====
     function renderLearn(item) {
+      const cardEl = document.getElementById('cardLearn');
       if (!item) {
-        document.getElementById('cardLearn').innerHTML = '<div class="empty-state"><h2>No items found</h2><p>Please check your content.json file</p></div>';
+        if (learnData.length === 0) {
+          cardEl.innerHTML = '<div class="empty-state"><h2>Chưa có bài học</h2><p>Vui lòng thêm file <code>data/learn_content.json</code></p></div>';
+        } else {
+          cardEl.innerHTML = '<div class="empty-state"><h2>Không có bài học</h2><p>Bấm Next để thử lại.</p></div>';
+        }
         return;
       }
 
@@ -967,8 +1077,8 @@
       let html = renderCardContent(item, false);
       document.getElementById('cardLearn').innerHTML = html;
 
-      if (autoSpeak && item.type === 'word' && item.term) {
-        setTimeout(() => speak(item.term), 300);
+      if (autoSpeak && item.type === 'lesson' && item.title) {
+        setTimeout(() => speak(item.title), 300);
       }
     }
 
@@ -1062,6 +1172,68 @@
     // ===== RENDER CARD CONTENT (Dùng chung) =====
     function renderCardContent(item, showProgress = false) {
       let html = '';
+
+      if (item.type === 'lesson') {
+        // Tab Học: bài học chi tiết (các thì, công thức, ví dụ, dấu hiệu)
+        html += `<div class="lesson-title">${item.title || ''}</div>`;
+
+        if (item.definition) {
+          html += '<div class="lesson-section">';
+          html += '<div class="lesson-section-title">📌 Định nghĩa</div>';
+          html += `<div class="lesson-definition">${item.definition}</div>`;
+          html += '</div>';
+        }
+
+        if (item.formula && item.formula.headers && item.formula.rows) {
+          html += '<div class="lesson-section">';
+          html += '<div class="lesson-section-title">📐 Công thức</div>';
+          html += '<div style="overflow-x: auto;"><table class="lesson-table">';
+          html += '<thead><tr>';
+          item.formula.headers.forEach(h => { html += `<th>${h}</th>`; });
+          html += '</tr></thead><tbody>';
+          item.formula.rows.forEach(row => {
+            html += '<tr>';
+            row.forEach(cell => { html += `<td>${cell}</td>`; });
+            html += '</tr>';
+          });
+          html += '</tbody></table></div>';
+          html += '</div>';
+        }
+
+        if (item.examples && item.examples.headers && item.examples.rows) {
+          html += '<div class="lesson-section">';
+          html += '<div class="lesson-section-title">💡 Ví dụ</div>';
+          html += '<div style="overflow-x: auto;"><table class="lesson-table">';
+          html += '<thead><tr>';
+          item.examples.headers.forEach(h => { html += `<th>${h}</th>`; });
+          html += '</tr></thead><tbody>';
+          item.examples.rows.forEach(row => {
+            html += '<tr>';
+            row.forEach(cell => { html += `<td>${cell}</td>`; });
+            html += '</tr>';
+          });
+          html += '</tbody></table></div>';
+          html += '</div>';
+        }
+
+        if (item.usage && Array.isArray(item.usage) && item.usage.length > 0) {
+          html += '<div class="lesson-section">';
+          html += '<div class="lesson-section-title">📖 Cách dùng</div>';
+          html += '<ul class="lesson-usage-list">';
+          item.usage.forEach(u => { html += `<li>${u}</li>`; });
+          html += '</ul>';
+          html += '</div>';
+        }
+
+        if (item.signals) {
+          html += '<div class="lesson-section">';
+          html += '<div class="lesson-section-title">🔍 Dấu hiệu nhận biết</div>';
+          html += `<div class="lesson-signals">${item.signals}</div>`;
+          html += '</div>';
+        }
+
+        return html;
+      }
 
       if (item.type === 'word') {
         html += '<div class="term-container">';
@@ -1181,7 +1353,7 @@
     }
 
     function loadNextLearn() {
-      const item = getRandomItem();
+      const item = getLearnItem();
       renderLearn(item);
     }
 
@@ -1245,6 +1417,24 @@
 
         if (!loaded) {
           throw new Error('Cannot load content.json. Please use a local web server.');
+        }
+
+        // Load nội dung riêng cho tab Học (bài học chi tiết)
+        const learnPaths = ['./data/learn_content.json', 'data/learn_content.json', '../data/learn_content.json'];
+        for (const path of learnPaths) {
+          try {
+            const learnRes = await fetch(path);
+            if (learnRes.ok) {
+              const data = await learnRes.json();
+              if (Array.isArray(data)) {
+                learnData = data.filter(item => item.type === 'lesson');
+                console.log(`Loaded learn_content.json from: ${path} (${learnData.length} lessons)`);
+                break;
+              }
+            }
+          } catch (e) {
+            console.log(`Failed to load learn_content from ${path}:`, e.message);
+          }
         }
 
         loadSettings();
@@ -1322,7 +1512,9 @@
     document.getElementById('nextLearnBtn').addEventListener('click', loadNextLearn);
     document.getElementById('speakLearnBtn').addEventListener('click', () => {
       if (currentLearnItem) {
-        if (currentLearnItem.type === 'word' && currentLearnItem.term) {
+        if (currentLearnItem.type === 'lesson' && currentLearnItem.title) {
+          speak(currentLearnItem.title, 'en-US');
+        } else if (currentLearnItem.type === 'word' && currentLearnItem.term) {
           speak(currentLearnItem.term);
         } else if (currentLearnItem.type === 'grammar' && currentLearnItem.example) {
           speak(currentLearnItem.example);
@@ -1383,9 +1575,11 @@
         // Learn tab shortcuts
         if (e.key === 'n' || e.key === 'N') {
           loadNextLearn();
-        } else if (e.key === 's' || e.key === 'S') {
+        } else         if (e.key === 's' || e.key === 'S') {
           if (currentLearnItem) {
-            if (currentLearnItem.type === 'word' && currentLearnItem.term) {
+            if (currentLearnItem.type === 'lesson' && currentLearnItem.title) {
+              speak(currentLearnItem.title, 'en-US');
+            } else if (currentLearnItem.type === 'word' && currentLearnItem.term) {
               speak(currentLearnItem.term);
             } else if (currentLearnItem.type === 'grammar' && currentLearnItem.example) {
               speak(currentLearnItem.example);
