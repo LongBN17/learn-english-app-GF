@@ -422,6 +422,9 @@
       border-radius: 10px;
       border-left: 4px solid #3b82f6;
     }
+    .lesson-definition strong {
+      color: #1e3a5f;
+    }
     .lesson-table {
       width: 100%;
       border-collapse: collapse;
@@ -1169,6 +1172,25 @@
       });
     }
 
+    // ===== FORMAT ĐỊNH NGHĨA: xuống dòng + bold cho từng mục (1), (2), (3)... =====
+    function formatDefinition(text) {
+      if (!text || typeof text !== 'string') return '';
+      const escape = (s) => String(s)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+      const parts = text.split(/\s*\(\d{1,2}\)\s*/);
+      if (parts.length <= 1) {
+        return escape(text.trim()).replace(/\n/g, '<br>');
+      }
+      let result = escape(parts[0].trim());
+      for (let i = 1; i < parts.length; i++) {
+        result += '<br><strong>(' + i + ') ' + escape(parts[i].trim()).replace(/\n/g, '<br>') + '</strong>';
+      }
+      return result;
+    }
+
     // ===== RENDER CARD CONTENT (Dùng chung) =====
     function renderCardContent(item, showProgress = false) {
       let html = '';
@@ -1180,7 +1202,7 @@
         if (item.definition) {
           html += '<div class="lesson-section">';
           html += '<div class="lesson-section-title">📌 Định nghĩa</div>';
-          html += `<div class="lesson-definition">${item.definition}</div>`;
+          html += '<div class="lesson-definition">' + formatDefinition(item.definition) + '</div>';
           html += '</div>';
         }
 
