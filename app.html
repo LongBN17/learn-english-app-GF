@@ -1172,7 +1172,7 @@
       });
     }
 
-    // ===== FORMAT ĐỊNH NGHĨA: xuống dòng + bold cho từng mục (1), (2), (3)... =====
+    // ===== FORMAT ĐỊNH NGHĨA: xuống dòng + bold cho tất cả các kiểu mục =====
     function formatDefinition(text) {
       if (!text || typeof text !== 'string') return '';
       const escape = (s) => String(s)
@@ -1180,15 +1180,53 @@
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;');
-      const parts = text.split(/\s*\(\d{1,2}\)\s*/);
-      if (parts.length <= 1) {
-        return escape(text.trim()).replace(/\n/g, '<br>');
+      const raw = text.trim();
+
+      // Kiểu 1: (1), (2), (3) ...
+      let parts = raw.split(/\s*\(\d{1,2}\)\s*/);
+      if (parts.length > 1) {
+        let result = escape(parts[0].trim());
+        for (let i = 1; i < parts.length; i++) {
+          result += '<br><strong>(' + i + ') ' + escape(parts[i].trim()).replace(/\n/g, '<br>') + '</strong>';
+        }
+        return result;
       }
-      let result = escape(parts[0].trim());
-      for (let i = 1; i < parts.length; i++) {
-        result += '<br><strong>(' + i + ') ' + escape(parts[i].trim()).replace(/\n/g, '<br>') + '</strong>';
+
+      // Kiểu 2: "At: ... . On: ... . In: ..." (chấm cách rồi mục mới bắt đầu bằng Chữ:)
+      parts = raw.split(/\.\s+(?=[A-Za-z][a-z]*:)/);
+      if (parts.length > 1) {
+        let result = '';
+        parts.forEach((p) => {
+          p = p.trim();
+          if (!p) return;
+          const m = p.match(/^([^:]+):\s*(.*)$/s);
+          if (m) {
+            result += (result ? '<br>' : '') + '<strong>' + escape(m[1].trim()) + ':</strong> ' + escape(m[2].trim()).replace(/\n/g, '<br>');
+          } else {
+            result += (result ? '<br>' : '') + escape(p).replace(/\n/g, '<br>');
+          }
+        });
+        return result;
       }
-      return result;
+
+      // Kiểu 3: "X: ... Y: ... Z: ..." (nhiều mục "Từ:" trên cùng dòng, tách bằng ". ")
+      const bySentence = raw.split(/\.\s+/).filter(Boolean);
+      if (bySentence.length > 1) {
+        let result = '';
+        bySentence.forEach((p) => {
+          p = p.trim();
+          if (!p) return;
+          const m = p.match(/^([^:]+):\s*(.*)$/s);
+          if (m) {
+            result += (result ? '<br>' : '') + '<strong>' + escape(m[1].trim()) + ':</strong> ' + escape(m[2].trim()).replace(/\n/g, '<br>');
+          } else {
+            result += (result ? '<br>' : '') + escape(p).replace(/\n/g, '<br>');
+          }
+        });
+        return result;
+      }
+
+      return escape(raw).replace(/\n/g, '<br>');
     }
 
     // ===== RENDER CARD CONTENT (Dùng chung) =====
