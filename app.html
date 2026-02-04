@@ -1209,8 +1209,8 @@
         return result;
       }
 
-      // Kiểu 3: "X: ... Y: ... Z: ..." (nhiều mục "Từ:" tách bằng ". ")
-      const bySentence = raw.split(/\.\s+/).filter(Boolean);
+      // Kiểu 3: Nhiều mục tách bằng ". " hoặc "? " hoặc "! " (câu kết thúc bằng chấm / chấm hỏi / chấm than)
+      const bySentence = raw.split(/[.?!]\s+/).map(s => s.trim()).filter(Boolean);
       if (bySentence.length > 1) {
         let result = '';
         bySentence.forEach((p) => {
