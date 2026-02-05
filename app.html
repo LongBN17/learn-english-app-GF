@@ -20,7 +20,8 @@
     }
 
     .container {
-      max-width: 1000px;
+      max-width: 1400px;
+      width: 95%;
       margin: 0 auto;
       background: white;
       border-radius: 24px;
@@ -149,13 +150,14 @@
       display: block;
     }
 
-    /* Tab Luyện tập: card trái, nút bên phải — đỡ scroll */
+    /* Tab Luyện tập: card trái, nút bên phải — mở rộng tận dụng màn hình */
     .practice-layout {
       display: flex;
-      gap: 32px;
+      gap: 40px;
       align-items: flex-start;
-      max-width: 1200px;
-      margin: 0 auto;
+      max-width: none;
+      width: 100%;
+      margin: 0;
     }
     .practice-left {
       flex: 1;
@@ -163,7 +165,7 @@
     }
     .practice-right {
       flex-shrink: 0;
-      width: 220px;
+      width: 260px;
       position: sticky;
       top: 24px;
     }
@@ -196,7 +198,8 @@
     }
 
     .main-content {
-      padding: 50px;
+      padding: 40px 56px 56px;
+      max-width: none;
     }
 
     .card-container {
