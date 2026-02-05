@@ -149,6 +149,52 @@
       display: block;
     }
 
+    /* Tab Luyện tập: card trái, nút bên phải — đỡ scroll */
+    .practice-layout {
+      display: flex;
+      gap: 32px;
+      align-items: flex-start;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .practice-left {
+      flex: 1;
+      min-width: 0;
+    }
+    .practice-right {
+      flex-shrink: 0;
+      width: 220px;
+      position: sticky;
+      top: 24px;
+    }
+    .actions-sidebar {
+      grid-template-columns: 1fr;
+      margin-top: 0;
+      gap: 10px;
+    }
+    .actions-sidebar .btn {
+      width: 100%;
+      justify-content: center;
+      padding: 14px 20px;
+      font-size: 14px;
+    }
+    .practice-right .shortcuts {
+      margin-top: 20px;
+      font-size: 12px;
+    }
+    @media (max-width: 900px) {
+      .practice-layout {
+        flex-direction: column;
+      }
+      .practice-right {
+        width: 100%;
+        position: static;
+      }
+      .actions-sidebar {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+
     .main-content {
       padding: 50px;
     }
@@ -798,52 +844,55 @@
 
       <!-- Tab 2: Practice (Có SRS, Known/Again) -->
       <div class="tab-content" id="contentPractice">
-        <div class="card-container">
-          <div class="card" id="cardPractice">
-            <div class="loading">
-              <h2>Loading content...</h2>
+        <div class="practice-layout">
+          <div class="practice-left">
+            <div class="card-container">
+              <div class="card" id="cardPractice">
+                <div class="loading">
+                  <h2>Loading content...</h2>
+                </div>
+              </div>
+            </div>
+            <div class="progress-bar-container" id="progressBarContainer" style="display: none;">
+              <div class="progress-bar-label">
+                <span>Progress</span>
+                <span id="progressText">0%</span>
+              </div>
+              <div class="progress-bar">
+                <div class="progress-bar-fill" id="progressBarFill" style="width: 0%"></div>
+              </div>
             </div>
           </div>
-        </div>
-
-        <div class="progress-bar-container" id="progressBarContainer" style="display: none;">
-          <div class="progress-bar-label">
-            <span>Progress</span>
-            <span id="progressText">0%</span>
+          <div class="practice-right">
+            <div class="actions actions-sidebar">
+              <button class="btn btn-info" id="speakPracticeBtn">
+                <span class="btn-icon">🔊</span> Speak
+              </button>
+              <button class="btn btn-secondary" id="hintBtn">
+                <span class="btn-icon">💡</span> Hint
+              </button>
+              <button class="btn btn-danger" id="againBtn">
+                <span class="btn-icon">❌</span> Again
+              </button>
+              <button class="btn btn-success" id="knownBtn">
+                <span class="btn-icon">✅</span> Known
+              </button>
+              <button class="btn btn-primary" id="nextPracticeBtn">
+                <span class="btn-icon">➡️</span> Next
+              </button>
+              <button class="btn btn-secondary" id="settingsBtn">
+                <span class="btn-icon">⚙️</span> Settings
+              </button>
+            </div>
+            <div class="shortcuts">
+              <strong>Keyboard Shortcuts:</strong>
+              <span><strong>N</strong> Next</span>
+              <span><strong>Space</strong> Hint</span>
+              <span><strong>Enter</strong> Known</span>
+              <span><strong>Backspace</strong> Again</span>
+              <span><strong>S</strong> Speak</span>
+            </div>
           </div>
-          <div class="progress-bar">
-            <div class="progress-bar-fill" id="progressBarFill" style="width: 0%"></div>
-          </div>
-        </div>
-
-        <div class="actions">
-          <button class="btn btn-info" id="speakPracticeBtn">
-            <span class="btn-icon">🔊</span> Speak
-          </button>
-          <button class="btn btn-secondary" id="hintBtn">
-            <span class="btn-icon">💡</span> Hint
-          </button>
-          <button class="btn btn-danger" id="againBtn">
-            <span class="btn-icon">❌</span> Again
-          </button>
-          <button class="btn btn-success" id="knownBtn">
-            <span class="btn-icon">✅</span> Known
-          </button>
-          <button class="btn btn-primary" id="nextPracticeBtn">
-            <span class="btn-icon">➡️</span> Next
-          </button>
-          <button class="btn btn-secondary" id="settingsBtn">
-            <span class="btn-icon">⚙️</span> Settings
-          </button>
-        </div>
-
-        <div class="shortcuts">
-          <strong>Keyboard Shortcuts:</strong>
-          <span><strong>N</strong> Next</span>
-          <span><strong>Space</strong> Hint</span>
-          <span><strong>Enter</strong> Known</span>
-          <span><strong>Backspace</strong> Again</span>
-          <span><strong>S</strong> Speak</span>
         </div>
       </div>
     </div>
@@ -1455,17 +1504,9 @@
       const progress = progressById[id] || { box: 0, nextDueMs: null };
       const now = Date.now();
 
-      if (progress.box < SRS_INTERVALS_MS.length) {
-        progress.box += 1;
-      } else {
-        progress.box = 99;
-      }
-
-      if (progress.box < 99) {
-        progress.nextDueMs = now + SRS_INTERVALS_MS[progress.box - 1];
-      } else {
-        progress.nextDueMs = null;
-      }
+      // Một lần bấm Known = đánh dấu đã biết ngay (box 99), bộ đếm Known tăng ngay
+      progress.box = 99;
+      progress.nextDueMs = null;
 
       progressById[id] = progress;
       saveProgress(progressById);
@@ -1643,6 +1684,7 @@
       if (tabName === 'learn') {
         loadNextLearn();
       } else {
+        updateStats(); // Cập nhật số liệu khi mở tab Luyện tập
         loadNextPractice();
       }
     }
