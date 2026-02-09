@@ -473,6 +473,171 @@
       font-weight: 600;
     }
 
+    /* ===== FILL IN THE BLANK ===== */
+    .fillblank-sentence {
+      font-size: 20px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+      padding: 15px;
+      background: #f0f9ff;
+      border-radius: 12px;
+      border-left: 4px solid #3b82f6;
+    }
+    .fillblank-sentence .blank {
+      display: inline-block;
+      min-width: 80px;
+      border-bottom: 2px solid #1e40af;
+      margin: 0 4px;
+      padding: 2px 8px;
+      text-align: center;
+      font-weight: 600;
+      color: #1e40af;
+    }
+    .fillblank-options {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+      margin-top: 16px;
+    }
+    .fillblank-option {
+      padding: 14px 18px;
+      border: 2px solid #e5e7eb;
+      border-radius: 12px;
+      background: white;
+      cursor: pointer;
+      font-size: 16px;
+      font-weight: 500;
+      text-align: center;
+      transition: all 0.2s ease;
+    }
+    .fillblank-option:hover {
+      border-color: #3b82f6;
+      background: #eff6ff;
+    }
+    .fillblank-option.correct { background: #10b981; color: white; border-color: #059669; }
+    .fillblank-option.wrong { background: #ef4444; color: white; border-color: #dc2626; }
+
+    /* ===== REORDER SENTENCE ===== */
+    .reorder-instruction {
+      font-size: 14px;
+      color: #6b7280;
+      margin-bottom: 16px;
+    }
+    .reorder-answer-area {
+      min-height: 56px;
+      padding: 16px;
+      margin-bottom: 16px;
+      background: #f8fafc;
+      border: 2px dashed #cbd5e1;
+      border-radius: 12px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+    }
+    .reorder-answer-area.filled {
+      border-style: solid;
+      border-color: #94a3b8;
+    }
+    .reorder-words {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 12px;
+      min-height: 50px;
+      padding: 8px;
+    }
+    .reorder-word {
+      padding: 10px 18px;
+      border: 2px solid #3b82f6;
+      border-radius: 10px;
+      background: #eff6ff;
+      color: #1e40af;
+      font-size: 16px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .reorder-word:hover {
+      background: #dbeafe;
+      transform: translateY(-1px);
+    }
+    .reorder-word.used {
+      opacity: 0.4;
+      pointer-events: none;
+      border-style: dashed;
+    }
+    .reorder-hint {
+      margin-top: 20px;
+      font-size: 15px;
+      padding: 14px;
+      background: #fef3c7;
+      border-radius: 10px;
+      border-left: 4px solid #f59e0b;
+    }
+    .reorder-clear {
+      margin-top: 12px;
+      padding: 8px 16px;
+      font-size: 14px;
+      background: #e5e7eb;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    .reorder-clear:hover { background: #d1d5db; }
+
+    /* ===== TYPE IN THE BLANK (gõ từ) ===== */
+    .typeblank-sentence {
+      font-size: 20px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+      padding: 15px;
+      background: #f0fdf4;
+      border-radius: 12px;
+      border-left: 4px solid #10b981;
+    }
+    .typeblank-sentence .blank {
+      display: inline-block;
+      min-width: 80px;
+      border-bottom: 2px solid #059669;
+      margin: 0 4px;
+      padding: 2px 8px;
+      text-align: center;
+    }
+    .typeblank-input-wrap {
+      margin: 20px 0;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 12px;
+    }
+    .typeblank-input {
+      padding: 14px 20px;
+      font-size: 18px;
+      border: 2px solid #10b981;
+      border-radius: 12px;
+      min-width: 180px;
+      flex: 1;
+    }
+    .typeblank-input:focus {
+      outline: none;
+      box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.3);
+    }
+    .typeblank-input.correct { border-color: #059669; background: #d1fae5; }
+    .typeblank-input.wrong { border-color: #dc2626; background: #fee2e2; }
+    .typeblank-check {
+      padding: 14px 28px;
+      font-size: 16px;
+      font-weight: 600;
+      background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+      color: white;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+    }
+    .typeblank-check:hover { opacity: 0.9; }
+    .typeblank-check:disabled { opacity: 0.6; cursor: not-allowed; }
+
     /* ===== LESSON (Tab Học) ===== */
     .lesson-title {
       font-size: 26px;
@@ -755,7 +920,7 @@
       padding: 10px 15px;
       border: 2px solid #d1d5db;
       border-radius: 8px;
-      width: 150px;
+      width: 220px;
       font-size: 14px;
       margin-left: auto;
     }
@@ -979,12 +1144,15 @@
       </div>
       <div class="setting-item">
         <label>
-          Content type:
+          Loại nội dung:
           <select id="contentTypeInput">
-            <option value="all">All</option>
-            <option value="word">Vocabulary</option>
-            <option value="grammar">Grammar</option>
-            <option value="quiz">Quiz</option>
+            <option value="all">Tất cả</option>
+            <option value="word">Từ vựng</option>
+            <option value="grammar">Ngữ pháp</option>
+            <option value="quiz">Câu hỏi</option>
+            <option value="fillblank">Điền từ (chọn đáp án)</option>
+            <option value="typeblank">Điền từ (gõ đáp án)</option>
+            <option value="reorder">Sắp xếp lại câu</option>
           </select>
         </label>
       </div>
@@ -1030,6 +1198,9 @@
     let contentType = 'all';
     let currentTab = 'learn';
     let quizAnswered = false;
+    let fillblankAnswered = false;
+    let reorderChosen = [];
+    let typeblankAnswered = false;
 
     // ===== UTILITIES =====
     function makeId(item) {
@@ -1038,6 +1209,9 @@
       if (item.type === "word") return `word:${item.term}:${item.ipa || ""}`;
       if (item.type === "grammar") return `grammar:${item.topic}:${item.formula || ""}`;
       if (item.type === "quiz") return `quiz:${item.question}:${(item.options || []).join("|")}`;
+      if (item.type === "fillblank") return `fillblank:${(item.sentence || "").slice(0, 60)}:${(item.options || []).join("|")}`;
+      if (item.type === "reorder") return `reorder:${(item.answer || item.sentence || "").slice(0, 60)}`;
+      if (item.type === "typeblank") return `typeblank:${(item.sentence || "").slice(0, 60)}:${String(item.answer || "").slice(0, 30)}`;
       return `${item.type}:${JSON.stringify(item).slice(0, 80)}`;
     }
 
@@ -1228,6 +1402,9 @@
       currentItem = item;
       showHints = false;
       quizAnswered = false;
+      fillblankAnswered = false;
+      reorderChosen = [];
+      typeblankAnswered = false;
 
       const progressById = loadProgress();
       const id = makeId(item);
@@ -1251,9 +1428,14 @@
 
       document.getElementById('cardPractice').innerHTML = html;
 
-      // Setup quiz click handlers
       if (item.type === 'quiz') {
         setupQuizHandlers();
+      } else if (item.type === 'fillblank') {
+        setupFillblankHandlers();
+      } else if (item.type === 'reorder') {
+        setupReorderHandlers();
+      } else if (item.type === 'typeblank') {
+        setupTypeblankHandlers();
       }
 
       if (autoSpeak && item.type === 'word' && item.term) {
@@ -1303,6 +1485,175 @@
           }
         });
       });
+    }
+
+    function setupFillblankHandlers() {
+      const options = document.querySelectorAll('.fillblank-option');
+      const hintEl = document.getElementById('fillblankHint');
+      if (!currentItem || currentItem.type !== 'fillblank') return;
+      options.forEach((opt, idx) => {
+        opt.addEventListener('click', () => {
+          if (fillblankAnswered) return;
+          fillblankAnswered = true;
+          const correctIdx = currentItem.answer;
+          if (idx === correctIdx) {
+            opt.classList.add('correct');
+          } else {
+            opt.classList.add('wrong');
+            const correctOpt = options[correctIdx];
+            if (correctOpt) correctOpt.classList.add('correct');
+          }
+          if (hintEl) {
+            hintEl.textContent = currentItem.explain || 'Đáp án: ' + (currentItem.options && currentItem.options[correctIdx] ? currentItem.options[correctIdx] : '');
+            hintEl.classList.add('show');
+          }
+        });
+      });
+    }
+
+    function shuffleArray(arr) {
+      const a = arr.slice();
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    function setupReorderHandlers() {
+      if (!currentItem || currentItem.type !== 'reorder') return;
+      const words = currentItem.words || [];
+      const answer = currentItem.answer;
+      const answerArr = Array.isArray(answer) ? answer : (typeof answer === 'string' ? answer.trim().split(/\s+/) : []);
+      
+      console.log('setupReorderHandlers called', { words, currentItem });
+      
+      // Đảm bảo DOM đã sẵn sàng - dùng requestAnimationFrame để đảm bảo DOM đã render
+      requestAnimationFrame(() => {
+        setTimeout(() => {
+          const container = document.getElementById('reorderWords');
+          const answerArea = document.getElementById('reorderAnswerArea');
+          const clearBtn = document.getElementById('reorderClearBtn');
+          const hintEl = document.getElementById('reorderHint');
+          
+          console.log('setupReorderHandlers DOM check', { container, answerArea, words });
+          
+          if (!container || !answerArea) {
+            console.error('Reorder: container or answerArea not found', { container, answerArea });
+            return;
+          }
+          
+          if (!words || words.length === 0) {
+            console.error('Reorder: words array is empty', currentItem);
+            container.innerHTML = '<p style="color: red;">Lỗi: Không có từ để sắp xếp</p>';
+            return;
+          }
+
+          const shuffled = shuffleArray(words);
+          reorderChosen = [];
+          container.innerHTML = '';
+          console.log('Rendering words:', shuffled);
+          
+          shuffled.forEach((w, i) => {
+            const btn = document.createElement('span');
+            btn.className = 'reorder-word';
+            btn.textContent = w;
+            btn.dataset.word = w;
+            btn.addEventListener('click', () => {
+              if (reorderChosen.indexOf(w) !== -1) return;
+              reorderChosen.push(w);
+              btn.classList.add('used');
+              const span = document.createElement('span');
+              span.className = 'reorder-word';
+              span.textContent = w;
+              span.style.cursor = 'default';
+              span.style.pointerEvents = 'none';
+              answerArea.appendChild(span);
+              answerArea.classList.add('filled');
+              if (reorderChosen.length === words.length) {
+                const userStr = reorderChosen.join(' ').toLowerCase().replace(/\s+/g, ' ').trim();
+                const correctStr = answerArr.join(' ').toLowerCase().replace(/\s+/g, ' ').trim();
+                const isCorrect = userStr === correctStr;
+                
+                // Hiển thị đúng/sai với màu sắc
+                if (isCorrect) {
+                  answerArea.style.borderColor = '#10b981';
+                  answerArea.style.backgroundColor = '#d1fae5';
+                } else {
+                  answerArea.style.borderColor = '#ef4444';
+                  answerArea.style.backgroundColor = '#fee2e2';
+                }
+                
+                if (hintEl) {
+                  hintEl.textContent = (isCorrect ? '✓ Đúng rồi! ' : '✗ Sai rồi! Đáp án đúng: ') + (currentItem.explain || answerArr.join(' '));
+                  hintEl.classList.add('show');
+                  hintEl.style.color = isCorrect ? '#059669' : '#dc2626';
+                  hintEl.style.fontWeight = '600';
+                }
+              }
+            });
+            container.appendChild(btn);
+          });
+          
+          console.log('Words rendered, container children:', container.children.length);
+
+          if (clearBtn) {
+            // Remove old listeners by cloning
+            const newClearBtn = clearBtn.cloneNode(true);
+            clearBtn.parentNode.replaceChild(newClearBtn, clearBtn);
+            
+            newClearBtn.addEventListener('click', () => {
+              reorderChosen = [];
+              answerArea.innerHTML = '';
+              answerArea.classList.remove('filled');
+              // Reset màu về mặc định
+              answerArea.style.borderColor = '#cbd5e1';
+              answerArea.style.backgroundColor = '#f8fafc';
+              container.querySelectorAll('.reorder-word.used').forEach(el => el.classList.remove('used'));
+              // Ẩn hint
+              if (hintEl) {
+                hintEl.classList.remove('show');
+                hintEl.style.color = '';
+                hintEl.style.fontWeight = '';
+              }
+            });
+          }
+        }, 50);
+      });
+    }
+
+    function setupTypeblankHandlers() {
+      if (!currentItem || currentItem.type !== 'typeblank') return;
+      const inputEl = document.getElementById('typeblankInput');
+      const checkBtn = document.getElementById('typeblankCheckBtn');
+      const hintEl = document.getElementById('typeblankHint');
+      if (!inputEl || !checkBtn) return;
+
+      const check = () => {
+        if (typeblankAnswered) return;
+        const raw = (inputEl.value || '').trim();
+        const user = raw.toLowerCase().replace(/\s+/g, ' ');
+        const answer = currentItem.answer;
+        const accepted = Array.isArray(answer) ? answer : [answer];
+        const normalized = accepted.map(a => String(a).toLowerCase().trim());
+        const correct = normalized.some(a => a === user);
+
+        typeblankAnswered = true;
+        inputEl.disabled = true;
+        checkBtn.disabled = true;
+        if (correct) {
+          inputEl.classList.add('correct');
+        } else {
+          inputEl.classList.add('wrong');
+        }
+        if (hintEl) {
+          hintEl.textContent = (correct ? 'Đúng rồi! ' : 'Đáp án: ') + (currentItem.explain || (Array.isArray(answer) ? answer.join(' / ') : answer));
+          hintEl.classList.add('show');
+        }
+      };
+
+      checkBtn.addEventListener('click', check);
+      inputEl.addEventListener('keydown', (e) => { if (e.key === 'Enter') check(); });
     }
 
     // ===== FORMAT ĐỊNH NGHĨA: xuống dòng + bold cho tất cả các kiểu mục =====
@@ -1556,6 +1907,82 @@
         }
         
         html += `<div class="hint" id="quizHint"></div>`;
+      } else if (item.type === 'fillblank') {
+        html += '<div class="term-container">';
+        html += `<div class="term" style="font-size: 28px;">Điền từ vào chỗ trống</div>`;
+        html += '</div>';
+        // Hiển thị baseForm nếu có (dạng chia đúng từ nguyên thể)
+        if (item.baseForm) {
+          html += `<div class="base-form-hint" style="margin-bottom: 16px; padding: 12px; background: #e0f2fe; border-left: 4px solid #0284c7; border-radius: 8px; font-size: 16px; color: #0c4a6e;">`;
+          html += `<strong>Chia đúng dạng của từ:</strong> <span style="font-weight: 600; color: #0369a1;">${escapeHtml(item.baseForm)}</span>`;
+          // Hiển thị gợi ý thì nếu có
+          if (item.tenseHint) {
+            html += ` <span style="color: #0c4a6e; margin-left: 8px;">→ ${escapeHtml(item.tenseHint)}</span>`;
+          }
+          html += '</div>';
+          // Hiển thị câu tiếng Việt nếu có baseForm
+          if (item.vietnameseSentence) {
+            html += `<div class="vietnamese-hint" style="margin-bottom: 16px; padding: 12px; background: #fef3c7; border-left: 4px solid #d97706; border-radius: 8px; font-size: 16px; color: #78350f;">`;
+            html += `<strong>Câu tiếng Việt:</strong> <span style="font-weight: 500;">${escapeHtml(item.vietnameseSentence)}</span>`;
+            html += '</div>';
+          }
+        } else if (item.vietnameseSentence) {
+          // Nếu chỉ có vietnameseSentence (không có baseForm) - dạng dịch
+          html += `<div class="vietnamese-hint" style="margin-bottom: 16px; padding: 12px; background: #fef3c7; border-left: 4px solid #d97706; border-radius: 8px; font-size: 16px; color: #78350f;">`;
+          html += `<strong>Dịch sang tiếng Anh:</strong> <span style="font-weight: 500;">${escapeHtml(item.vietnameseSentence)}</span>`;
+          html += '</div>';
+        }
+        const sent = escapeHtml(item.sentence || '').replace(/___+/g, '<span class="blank">&nbsp;&nbsp;&nbsp;</span>');
+        html += `<div class="fillblank-sentence">${sent}</div>`;
+        if (item.options && Array.isArray(item.options)) {
+          html += '<div class="fillblank-options">';
+          item.options.forEach((opt, i) => {
+            html += `<div class="fillblank-option" data-index="${i}">${escapeHtml(opt)}</div>`;
+          });
+          html += '</div>';
+        }
+        html += `<div class="hint" id="fillblankHint"></div>`;
+      } else if (item.type === 'reorder') {
+        html += '<div class="term-container">';
+        html += `<div class="term" style="font-size: 28px;">Sắp xếp lại câu</div>`;
+        html += '</div>';
+        html += '<p class="reorder-instruction">Click các từ theo thứ tự đúng để tạo câu hoàn chỉnh.</p>';
+        html += '<div class="reorder-answer-area" id="reorderAnswerArea"></div>';
+        html += '<button type="button" class="reorder-clear" id="reorderClearBtn">Xóa / Làm lại</button>';
+        html += '<div class="reorder-words" id="reorderWords"></div>';
+        html += `<div class="hint" id="reorderHint"></div>`;
+      } else if (item.type === 'typeblank') {
+        html += '<div class="term-container">';
+        html += `<div class="term" style="font-size: 28px;">Gõ từ vào chỗ trống</div>`;
+        html += '</div>';
+        // Hiển thị baseForm nếu có (dạng chia đúng từ nguyên thể)
+        if (item.baseForm) {
+          html += `<div class="base-form-hint" style="margin-bottom: 16px; padding: 12px; background: #e0f2fe; border-left: 4px solid #0284c7; border-radius: 8px; font-size: 16px; color: #0c4a6e;">`;
+          html += `<strong>Chia đúng dạng của từ:</strong> <span style="font-weight: 600; color: #0369a1;">${escapeHtml(item.baseForm)}</span>`;
+          // Hiển thị gợi ý thì nếu có
+          if (item.tenseHint) {
+            html += ` <span style="color: #0c4a6e; margin-left: 8px;">→ ${escapeHtml(item.tenseHint)}</span>`;
+          }
+          html += '</div>';
+          // Hiển thị câu tiếng Việt nếu có baseForm
+          if (item.vietnameseSentence) {
+            html += `<div class="vietnamese-hint" style="margin-bottom: 16px; padding: 12px; background: #fef3c7; border-left: 4px solid #d97706; border-radius: 8px; font-size: 16px; color: #78350f;">`;
+            html += `<strong>Câu tiếng Việt:</strong> <span style="font-weight: 500;">${escapeHtml(item.vietnameseSentence)}</span>`;
+            html += '</div>';
+          }
+        } else if (item.vietnameseSentence) {
+          // Nếu chỉ có vietnameseSentence (không có baseForm) - dạng dịch
+          html += `<div class="vietnamese-hint" style="margin-bottom: 16px; padding: 12px; background: #fef3c7; border-left: 4px solid #d97706; border-radius: 8px; font-size: 16px; color: #78350f;">`;
+          html += `<strong>Dịch sang tiếng Anh:</strong> <span style="font-weight: 500;">${escapeHtml(item.vietnameseSentence)}</span>`;
+          html += '</div>';
+        }
+        const sent = escapeHtml(item.sentence || '').replace(/___+/g, '<span class="blank">&nbsp;&nbsp;&nbsp;</span>');
+        html += `<div class="typeblank-sentence">${sent}</div>`;
+        html += '<div class="typeblank-input-wrap">';
+        html += '<input type="text" class="typeblank-input" id="typeblankInput" placeholder="Gõ đáp án..." autocomplete="off">';
+        html += '<button type="button" class="typeblank-check" id="typeblankCheckBtn">Kiểm tra</button>';
+        html += '</div>';
+        html += `<div class="hint" id="typeblankHint"></div>`;
       }
 
       return html;
@@ -1619,6 +2046,33 @@
         if (hintEl) {
           if (!hintEl.classList.contains('show')) {
             hintEl.textContent = currentItem.explain || `Answer: ${currentItem.options?.[currentItem.answer] || ''}`;
+          }
+          hintEl.classList.toggle('show');
+        }
+      } else if (currentItem && currentItem.type === 'fillblank') {
+        const hintEl = document.getElementById('fillblankHint');
+        if (hintEl) {
+          if (!hintEl.classList.contains('show')) {
+            const correct = currentItem.options && currentItem.options[currentItem.answer];
+            hintEl.textContent = currentItem.explain || ('Đáp án: ' + (correct || ''));
+          }
+          hintEl.classList.toggle('show');
+        }
+      } else if (currentItem && currentItem.type === 'reorder') {
+        const hintEl = document.getElementById('reorderHint');
+        if (hintEl) {
+          if (!hintEl.classList.contains('show')) {
+            const ans = currentItem.answer;
+            hintEl.textContent = currentItem.explain || ('Đáp án: ' + (Array.isArray(ans) ? ans.join(' ') : ans));
+          }
+          hintEl.classList.toggle('show');
+        }
+      } else if (currentItem && currentItem.type === 'typeblank') {
+        const hintEl = document.getElementById('typeblankHint');
+        if (hintEl) {
+          if (!hintEl.classList.contains('show')) {
+            const ans = currentItem.answer;
+            hintEl.textContent = currentItem.explain || ('Đáp án: ' + (Array.isArray(ans) ? ans.join(' / ') : ans));
           }
           hintEl.classList.toggle('show');
         }
@@ -1785,6 +2239,15 @@
           speak(currentItem.term);
         } else if (currentItem.type === 'grammar' && currentItem.example) {
           speak(currentItem.example);
+        } else if (currentItem.type === 'fillblank' && currentItem.sentence) {
+          const ans = currentItem.options && currentItem.options[currentItem.answer];
+          speak((currentItem.sentence || '').replace(/___+/g, ans || ''));
+        } else if (currentItem.type === 'typeblank' && currentItem.sentence) {
+          const ans = Array.isArray(currentItem.answer) ? currentItem.answer[0] : currentItem.answer;
+          speak((currentItem.sentence || '').replace(/___+/g, ans || ''));
+        } else if (currentItem.type === 'reorder' && currentItem.answer) {
+          const s = Array.isArray(currentItem.answer) ? currentItem.answer.join(' ') : currentItem.answer;
+          speak(s);
         }
       }
     });
