@@ -1585,10 +1585,35 @@
                 }
                 
                 if (hintEl) {
-                  hintEl.textContent = (isCorrect ? '✓ Đúng rồi! ' : '✗ Sai rồi! Đáp án đúng: ') + (currentItem.explain || answerArr.join(' '));
+                  if (isCorrect) {
+                    // Đúng: Hiển thị câu hoàn chỉnh + kiến thức
+                    let message = '✓ Đúng rồi!\n\n';
+                    
+                    // Câu hoàn chỉnh
+                    message += '📝 Câu hoàn chỉnh: ' + answerArr.join(' ') + '\n';
+                    
+                    // Dịch tiếng Việt (nếu có)
+                    if (currentItem.vietnameseSentence) {
+                      message += '🔄 Dịch nghĩa: ' + currentItem.vietnameseSentence + '\n';
+                    }
+                    
+                    // Giải thích ngữ pháp (nếu có)
+                    if (currentItem.explain) {
+                      message += '💡 Giải thích: ' + currentItem.explain;
+                    } else if (currentItem.tenseHint) {
+                      message += '💡 Thì: ' + currentItem.tenseHint;
+                    }
+                    
+                    hintEl.textContent = message;
+                  } else {
+                    // Sai: Chỉ hiện đáp án đúng
+                    hintEl.textContent = '✗ Sai rồi! Đáp án đúng: ' + answerArr.join(' ');
+                  }
+                  
                   hintEl.classList.add('show');
                   hintEl.style.color = isCorrect ? '#059669' : '#dc2626';
                   hintEl.style.fontWeight = '600';
+                  hintEl.style.whiteSpace = 'pre-line';
                 }
               }
             });

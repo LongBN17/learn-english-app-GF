@@ -83,7 +83,8 @@
       "very",
       "busy."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ rất bận."
   },
   {
     "type": "word",
@@ -209,7 +210,8 @@
       "is",
       "crying."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Em bé đang khóc."
   },
   {
     "type": "reorder",
@@ -229,7 +231,8 @@
       "I",
       "called."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Anh ấy đang ngủ."
   },
   {
     "type": "typeblank",
@@ -272,7 +275,8 @@
       "two",
       "hours."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Họ đã ở đây trong hai giờ."
   },
   {
     "type": "reorder",
@@ -292,7 +296,8 @@
       "try",
       "again."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy sẽ thử lại."
   },
   {
     "type": "grammar",
@@ -389,7 +394,7 @@
       "is",
       "correct."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "word",
@@ -464,7 +469,8 @@
       "next",
       "week."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "reorder",
@@ -482,7 +488,7 @@
       "been",
       "repaired."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "word",
@@ -533,7 +539,7 @@
       "really",
       "good."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "reorder",
@@ -551,7 +557,8 @@
       "you",
       "later."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "quiz",
@@ -792,7 +799,7 @@
       "been",
       "broken."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "reorder",
@@ -810,7 +817,8 @@
       "of",
       "dogs."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "grammar",
@@ -872,7 +880,8 @@
       "of",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -939,7 +948,8 @@
       "been",
       "there."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -1025,7 +1035,7 @@
       "been",
       "changed."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "word",
@@ -1120,7 +1130,8 @@
       "a",
       "business."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "grammar",
@@ -1159,7 +1170,8 @@
       "playing",
       "football."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "grammar",
@@ -1251,7 +1263,8 @@
       "on",
       "holiday."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "fillblank",
@@ -1336,7 +1349,7 @@
       "just",
       "started."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "reorder",
@@ -1354,7 +1367,8 @@
       "tried",
       "it."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -1584,7 +1598,8 @@
       "left",
       "earlier."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): SHOULD",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "fillblank",
@@ -1713,7 +1728,8 @@
       "the",
       "delay."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "reorder",
@@ -1731,7 +1747,8 @@
       "long",
       "meeting."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -1777,7 +1794,7 @@
       "been",
       "verified."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "typeblank",
@@ -1992,7 +2009,8 @@
       "for",
       "president."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -2055,7 +2073,8 @@
       "suggest",
       "that."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -2177,7 +2196,7 @@
       "been",
       "nice."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "typeblank",
@@ -2282,7 +2301,8 @@
       "very",
       "well."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): CAN",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -2350,7 +2370,8 @@
       "to",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -2498,7 +2519,8 @@
       "very",
       "intelligent."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "quiz",
@@ -2764,7 +2786,8 @@
       "playing",
       "football."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -2896,7 +2919,8 @@
       "no",
       "time."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "grammar",
@@ -3062,7 +3086,8 @@
       "moved",
       "house."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "grammar",
@@ -3146,7 +3171,7 @@
       "closed",
       "early."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "typeblank",
@@ -3213,7 +3238,8 @@
       "move",
       "house."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "typeblank",
@@ -3308,7 +3334,8 @@
       "a",
       "shop."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "typeblank",
@@ -3343,7 +3370,8 @@
       "that",
       "day."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "reorder",
@@ -3363,7 +3391,8 @@
       "with",
       "that."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): CAN",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "reorder",
@@ -3383,7 +3412,8 @@
       "the",
       "piano."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "quiz",
@@ -3421,7 +3451,8 @@
       "same",
       "age."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "reorder",
@@ -3437,7 +3468,7 @@
       "is",
       "coming."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing"
   },
   {
     "type": "reorder",
@@ -3461,7 +3492,8 @@
       "the",
       "race."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -3637,7 +3669,8 @@
       "her",
       "work."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -3665,7 +3698,8 @@
       "the",
       "station."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -4153,7 +4187,8 @@
       "a",
       "week."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "typeblank",
@@ -4304,7 +4339,8 @@
       "leaving",
       "tomorrow."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -4509,7 +4545,8 @@
       "the",
       "garden."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "reorder",
@@ -4531,7 +4568,8 @@
       "a",
       "marathon."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "grammar",
@@ -4838,7 +4876,8 @@
       "arriving",
       "soon."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "reorder",
@@ -4854,7 +4893,7 @@
       "is",
       "full."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "typeblank",
@@ -4899,7 +4938,8 @@
       "the",
       "exam."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "reorder",
@@ -4917,7 +4957,7 @@
       "very",
       "long."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "typeblank",
@@ -4946,7 +4986,7 @@
       "the",
       "table."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "word",
@@ -5317,7 +5357,8 @@
       "the",
       "topic."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -5575,7 +5616,8 @@
       "from",
       "Germany."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -5654,7 +5696,8 @@
       "working",
       "overtime."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "fillblank",
@@ -5732,7 +5775,7 @@
       "very",
       "sad."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed"
   },
   {
     "type": "word",
@@ -5760,7 +5803,8 @@
       "by",
       "bus."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -5784,7 +5828,8 @@
       "your",
       "support."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -5820,7 +5865,8 @@
       "the",
       "team."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -5868,7 +5914,8 @@
       "come",
       "later."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): MIGHT",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -6208,7 +6255,8 @@
       "study",
       "abroad."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "grammar",
@@ -6298,7 +6346,8 @@
       "learn",
       "English."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -6361,7 +6410,8 @@
       "feature",
       "soon"
     ],
-    "explain": "S + will + V + O + trạng từ"
+    "explain": "S + will + V + O + trạng từ",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -6445,7 +6495,8 @@
       "that",
       "film."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "reorder",
@@ -6467,7 +6518,8 @@
       "the",
       "club."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "typeblank",
@@ -6521,7 +6573,8 @@
       "celebrating",
       "tonight."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -6661,7 +6714,7 @@
       "too",
       "cold."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "reorder",
@@ -6677,7 +6730,8 @@
       "tired",
       "today."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -7185,7 +7239,8 @@
       "to",
       "work."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -7394,7 +7449,8 @@
       "good",
       "teacher."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "fillblank",
@@ -7454,7 +7510,8 @@
       "by",
       "train."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): COULD",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "fillblank",
@@ -7495,7 +7552,8 @@
       "learn",
       "more."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -7555,7 +7613,8 @@
       "from",
       "Vietnam."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "grammar",
@@ -7658,7 +7717,8 @@
       "the",
       "key."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): COULD",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -7720,7 +7780,8 @@
       "the",
       "party."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -7758,7 +7819,7 @@
       "been",
       "cleaned."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "quiz",
@@ -7790,7 +7851,8 @@
       "ask",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "fillblank",
@@ -7864,7 +7926,8 @@
       "in",
       "1985."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "typeblank",
@@ -8036,7 +8099,8 @@
       "appointed",
       "manager."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Câu bị động (Passive Voice): S + be + V3",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -8129,7 +8193,7 @@
       "is",
       "open."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Câu bị động (Passive Voice): S + be + V3"
   },
   {
     "type": "quiz",
@@ -8171,7 +8235,8 @@
       "helped",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "fillblank",
@@ -8302,7 +8367,7 @@
       "the",
       "city."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "word",
@@ -8437,7 +8502,8 @@
       "about",
       "this."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -8463,7 +8529,8 @@
       "to",
       "Paris."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "grammar",
@@ -8610,7 +8677,8 @@
       "the",
       "news."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -8704,7 +8772,8 @@
       "for",
       "help."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -8812,7 +8881,7 @@
       "been",
       "delayed."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "quiz",
@@ -8973,7 +9042,7 @@
       "been",
       "ringing."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "grammar",
@@ -9143,7 +9212,8 @@
       "the",
       "bank."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "reorder",
@@ -9161,7 +9231,8 @@
       "eaten",
       "lunch."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -9187,7 +9258,8 @@
       "are",
       "right."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -9265,7 +9337,8 @@
       "the",
       "match."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "quiz",
@@ -9453,7 +9526,8 @@
       "the",
       "job."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "typeblank",
@@ -9488,7 +9562,8 @@
       "a",
       "film."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "typeblank",
@@ -9851,7 +9926,7 @@
       "very",
       "friendly."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "fillblank",
@@ -9893,7 +9968,8 @@
       "for",
       "years."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -10162,7 +10238,8 @@
       "training",
       "hard."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "typeblank",
@@ -10414,7 +10491,8 @@
       "getting",
       "married."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -10644,7 +10722,8 @@
       "an",
       "accident."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "fillblank",
@@ -10689,7 +10768,7 @@
       "too",
       "hot."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "reorder",
@@ -10707,7 +10786,8 @@
       "the",
       "restaurant."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "fillblank",
@@ -10824,7 +10904,8 @@
       "a",
       "film."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -10958,7 +11039,8 @@
       "the",
       "garden."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "grammar",
@@ -11217,7 +11299,8 @@
       "feeling",
       "tired."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "fillblank",
@@ -11742,7 +11825,8 @@
       "a",
       "doctor."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "fillblank",
@@ -11867,7 +11951,7 @@
       "was",
       "terrible."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed"
   },
   {
     "type": "reorder",
@@ -11883,7 +11967,8 @@
       "to",
       "travel."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -11913,7 +11998,8 @@
       "a",
       "doctor."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "fillblank",
@@ -11973,7 +12059,8 @@
       "good",
       "idea."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "reorder",
@@ -11991,7 +12078,8 @@
       "in",
       "art."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Câu bị động (Passive Voice): S + be + V3",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -12052,7 +12140,8 @@
       "in",
       "May."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -12096,7 +12185,8 @@
       "very",
       "happy."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -12249,7 +12339,7 @@
       "at",
       "six."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "typeblank",
@@ -12559,7 +12649,8 @@
       "speak",
       "English."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): CAN",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "fillblank",
@@ -12655,7 +12746,8 @@
       "my",
       "best."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -12694,7 +12786,8 @@
       "get",
       "married."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "reorder",
@@ -12712,7 +12805,8 @@
       "about",
       "money."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -12768,7 +12862,8 @@
       "very",
       "young."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -12877,7 +12972,8 @@
       "the",
       "cinema."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -13251,7 +13347,7 @@
       "playing",
       "outside."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing"
   },
   {
     "type": "word",
@@ -13286,7 +13382,8 @@
       "call",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "grammar",
@@ -13518,7 +13615,8 @@
       "your",
       "brother."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -13616,7 +13714,8 @@
       "in",
       "December."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "grammar",
@@ -13852,7 +13951,8 @@
       "the",
       "plan."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -14046,7 +14146,7 @@
       "is",
       "difficult."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "word",
@@ -14234,7 +14334,8 @@
       "living",
       "alone."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -14385,7 +14486,7 @@
       "been",
       "made."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "word",
@@ -14418,7 +14519,8 @@
       "already",
       "eaten."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -14460,7 +14562,8 @@
       "for",
       "help."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): SHOULD",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -14569,7 +14672,7 @@
       "is",
       "shining."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing"
   },
   {
     "type": "quiz",
@@ -14616,7 +14719,8 @@
       "of",
       "work."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "typeblank",
@@ -14645,7 +14749,8 @@
       "your",
       "offer."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -14671,7 +14776,8 @@
       "the",
       "game."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "grammar",
@@ -14727,7 +14833,8 @@
       "his",
       "exam."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -14777,7 +14884,8 @@
       "come",
       "back."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -14844,7 +14952,8 @@
       "a",
       "house."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "quiz",
@@ -14957,7 +15066,7 @@
       "been",
       "submitted."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "typeblank",
@@ -15073,7 +15182,8 @@
       "here",
       "soon."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "fillblank",
@@ -15239,7 +15349,8 @@
       "to",
       "music."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "grammar",
@@ -15290,7 +15401,8 @@
       "invited",
       "us."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "reorder",
@@ -15308,7 +15420,8 @@
       "great",
       "time."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -15353,7 +15466,8 @@
       "playing",
       "tennis."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "fillblank",
@@ -15454,7 +15568,8 @@
       "a",
       "week."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "quiz",
@@ -15527,7 +15642,8 @@
       "living",
       "here."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -15597,7 +15713,8 @@
       "new",
       "job."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -15818,7 +15935,8 @@
       "the",
       "party."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "quiz",
@@ -16116,7 +16234,8 @@
       "a",
       "newspaper."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "fillblank",
@@ -16336,7 +16455,8 @@
       "to",
       "work."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "grammar",
@@ -16497,7 +16617,8 @@
       "in",
       "1990."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "grammar",
@@ -16611,7 +16732,8 @@
       "to",
       "London."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -16786,7 +16908,8 @@
       "just",
       "arrived."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "reorder",
@@ -16802,7 +16925,8 @@
       "the",
       "answer."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "reorder",
@@ -16820,7 +16944,7 @@
       "gone",
       "cold."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "word",
@@ -16892,7 +17016,8 @@
       "to",
       "her."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "typeblank",
@@ -16999,7 +17124,8 @@
       "the",
       "bus."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): COULD",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -17269,7 +17395,8 @@
       "a",
       "cake."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -17425,7 +17552,8 @@
       "watching",
       "TV."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "typeblank",
@@ -17530,7 +17658,8 @@
       "her",
       "parents."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "grammar",
@@ -17596,7 +17725,8 @@
       "believe",
       "it."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "grammar",
@@ -17779,7 +17909,8 @@
       "from",
       "university."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -17817,7 +17948,8 @@
       "to",
       "leave."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "reorder",
@@ -17833,7 +17965,8 @@
       "very",
       "tired."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -17894,7 +18027,8 @@
       "the",
       "bus."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -18099,7 +18233,8 @@
       "this",
       "book."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -18494,7 +18629,8 @@
       "should",
       "go."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): SHOULD",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -18690,7 +18826,8 @@
       "left",
       "already."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): MIGHT",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "typeblank",
@@ -18733,7 +18870,8 @@
       "his",
       "leg."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "fillblank",
@@ -18779,7 +18917,8 @@
       "the",
       "park."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -18911,7 +19050,8 @@
       "two",
       "brothers."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -19030,7 +19170,8 @@
       "the",
       "tickets."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -19112,7 +19253,7 @@
       "been",
       "sent."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "word",
@@ -19188,7 +19329,8 @@
       "the",
       "booking."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "reorder",
@@ -19208,7 +19350,8 @@
       "quit",
       "smoking."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -19339,7 +19482,8 @@
       "forget",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "quiz",
@@ -19702,7 +19846,7 @@
       "was",
       "easy."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed"
   },
   {
     "type": "typeblank",
@@ -19996,7 +20140,7 @@
       "in",
       "London."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "typeblank",
@@ -20226,7 +20370,8 @@
       "go",
       "now."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -20837,7 +20982,8 @@
       "working",
       "here."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -20898,7 +21044,8 @@
       "back",
       "soon."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "reorder",
@@ -20916,7 +21063,8 @@
       "new",
       "car."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -21058,7 +21206,8 @@
       "the",
       "truth."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -21112,7 +21261,7 @@
       "too",
       "high."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "reorder",
@@ -21130,7 +21279,8 @@
       "a",
       "letter."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -21286,7 +21436,8 @@
       "the",
       "case."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -21312,7 +21463,8 @@
       "try",
       "it."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -21406,7 +21558,8 @@
       "the",
       "service."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -21606,7 +21759,8 @@
       "the",
       "company."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "grammar",
@@ -21743,7 +21897,8 @@
       "best",
       "friend."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "fillblank",
@@ -21891,7 +22046,8 @@
       "a",
       "table."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): SHOULD",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -21969,7 +22125,8 @@
       "a",
       "book."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "grammar",
@@ -22074,7 +22231,8 @@
       "all",
       "day."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "grammar",
@@ -22266,7 +22424,8 @@
       "an",
       "hour."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -22558,7 +22717,8 @@
       "about",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "reorder",
@@ -22576,7 +22736,8 @@
       "meeting",
       "yesterday"
     ],
-    "explain": "S + V + O + trạng từ thời gian"
+    "explain": "S + V + O + trạng từ thời gian",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -22810,7 +22971,8 @@
       "married",
       "soon."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "reorder",
@@ -22828,7 +22990,7 @@
       "too",
       "loud."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "typeblank",
@@ -22891,7 +23053,8 @@
       "first",
       "book."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -22919,7 +23082,8 @@
       "her",
       "job."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "grammar",
@@ -22955,7 +23119,8 @@
       "learning",
       "French."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "reorder",
@@ -22977,7 +23142,8 @@
       "more",
       "staff."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "quiz",
@@ -23011,7 +23177,8 @@
       "his",
       "car."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -23312,7 +23479,7 @@
       "been",
       "updated."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "word",
@@ -23387,7 +23554,8 @@
       "the",
       "beach."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -23584,7 +23752,7 @@
       "the",
       "shelf."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "reorder",
@@ -23602,7 +23770,8 @@
       "back",
       "tomorrow."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "quiz",
@@ -23687,7 +23856,8 @@
       "the",
       "supermarket."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -23727,7 +23897,8 @@
       "the",
       "coast."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -23787,7 +23958,8 @@
       "at",
       "home."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -23842,7 +24014,8 @@
       "see",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "typeblank",
@@ -23880,7 +24053,8 @@
       "a",
       "question."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "quiz",
@@ -24113,7 +24287,8 @@
       "the",
       "museum."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "typeblank",
@@ -24300,7 +24475,8 @@
       "a",
       "meeting."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "typeblank",
@@ -24551,7 +24727,8 @@
       "a",
       "lawyer."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "reorder",
@@ -24571,7 +24748,8 @@
       "the",
       "team."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "fillblank",
@@ -24687,7 +24865,8 @@
       "to",
       "start."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -24715,7 +24894,8 @@
       "my",
       "keys."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -24949,7 +25129,8 @@
       "not",
       "come."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "quiz",
@@ -24995,7 +25176,8 @@
       "three",
       "languages."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): CAN",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "quiz",
@@ -25123,7 +25305,8 @@
       "working",
       "here"
     ],
-    "explain": "Present continuous: S + is/are + V-ing"
+    "explain": "Present continuous: S + is/are + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -25288,7 +25471,8 @@
       "than",
       "me."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -25372,7 +25556,7 @@
       "for",
       "sale."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "word",
@@ -25447,7 +25631,8 @@
       "new",
       "product."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -25572,7 +25757,8 @@
       "long",
       "hair."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "typeblank",
@@ -25629,7 +25815,8 @@
       "many",
       "countries."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "reorder",
@@ -25651,7 +25838,8 @@
       "a",
       "child."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -25718,7 +25906,8 @@
       "to",
       "hurry."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "reorder",
@@ -25736,7 +25925,8 @@
       "been",
       "promoted."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Câu bị động (Passive Voice): S + be + V3",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -25794,7 +25984,8 @@
       "a",
       "present."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "typeblank",
@@ -25820,7 +26011,7 @@
       "been",
       "revised."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "quiz",
@@ -26153,7 +26344,8 @@
       "this",
       "moment."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "grammar",
@@ -26227,7 +26419,8 @@
       "her",
       "name."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -26344,7 +26537,8 @@
       "the",
       "project."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "typeblank",
@@ -26426,7 +26620,7 @@
       "been",
       "approved."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "reorder",
@@ -26444,7 +26638,8 @@
       "a",
       "book."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "reorder",
@@ -26462,7 +26657,8 @@
       "some",
       "water."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): WOULD",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -26744,7 +26940,8 @@
       "a",
       "house."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "quiz",
@@ -26891,7 +27088,8 @@
       "see",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "typeblank",
@@ -27262,7 +27460,7 @@
       "was",
       "delicious."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed"
   },
   {
     "type": "reorder",
@@ -27282,7 +27480,8 @@
       "make",
       "dinner."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -27324,7 +27523,8 @@
       "the",
       "guitar."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): CAN",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -27449,7 +27649,8 @@
       "always",
       "late."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -27509,7 +27710,8 @@
       "more",
       "time."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -27580,7 +27782,7 @@
       "next",
       "week."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "reorder",
@@ -27600,7 +27802,8 @@
       "be",
       "late."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -28033,7 +28236,8 @@
       "for",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "grammar",
@@ -28113,7 +28317,8 @@
       "new",
       "office."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -28287,7 +28492,7 @@
       "was",
       "interesting."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing"
   },
   {
     "type": "reorder",
@@ -28307,7 +28512,8 @@
       "start",
       "university."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -28369,7 +28575,8 @@
       "a",
       "surprise."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "reorder",
@@ -28387,7 +28594,8 @@
       "good",
       "time."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "grammar",
@@ -28463,7 +28671,8 @@
       "be",
       "careful."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): SHOULD",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -28566,7 +28775,8 @@
       "the",
       "beach."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): MIGHT",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "reorder",
@@ -28586,7 +28796,8 @@
       "tell",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -28636,7 +28847,8 @@
       "very",
       "fast."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): CAN",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -28848,7 +29060,8 @@
       "about",
       "it."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -28888,7 +29101,8 @@
       "for",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "typeblank",
@@ -29449,7 +29663,8 @@
       "leave",
       "early."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -29625,7 +29840,7 @@
       "been",
       "signed."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "reorder",
@@ -29641,7 +29856,8 @@
       "cooking",
       "dinner."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "grammar",
@@ -29980,7 +30196,8 @@
       "from",
       "Japan."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -30075,7 +30292,8 @@
       "told",
       "me."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): SHOULD",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -30123,7 +30341,8 @@
       "next",
       "year."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -30228,7 +30447,8 @@
       "very",
       "excited."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -30286,7 +30506,8 @@
       "famous",
       "actor."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -30372,7 +30593,8 @@
       "already",
       "left."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "quiz",
@@ -30460,7 +30682,7 @@
       "was",
       "amazing."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing"
   },
   {
     "type": "word",
@@ -30538,7 +30760,8 @@
       "her",
       "mind."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -30566,7 +30789,8 @@
       "to",
       "Rome."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -30636,7 +30860,7 @@
       "been",
       "solved."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "quiz",
@@ -30939,7 +31163,8 @@
       "leave",
       "early."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "grammar",
@@ -31070,7 +31295,8 @@
       "a",
       "trip."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "grammar",
@@ -31110,7 +31336,8 @@
       "to",
       "run."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -31164,7 +31391,7 @@
       "been",
       "completed."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "quiz",
@@ -31328,7 +31555,7 @@
       "left",
       "open."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "quiz",
@@ -31384,7 +31611,8 @@
       "my",
       "friends."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -31501,7 +31729,8 @@
       "a",
       "flat."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -31527,7 +31756,7 @@
       "been",
       "resolved."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "grammar",
@@ -31565,7 +31794,8 @@
       "friends",
       "yesterday."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "fillblank",
@@ -31628,7 +31858,8 @@
       "your",
       "call."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -31684,7 +31915,8 @@
       "that",
       "before."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -31788,7 +32020,8 @@
       "his",
       "homework."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -32116,7 +32349,8 @@
       "feeling",
       "well."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -32170,7 +32404,7 @@
       "the",
       "garage."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "word",
@@ -32230,7 +32464,8 @@
       "very",
       "kind."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -32428,7 +32663,8 @@
       "red",
       "dress."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -32561,7 +32797,8 @@
       "their",
       "car."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "quiz",
@@ -32631,7 +32868,8 @@
       "to",
       "drive."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "fillblank",
@@ -32714,7 +32952,7 @@
       "the",
       "road."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "word",
@@ -32829,7 +33067,8 @@
       "different",
       "countries."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -32933,7 +33172,8 @@
       "call",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "fillblank",
@@ -33018,7 +33258,7 @@
       "been",
       "sold."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "word",
@@ -33123,7 +33363,7 @@
       "is",
       "ringing."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing"
   },
   {
     "type": "fillblank",
@@ -33374,7 +33614,8 @@
       "the",
       "exam."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "fillblank",
@@ -33491,7 +33732,7 @@
       "closed",
       "today."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Câu bị động (Passive Voice): S + be + V3"
   },
   {
     "type": "word",
@@ -33677,7 +33918,7 @@
       "by",
       "him."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Câu bị động (Passive Voice): S + be + V3"
   },
   {
     "type": "fillblank",
@@ -33722,7 +33963,8 @@
       "in",
       "property."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -33758,7 +34000,7 @@
       "was",
       "shocking."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing"
   },
   {
     "type": "quiz",
@@ -33859,7 +34101,8 @@
       "in",
       "psychology."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -33969,7 +34212,8 @@
       "by",
       "then."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -34025,7 +34269,8 @@
       "with",
       "them."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "reorder",
@@ -34047,7 +34292,8 @@
       "new",
       "laptop."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -34235,7 +34481,8 @@
       "her",
       "mother."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -34263,7 +34510,8 @@
       "the",
       "film."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "grammar",
@@ -34502,7 +34750,8 @@
       "from",
       "Paris."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "grammar",
@@ -34552,7 +34801,7 @@
       "nice",
       "today."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "word",
@@ -34611,7 +34860,8 @@
       "your",
       "email."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -34651,7 +34901,8 @@
       "order",
       "coffee."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): WOULD",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "grammar",
@@ -34685,7 +34936,8 @@
       "ten",
       "years."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -34812,7 +35064,8 @@
       "the",
       "event."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "grammar",
@@ -34846,7 +35099,8 @@
       "a",
       "party."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "quiz",
@@ -34946,7 +35200,8 @@
       "to",
       "win."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -35080,7 +35335,8 @@
       "call",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -35112,7 +35368,8 @@
       "the",
       "deal."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "quiz",
@@ -35578,7 +35835,7 @@
       "were",
       "laughing."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing"
   },
   {
     "type": "word",
@@ -35776,7 +36033,8 @@
       "got",
       "home."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -35890,7 +36148,8 @@
       "mention",
       "it."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "grammar",
@@ -36153,7 +36412,8 @@
       "her",
       "studies."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -36317,7 +36577,8 @@
       "recommend",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -36539,7 +36800,8 @@
       "a",
       "book."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "quiz",
@@ -36599,7 +36861,8 @@
       "some",
       "help."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -36637,7 +36900,8 @@
       "studying",
       "hard."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "typeblank",
@@ -36803,7 +37067,8 @@
       "were",
       "surprised."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Câu bị động (Passive Voice): S + be + V3",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -37125,7 +37390,8 @@
       "learning",
       "Spanish."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -37188,7 +37454,8 @@
       "a",
       "doctor."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): SHOULD",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "typeblank",
@@ -37458,7 +37725,8 @@
       "the",
       "concert."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -37496,7 +37764,7 @@
       "been",
       "cancelled."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "word",
@@ -37686,7 +37954,8 @@
       "an",
       "hour."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -37977,7 +38246,8 @@
       "the",
       "price."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "quiz",
@@ -38032,7 +38302,8 @@
       "the",
       "office."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -38191,7 +38462,8 @@
       "said",
       "that."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): SHOULD",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -38295,7 +38567,8 @@
       "the",
       "results."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "reorder",
@@ -38313,7 +38586,8 @@
       "TV",
       "now."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "grammar",
@@ -38411,7 +38685,8 @@
       "leave",
       "now."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -38467,7 +38742,8 @@
       "a",
       "lot."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "grammar",
@@ -38579,7 +38855,8 @@
       "beautiful",
       "voice."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "typeblank",
@@ -38662,7 +38939,8 @@
       "the",
       "hospital."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -38742,7 +39020,8 @@
       "the",
       "shop."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "fillblank",
@@ -38839,7 +39118,8 @@
       "about",
       "it."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "grammar",
@@ -38879,7 +39159,7 @@
       "was",
       "boring."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing"
   },
   {
     "type": "word",
@@ -38965,7 +39245,7 @@
       "at",
       "three."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "grammar",
@@ -39038,7 +39318,8 @@
       "the",
       "train."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -39146,7 +39427,8 @@
       "remind",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "fillblank",
@@ -39192,7 +39474,8 @@
       "just",
       "started."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -39366,7 +39649,8 @@
       "all",
       "day."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "fillblank",
@@ -39407,7 +39691,8 @@
       "finish",
       "this."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "grammar",
@@ -39536,7 +39821,8 @@
       "his",
       "job."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -39624,7 +39910,8 @@
       "my",
       "phone."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "typeblank",
@@ -39722,7 +40009,8 @@
       "for",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "reorder",
@@ -39740,7 +40028,8 @@
       "a",
       "teacher."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Bố tôi ..."
   },
   {
     "type": "word",
@@ -39818,7 +40107,8 @@
       "saving",
       "money."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -39870,7 +40160,8 @@
       "be",
       "fine."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -39896,7 +40187,8 @@
       "new",
       "girlfriend."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -39938,7 +40230,8 @@
       "learning",
       "English."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -39976,7 +40269,8 @@
       "new",
       "job."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -40490,7 +40784,8 @@
       "big",
       "house."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "grammar",
@@ -40536,7 +40831,8 @@
       "new",
       "job."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "fillblank",
@@ -40822,7 +41118,8 @@
       "studying",
       "medicine."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "grammar",
@@ -41368,7 +41665,8 @@
       "next",
       "month."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "quiz",
@@ -41483,7 +41781,8 @@
       "your",
       "help."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -41558,7 +41857,8 @@
       "living",
       "here."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "word",
@@ -41630,7 +41930,8 @@
       "to",
       "help."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "reorder",
@@ -41646,7 +41947,8 @@
       "leave",
       "now."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): SHOULD",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "fillblank",
@@ -41760,7 +42062,7 @@
       "very",
       "big."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "word",
@@ -41831,7 +42133,8 @@
       "the",
       "truth."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -41877,7 +42180,8 @@
       "eat",
       "meat."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -41970,7 +42274,8 @@
       "about",
       "you."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -42456,7 +42761,8 @@
       "reading",
       "books."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -42522,7 +42828,8 @@
       "to",
       "help."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
@@ -42698,7 +43005,7 @@
       "been",
       "approved."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "reorder",
@@ -42716,7 +43023,8 @@
       "you",
       "tomorrow."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Tương lai đơn (Future Simple): S + will + V",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -42862,7 +43170,8 @@
       "on",
       "holiday."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "reorder",
@@ -42880,7 +43189,8 @@
       "ice",
       "cream."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "quiz",
@@ -42946,7 +43256,8 @@
       "with",
       "milk."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "reorder",
@@ -42966,7 +43277,8 @@
       "her",
       "friend."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Cô ấy ..."
   },
   {
     "type": "word",
@@ -43151,7 +43463,8 @@
       "go",
       "out."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -43259,7 +43572,8 @@
       "at",
       "seven."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "word",
@@ -43323,7 +43637,8 @@
       "to",
       "Asia."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Anh ấy ..."
   },
   {
     "type": "grammar",
@@ -43684,7 +43999,8 @@
       "the",
       "exam."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "word",
@@ -43780,7 +44096,7 @@
       "been",
       "updated."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
   },
   {
     "type": "word",
@@ -44073,7 +44389,8 @@
       "to",
       "help."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "grammar",
@@ -44266,7 +44583,8 @@
       "a",
       "car."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "reorder",
@@ -44282,7 +44600,8 @@
       "two",
       "children."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "quiz",
@@ -44322,7 +44641,7 @@
       "is",
       "beautiful."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
   },
   {
     "type": "quiz",
@@ -44446,7 +44765,8 @@
       "dinner",
       "together."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "typeblank",
@@ -44913,7 +45233,8 @@
       "new",
       "computer."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tôi ..."
   },
   {
     "type": "quiz",
@@ -44949,7 +45270,8 @@
       "very",
       "kind."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "grammar",
@@ -45027,7 +45349,8 @@
       "at",
       "home."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Động từ khuyết thiếu (Modal verb): MIGHT",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "reorder",
@@ -45047,7 +45370,8 @@
       "the",
       "rain."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Họ ..."
   },
   {
     "type": "word",
@@ -45075,7 +45399,8 @@
       "for",
       "hours."
     ],
-    "explain": "Sắp xếp đúng thứ tự từ để tạo câu hoàn chỉnh."
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Chúng tôi ..."
   },
   {
     "type": "quiz",
