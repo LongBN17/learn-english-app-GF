@@ -1566,10 +1566,35 @@
               const span = document.createElement('span');
               span.className = 'reorder-word';
               span.textContent = w;
-              span.style.cursor = 'default';
-              span.style.pointerEvents = 'none';
+              span.dataset.word = w;
+              span.style.cursor = 'pointer';
+              span.title = 'Click để bỏ chọn';
+              
+              // Cho phép click vào span để bỏ chọn
+              span.addEventListener('click', () => {
+                // Xóa từ khỏi reorderChosen
+                const idx = reorderChosen.indexOf(w);
+                if (idx > -1) {
+                  reorderChosen.splice(idx, 1);
+                }
+                // Xóa span
+                span.remove();
+                // Bỏ class 'used' khỏi button
+                btn.classList.remove('used');
+                // Ẩn hint nếu đã hiện
+                if (hintEl && hintEl.classList.contains('show')) {
+                  hintEl.classList.remove('show');
+                  answerArea.style.borderColor = '#cbd5e1';
+                  answerArea.style.backgroundColor = '#f8fafc';
+                }
+                if (answerArea.children.length === 0) {
+                  answerArea.classList.remove('filled');
+                }
+              });
+              
               answerArea.appendChild(span);
               answerArea.classList.add('filled');
+              
               if (reorderChosen.length === words.length) {
                 const userStr = reorderChosen.join(' ').toLowerCase().replace(/\s+/g, ' ').trim();
                 const correctStr = answerArr.join(' ').toLowerCase().replace(/\s+/g, ' ').trim();
@@ -1585,31 +1610,25 @@
                 }
                 
                 if (hintEl) {
-                  if (isCorrect) {
-                    // Đúng: Hiển thị câu hoàn chỉnh + kiến thức
-                    let message = '✓ Đúng rồi!\n\n';
-                    
-                    // Câu hoàn chỉnh
-                    message += '📝 Câu hoàn chỉnh: ' + answerArr.join(' ') + '\n';
-                    
-                    // Dịch tiếng Việt (nếu có)
-                    if (currentItem.vietnameseSentence) {
-                      message += '🔄 Dịch nghĩa: ' + currentItem.vietnameseSentence + '\n';
-                    }
-                    
-                    // Giải thích ngữ pháp (nếu có)
-                    if (currentItem.explain) {
-                      message += '💡 Giải thích: ' + currentItem.explain;
-                    } else if (currentItem.tenseHint) {
-                      message += '💡 Thì: ' + currentItem.tenseHint;
-                    }
-                    
-                    hintEl.textContent = message;
-                  } else {
-                    // Sai: Chỉ hiện đáp án đúng
-                    hintEl.textContent = '✗ Sai rồi! Đáp án đúng: ' + answerArr.join(' ');
+                  // Tạo message đầy đủ
+                  let message = isCorrect ? '✓ Đúng rồi!\n\n' : '✗ Sai rồi!\n\n';
+                  
+                  // Câu hoàn chỉnh
+                  message += '📝 Câu hoàn chỉnh: ' + answerArr.join(' ') + '\n';
+                  
+                  // Dịch tiếng Việt (nếu có)
+                  if (currentItem.vietnameseSentence) {
+                    message += '🔄 Dịch nghĩa: ' + currentItem.vietnameseSentence + '\n';
                   }
                   
+                  // Giải thích ngữ pháp (nếu có)
+                  if (currentItem.explain) {
+                    message += '💡 Giải thích: ' + currentItem.explain;
+                  } else if (currentItem.tenseHint) {
+                    message += '💡 Thì: ' + currentItem.tenseHint;
+                  }
+                  
+                  hintEl.textContent = message;
                   hintEl.classList.add('show');
                   hintEl.style.color = isCorrect ? '#059669' : '#dc2626';
                   hintEl.style.fontWeight = '600';

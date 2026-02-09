@@ -394,7 +394,8 @@
       "is",
       "correct."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Câu trả lời đúng."
   },
   {
     "type": "word",
@@ -488,7 +489,8 @@
       "been",
       "repaired."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Xe đã được sửa."
   },
   {
     "type": "word",
@@ -539,7 +541,8 @@
       "really",
       "good."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Bánh có vị rất ngon."
   },
   {
     "type": "reorder",
@@ -683,7 +686,8 @@
     "answer": 2,
     "explain": "arrived = den (Past)",
     "baseForm": "arriv",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tàu đến đúng giờ."
   },
   {
     "type": "grammar",
@@ -799,7 +803,8 @@
       "been",
       "broken."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cửa sổ đã được vỡ."
   },
   {
     "type": "reorder",
@@ -1035,7 +1040,8 @@
       "been",
       "changed."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Câu chuyện đã được thay đổi."
   },
   {
     "type": "word",
@@ -1197,7 +1203,8 @@
     "answer": 2,
     "explain": "am = (I am hungry)",
     "baseForm": "be",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi ăn."
   },
   {
     "type": "quiz",
@@ -1349,7 +1356,8 @@
       "just",
       "started."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Phim vừa mới bắt đầu."
   },
   {
     "type": "reorder",
@@ -1394,7 +1402,8 @@
     "answer": 0,
     "explain": "have = bị (đau đầu)",
     "baseForm": "have",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi cần."
   },
   {
     "type": "fillblank",
@@ -1545,7 +1554,8 @@
     "answer": "eat",
     "explain": "eat = ăn (should + V bare)",
     "baseForm": "eat",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Bạn nên ăn nhiều rau hơn."
   },
   {
     "type": "word",
@@ -1794,7 +1804,8 @@
       "been",
       "verified."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Tài liệu đã được xác minh."
   },
   {
     "type": "typeblank",
@@ -1802,7 +1813,8 @@
     "answer": "closed",
     "explain": "closed = dong (Past)",
     "baseForm": "close",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi cửa sổ."
   },
   {
     "type": "quiz",
@@ -1935,7 +1947,8 @@
     "answer": 1,
     "explain": "enjoy = thích (enjoy + V-ing)",
     "baseForm": "enjoy",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi sách."
   },
   {
     "type": "quiz",
@@ -1967,7 +1980,8 @@
     "answer": "closes",
     "explain": "closes = đóng cửa",
     "baseForm": "close",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Cửa hàng đóng cửa lúc 9 giờ tối."
   },
   {
     "type": "quiz",
@@ -2105,7 +2119,8 @@
     "answer": "think",
     "explain": "think = nghĩ",
     "baseForm": "think",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi là/ở đúng."
   },
   {
     "type": "grammar",
@@ -2196,7 +2211,8 @@
       "been",
       "nice."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Thời tiết đã được đẹp."
   },
   {
     "type": "typeblank",
@@ -2219,7 +2235,8 @@
     "answer": 0,
     "explain": "wrote = viết (Past)",
     "baseForm": "write",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi bạn."
   },
   {
     "type": "quiz",
@@ -2251,7 +2268,8 @@
     "answer": "live",
     "explain": "live = sống (plural)",
     "baseForm": "live",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Bố mẹ tôi sống ở nông thôn."
   },
   {
     "type": "quiz",
@@ -2572,7 +2590,8 @@
     "answer": "chased",
     "explain": "chased = duoi (Past)",
     "baseForm": "chas",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Con chó đuổi theo quả bóng."
   },
   {
     "type": "grammar",
@@ -3171,7 +3190,8 @@
       "closed",
       "early."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Cửa hàng đóng cửa."
   },
   {
     "type": "typeblank",
@@ -3179,7 +3199,8 @@
     "answer": "have",
     "explain": "have = bi cam",
     "baseForm": "have",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi cần."
   },
   {
     "type": "fillblank",
@@ -3247,7 +3268,8 @@
     "answer": "know",
     "explain": "know = biet",
     "baseForm": "know",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi câu hỏi."
   },
   {
     "type": "quiz",
@@ -3312,7 +3334,8 @@
     "answer": "have",
     "explain": "have = có (cuộc họp)",
     "baseForm": "have",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ cuộc họp."
   },
   {
     "type": "reorder",
@@ -3468,7 +3491,8 @@
       "is",
       "coming."
     ],
-    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing"
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Xe buýt đang đến."
   },
   {
     "type": "reorder",
@@ -3819,7 +3843,8 @@
     "answer": "blows",
     "explain": "blows = thổi",
     "baseForm": "blow",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Gió thổi mạnh hôm nay."
   },
   {
     "type": "word",
@@ -4246,7 +4271,8 @@
     "answer": 3,
     "explain": "have = bị (đau đầu)",
     "baseForm": "have",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi cần."
   },
   {
     "type": "grammar",
@@ -4280,7 +4306,8 @@
     "answer": 0,
     "explain": "rang = rêu (Past)",
     "baseForm": "ring",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Chuông reo báo giờ giải lao."
   },
   {
     "type": "grammar",
@@ -4646,7 +4673,8 @@
     "answer": 0,
     "explain": "slept = ngu (Past)",
     "baseForm": "sleep",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Mèo ngủ trên ghế sofa."
   },
   {
     "type": "word",
@@ -4893,7 +4921,8 @@
       "is",
       "full."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Hotel full."
   },
   {
     "type": "typeblank",
@@ -4957,7 +4986,8 @@
       "very",
       "long."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Phim very."
   },
   {
     "type": "typeblank",
@@ -4986,7 +5016,8 @@
       "the",
       "table."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Mèo under."
   },
   {
     "type": "word",
@@ -5080,7 +5111,8 @@
     "answer": "took",
     "explain": "took = chup (Past)",
     "baseForm": "take",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi chụp ảnh cảnh đẹp."
   },
   {
     "type": "quiz",
@@ -5524,7 +5556,8 @@
     "answer": 3,
     "explain": "eat = ăn (should + V bare)",
     "baseForm": "eat",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Bạn nên ăn nhiều rau hơn."
   },
   {
     "type": "typeblank",
@@ -5532,7 +5565,8 @@
     "answer": "arrived",
     "explain": "arrived = den (Past)",
     "baseForm": "arrive",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tàu đến đúng giờ."
   },
   {
     "type": "quiz",
@@ -5671,7 +5705,8 @@
     "answer": 2,
     "explain": "lost = lam mat (Past)",
     "baseForm": "lose",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi thấy."
   },
   {
     "type": "typeblank",
@@ -5711,7 +5746,8 @@
     "answer": 2,
     "explain": "studies = học",
     "baseForm": "study",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Anh trai của cô ấy học kỹ thuật."
   },
   {
     "type": "fillblank",
@@ -5725,7 +5761,8 @@
     "answer": 0,
     "explain": "live = sống (plural)",
     "baseForm": "live",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Bố mẹ tôi sống ở nông thôn."
   },
   {
     "type": "quiz",
@@ -5775,7 +5812,8 @@
       "very",
       "sad."
     ],
-    "explain": "Quá khứ đơn (Past Simple): S + V2/ed"
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Câu chuyện rất buồn."
   },
   {
     "type": "word",
@@ -5931,7 +5969,8 @@
     "answer": "had",
     "explain": "had = co (Past)",
     "baseForm": "have",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ nhiều."
   },
   {
     "type": "word",
@@ -6200,7 +6239,8 @@
     "answer": 2,
     "explain": "took = chup (Past)",
     "baseForm": "take",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi chụp ảnh cảnh đẹp."
   },
   {
     "type": "grammar",
@@ -6276,7 +6316,8 @@
     "answer": "wagged",
     "explain": "wagged = vay (Past)",
     "baseForm": "wag",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Con chó vẫy đuôi."
   },
   {
     "type": "quiz",
@@ -6369,7 +6410,8 @@
     "answer": 1,
     "explain": "flew = bay (Past)",
     "baseForm": "fly",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Con chim bay lên bầu trời."
   },
   {
     "type": "quiz",
@@ -6445,7 +6487,8 @@
     "answer": 2,
     "explain": "enjoy = thích (enjoy + V-ing)",
     "baseForm": "enjoy",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi sách."
   },
   {
     "type": "quiz",
@@ -6598,7 +6641,8 @@
     "answer": "am",
     "explain": "am = (I am hungry)",
     "baseForm": "be",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi ăn."
   },
   {
     "type": "fillblank",
@@ -6612,7 +6656,8 @@
     "answer": 3,
     "explain": "rented = thue (Past)",
     "baseForm": "rent",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ nhà."
   },
   {
     "type": "word",
@@ -6714,7 +6759,8 @@
       "too",
       "cold."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Water too."
   },
   {
     "type": "reorder",
@@ -6759,7 +6805,8 @@
     "answer": "take",
     "explain": "take = tắm",
     "baseForm": "take",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi tắm trước khi đi ngủ."
   },
   {
     "type": "quiz",
@@ -6891,7 +6938,8 @@
     "answer": "begins",
     "explain": "begins = bat dau",
     "baseForm": "begin",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Phim bắt đầu lúc 7 giờ 30."
   },
   {
     "type": "fillblank",
@@ -6905,7 +6953,8 @@
     "answer": 1,
     "explain": "eat = ăn (should + V bare)",
     "baseForm": "eat",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Bạn nên ăn nhiều rau hơn."
   },
   {
     "type": "grammar",
@@ -6955,7 +7004,8 @@
     "answer": "studies",
     "explain": "studies = học",
     "baseForm": "study",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Anh trai của cô ấy học kỹ thuật."
   },
   {
     "type": "typeblank",
@@ -7219,7 +7269,8 @@
     "answer": 3,
     "explain": "want = muốn",
     "baseForm": "want",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi muốn đến thăm Nhật Bản một ngày nào đó."
   },
   {
     "type": "reorder",
@@ -7343,7 +7394,8 @@
     "answer": "blows",
     "explain": "blows = thổi",
     "baseForm": "blow",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Gió thổi mạnh hôm nay."
   },
   {
     "type": "word",
@@ -7464,7 +7516,8 @@
     "answer": 0,
     "explain": "got = nhận được (Past)",
     "baseForm": "get",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ được giảm giá cho cái đó."
   },
   {
     "type": "typeblank",
@@ -7472,7 +7525,8 @@
     "answer": "think",
     "explain": "think = nghĩ",
     "baseForm": "think",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi là/ở đúng."
   },
   {
     "type": "quiz",
@@ -7534,7 +7588,8 @@
     "answer": "lost",
     "explain": "lost = làm mất (Past)",
     "baseForm": "lose",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi có."
   },
   {
     "type": "reorder",
@@ -7673,7 +7728,8 @@
     "answer": 0,
     "explain": "begins = bắt đầu",
     "baseForm": "begin",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Phim bắt đầu lúc 7 giờ."
   },
   {
     "type": "quiz",
@@ -7819,7 +7875,8 @@
       "been",
       "cleaned."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Room đã được cleaned."
   },
   {
     "type": "quiz",
@@ -8165,7 +8222,8 @@
     "answer": "agreed",
     "explain": "agreed = đồng ý (Past)",
     "baseForm": "agre",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ giúp."
   },
   {
     "type": "grammar",
@@ -8193,7 +8251,8 @@
       "is",
       "open."
     ],
-    "explain": "Câu bị động (Passive Voice): S + be + V3"
+    "explain": "Câu bị động (Passive Voice): S + be + V3",
+    "vietnameseSentence": "Door open."
   },
   {
     "type": "quiz",
@@ -8250,7 +8309,8 @@
     "answer": 1,
     "explain": "bloom = nở",
     "baseForm": "bloom",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Hoa nở vào mùa xuân."
   },
   {
     "type": "quiz",
@@ -8288,7 +8348,8 @@
     "answer": 1,
     "explain": "went = di (Past)",
     "baseForm": "go",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ cho đi bộ."
   },
   {
     "type": "word",
@@ -8367,7 +8428,8 @@
       "the",
       "city."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "... của tôi bố mẹ sống ở city."
   },
   {
     "type": "word",
@@ -8470,7 +8532,8 @@
     "answer": "closes",
     "explain": "closes = đóng cửa",
     "baseForm": "clos",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Cửa hàng đóng cửa lúc 9 giờ tối."
   },
   {
     "type": "quiz",
@@ -8823,7 +8886,8 @@
     "answer": 0,
     "explain": "wagged = vay (Past)",
     "baseForm": "wag",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Con chó vẫy đuôi."
   },
   {
     "type": "quiz",
@@ -8855,7 +8919,8 @@
     "answer": "gave",
     "baseForm": "give",
     "explain": "gave = cho/tặng (past)",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi sách."
   },
   {
     "type": "word",
@@ -8881,7 +8946,8 @@
       "been",
       "delayed."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Project đã được delayed."
   },
   {
     "type": "quiz",
@@ -9042,7 +9108,8 @@
       "been",
       "ringing."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Phone đã được ringing."
   },
   {
     "type": "grammar",
@@ -9175,7 +9242,8 @@
     "answer": "used",
     "explain": "used = dùng (Past)",
     "baseForm": "us",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi dùng ô vì trời mưa."
   },
   {
     "type": "fillblank",
@@ -9431,7 +9499,8 @@
     "answer": 2,
     "explain": "chased = duoi (Past)",
     "baseForm": "chas",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Con chó đuổi theo quả bóng."
   },
   {
     "type": "quiz",
@@ -9471,7 +9540,8 @@
     "answer": "left",
     "explain": "left = de quên (Past)",
     "baseForm": "leave",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi điện thoại nhà."
   },
   {
     "type": "fillblank",
@@ -9502,7 +9572,8 @@
     "answer": "have",
     "explain": "have = bị (đau đầu)",
     "baseForm": "have",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi cần."
   },
   {
     "type": "reorder",
@@ -9588,7 +9659,8 @@
     "answer": "want",
     "explain": "want = muốn",
     "baseForm": "want",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi muốn đến thăm Nhật Bản một ngày nào đó."
   },
   {
     "type": "fillblank",
@@ -9690,7 +9762,8 @@
     "answer": 3,
     "explain": "closes = đóng cửa",
     "baseForm": "clos",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Cửa hàng đóng cửa lúc 9 giờ tối."
   },
   {
     "type": "word",
@@ -9926,7 +9999,8 @@
       "very",
       "friendly."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Chó very."
   },
   {
     "type": "fillblank",
@@ -9940,7 +10014,8 @@
     "answer": 2,
     "baseForm": "make",
     "explain": "making = làm/tạo (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Họ là/ở."
   },
   {
     "type": "word",
@@ -10027,7 +10102,8 @@
     "answer": 0,
     "explain": "told = bảo (Past)",
     "baseForm": "tell",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Bác sĩ bảo tôi nghỉ ngơi."
   },
   {
     "type": "quiz",
@@ -10376,7 +10452,8 @@
     "answer": "studies",
     "explain": "studies = học",
     "baseForm": "study",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Anh trai của cô ấy học kỹ thuật."
   },
   {
     "type": "word",
@@ -10418,7 +10495,8 @@
     "answer": 1,
     "explain": "take = tắm",
     "baseForm": "take",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi tắm trước khi đi ngủ."
   },
   {
     "type": "typeblank",
@@ -10475,7 +10553,8 @@
     "answer": "listened",
     "explain": "listened = nghe (Past)",
     "baseForm": "listen",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi xe."
   },
   {
     "type": "reorder",
@@ -10558,7 +10637,8 @@
     "answer": 2,
     "explain": "departs = khởi hành",
     "baseForm": "depart",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Chuyến bay khởi hành sau hai giờ."
   },
   {
     "type": "quiz",
@@ -10768,7 +10848,8 @@
       "too",
       "hot."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Coffee too."
   },
   {
     "type": "reorder",
@@ -10839,7 +10920,8 @@
     "answer": "live",
     "explain": "live = sống (plural)",
     "baseForm": "live",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Bố mẹ tôi sống ở nông thôn."
   },
   {
     "type": "quiz",
@@ -11220,7 +11302,8 @@
     "answer": "wrote",
     "explain": "wrote = viết (Past)",
     "baseForm": "write",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi bạn."
   },
   {
     "type": "word",
@@ -11242,7 +11325,8 @@
     "answer": 0,
     "explain": "left = roi (Past)",
     "baseForm": "leave",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ nhà."
   },
   {
     "type": "quiz",
@@ -11526,7 +11610,8 @@
     "answer": "lost",
     "explain": "lost = làm mất (Past)",
     "baseForm": "lose",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi có."
   },
   {
     "type": "word",
@@ -11718,7 +11803,8 @@
     "answer": 2,
     "baseForm": "like",
     "explain": "liking = thích (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Tôi là/ở sách."
   },
   {
     "type": "quiz",
@@ -11840,7 +11926,8 @@
     "answer": 2,
     "explain": "won = thang (Past)",
     "baseForm": "win",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ thắng trận đấu với 2 bàn thắng."
   },
   {
     "type": "fillblank",
@@ -11951,7 +12038,8 @@
       "was",
       "terrible."
     ],
-    "explain": "Quá khứ đơn (Past Simple): S + V2/ed"
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Thời tiết rất tệ."
   },
   {
     "type": "reorder",
@@ -12013,7 +12101,8 @@
     "answer": 0,
     "explain": "swam = boi (Past)",
     "baseForm": "swim",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Bọn trẻ bơi trong hồ."
   },
   {
     "type": "quiz",
@@ -12339,7 +12428,8 @@
       "at",
       "six."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Tàu khởi hành lúc 6 giờ."
   },
   {
     "type": "typeblank",
@@ -12347,7 +12437,8 @@
     "answer": "flew",
     "explain": "flew = bay (Past)",
     "baseForm": "fly",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Chim bay đi."
   },
   {
     "type": "quiz",
@@ -12446,7 +12537,8 @@
     "answer": "told",
     "explain": "told = bảo (Past)",
     "baseForm": "tell",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Bác sĩ bảo tôi nghỉ ngơi."
   },
   {
     "type": "quiz",
@@ -12609,7 +12701,8 @@
     "answer": "got",
     "explain": "got = nhận được (Past)",
     "baseForm": "go",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ được giảm giá cho cái đó."
   },
   {
     "type": "quiz",
@@ -12664,7 +12757,8 @@
     "answer": 0,
     "explain": "enjoy = thích (enjoy + V-ing)",
     "baseForm": "enjoy",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi sách."
   },
   {
     "type": "word",
@@ -12822,7 +12916,8 @@
     "answer": "got",
     "explain": "got = nhận được (Past)",
     "baseForm": "go",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ được giảm giá cho cái đó."
   },
   {
     "type": "quiz",
@@ -13081,7 +13176,8 @@
     "answer": 1,
     "explain": "visit = tham",
     "baseForm": "visit",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi tuần."
   },
   {
     "type": "word",
@@ -13153,7 +13249,8 @@
     "answer": "told",
     "explain": "told = bảo (Past)",
     "baseForm": "tell",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Bác sĩ bảo tôi nghỉ ngơi."
   },
   {
     "type": "fillblank",
@@ -13205,7 +13302,8 @@
     "answer": 1,
     "explain": "caught = bat (Past)",
     "baseForm": "catch",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Mèo bắt được chuột."
   },
   {
     "type": "word",
@@ -13347,7 +13445,8 @@
       "playing",
       "outside."
     ],
-    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing"
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Bọn trẻ đang chơi ngoài trời."
   },
   {
     "type": "word",
@@ -13495,7 +13594,8 @@
     "answer": 1,
     "explain": "blows = thổi",
     "baseForm": "blow",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Gió thổi mạnh hôm nay."
   },
   {
     "type": "quiz",
@@ -13790,7 +13890,8 @@
     "answer": "went",
     "explain": "went = di (Past)",
     "baseForm": "go",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ cho đi bộ."
   },
   {
     "type": "quiz",
@@ -13864,7 +13965,8 @@
     "answer": 2,
     "baseForm": "get",
     "explain": "got = nhận/lấy (past)",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi mới."
   },
   {
     "type": "word",
@@ -14102,7 +14204,8 @@
     "answer": 3,
     "explain": "begins = bắt đầu",
     "baseForm": "begin",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Phim bắt đầu lúc 7 giờ."
   },
   {
     "type": "word",
@@ -14130,7 +14233,8 @@
     "answer": "have lived",
     "explain": "have lived = đã sống (Present perfect)",
     "baseForm": "have",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ ở đây."
   },
   {
     "type": "reorder",
@@ -14146,7 +14250,8 @@
       "is",
       "difficult."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Problem difficult."
   },
   {
     "type": "word",
@@ -14486,7 +14591,8 @@
       "been",
       "made."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Decision đã được made."
   },
   {
     "type": "word",
@@ -14672,7 +14778,8 @@
       "is",
       "shining."
     ],
-    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing"
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Sun shining."
   },
   {
     "type": "quiz",
@@ -15066,7 +15173,8 @@
       "been",
       "submitted."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Report đã được submitted."
   },
   {
     "type": "typeblank",
@@ -15277,7 +15385,8 @@
     "answer": "have",
     "explain": "have = có (cuộc họp)",
     "baseForm": "have",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ cuộc họp."
   },
   {
     "type": "quiz",
@@ -15311,7 +15420,8 @@
     "answer": 3,
     "explain": "ride = dap xe",
     "baseForm": "ride",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi công việc."
   },
   {
     "type": "word",
@@ -15490,7 +15600,8 @@
     "answer": "getting",
     "baseForm": "get",
     "explain": "getting = nhận/lấy (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Họ là/ở."
   },
   {
     "type": "quiz",
@@ -15780,7 +15891,8 @@
     "answer": 0,
     "explain": "think = nghĩ",
     "baseForm": "think",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi là/ở đúng."
   },
   {
     "type": "word",
@@ -15874,7 +15986,8 @@
     "answer": 3,
     "explain": "flew = bay (Past)",
     "baseForm": "fly",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Chim bay đi."
   },
   {
     "type": "word",
@@ -16381,7 +16494,8 @@
     "answer": "want",
     "explain": "want = muốn",
     "baseForm": "want",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi muốn đến thăm Nhật Bản một ngày nào đó."
   },
   {
     "type": "quiz",
@@ -16508,7 +16622,8 @@
     "answer": "bloom",
     "explain": "bloom = nở",
     "baseForm": "bloom",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Hoa nở vào mùa xuân."
   },
   {
     "type": "word",
@@ -16763,7 +16878,8 @@
     "answer": 3,
     "explain": "struck = dong (Past)",
     "baseForm": "struck",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Đồng hồ điểm 12 giờ."
   },
   {
     "type": "grammar",
@@ -16944,7 +17060,8 @@
       "gone",
       "cold."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Food gone."
   },
   {
     "type": "word",
@@ -17025,7 +17142,8 @@
     "answer": "bloom",
     "explain": "bloom = nở",
     "baseForm": "bloom",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Hoa nở vào mùa xuân."
   },
   {
     "type": "grammar",
@@ -17161,7 +17279,8 @@
     "answer": "departs",
     "explain": "departs = khởi hành",
     "baseForm": "depart",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Chuyến bay khởi hành sau hai giờ."
   },
   {
     "type": "word",
@@ -17624,7 +17743,8 @@
     "answer": 3,
     "explain": "go = đi (Present simple, they)",
     "baseForm": "go",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ công việc xe buýt."
   },
   {
     "type": "grammar",
@@ -17693,7 +17813,8 @@
     "answer": 1,
     "explain": "lost = lam mat (Past)",
     "baseForm": "lose",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi giúp."
   },
   {
     "type": "word",
@@ -17758,7 +17879,8 @@
     "answer": "lost",
     "explain": "lost = lam mat (Past)",
     "baseForm": "lose",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi thấy."
   },
   {
     "type": "word",
@@ -17814,7 +17936,8 @@
     "answer": "making",
     "baseForm": "make",
     "explain": "making = làm/tạo (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Họ là/ở."
   },
   {
     "type": "quiz",
@@ -18114,7 +18237,8 @@
     "answer": 0,
     "baseForm": "know",
     "explain": "knowing = biết (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Tôi là/ở về."
   },
   {
     "type": "fillblank",
@@ -18739,7 +18863,8 @@
     "answer": 3,
     "explain": "had = co (Past)",
     "baseForm": "have",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ nhiều."
   },
   {
     "type": "word",
@@ -18844,7 +18969,8 @@
     "answer": "rented",
     "explain": "rented = thue (Past)",
     "baseForm": "rent",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ nhà."
   },
   {
     "type": "word",
@@ -18885,7 +19011,8 @@
     "answer": 3,
     "explain": "go = di",
     "baseForm": "go",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ giống."
   },
   {
     "type": "quiz",
@@ -19253,7 +19380,8 @@
       "been",
       "sent."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Letter đã được sent."
   },
   {
     "type": "word",
@@ -19397,7 +19525,8 @@
     "answer": 2,
     "baseForm": "think",
     "explain": "thinking = nghĩ (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Tôi là/ở về."
   },
   {
     "type": "typeblank",
@@ -19550,7 +19679,8 @@
     "answer": 1,
     "explain": "liked = thich (Past)",
     "baseForm": "like",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ đã là/ở tốt."
   },
   {
     "type": "word",
@@ -19584,7 +19714,8 @@
     "answer": 1,
     "explain": "praised = khen (Past)",
     "baseForm": "prais",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Giáo viên khen ngợi học sinh."
   },
   {
     "type": "word",
@@ -19673,7 +19804,8 @@
     "answer": 3,
     "explain": "played = chỏi (Past)",
     "baseForm": "play",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Bọn trẻ chơi trong vườn."
   },
   {
     "type": "quiz",
@@ -19846,7 +19978,8 @@
       "was",
       "easy."
     ],
-    "explain": "Quá khứ đơn (Past Simple): S + V2/ed"
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Bài học dễ."
   },
   {
     "type": "typeblank",
@@ -20140,7 +20273,8 @@
       "in",
       "London."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "... của tôi anh trai works ở."
   },
   {
     "type": "typeblank",
@@ -20485,7 +20619,8 @@
     "answer": 0,
     "explain": "listened = nghe (Past)",
     "baseForm": "listen",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi xe."
   },
   {
     "type": "word",
@@ -20831,7 +20966,8 @@
     "answer": "visit",
     "explain": "visit = tham",
     "baseForm": "visit",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi tuần."
   },
   {
     "type": "grammar",
@@ -21014,7 +21150,8 @@
     "answer": "closed",
     "explain": "closed = dong (Past)",
     "baseForm": "clos",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ cửa sổ."
   },
   {
     "type": "quiz",
@@ -21152,7 +21289,8 @@
     "answer": "left",
     "explain": "left = roi (Past)",
     "baseForm": "leave",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ nhà."
   },
   {
     "type": "word",
@@ -21174,7 +21312,8 @@
     "answer": 3,
     "explain": "bought = mua (Past)",
     "baseForm": "buy",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ mới nhà."
   },
   {
     "type": "quiz",
@@ -21261,7 +21400,8 @@
       "too",
       "high."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Price too."
   },
   {
     "type": "reorder",
@@ -21512,7 +21652,8 @@
     "answer": "saying",
     "baseForm": "say",
     "explain": "saying = nói (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Họ là/ở."
   },
   {
     "type": "quiz",
@@ -21595,7 +21736,8 @@
     "answer": "go",
     "explain": "go = đi (plural)",
     "baseForm": "go",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Bọn trẻ đi học lúc 8 giờ."
   },
   {
     "type": "word",
@@ -21686,7 +21828,8 @@
     "answer": "drove",
     "explain": "drove = lai (Past)",
     "baseForm": "drive",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi lái xe đưa anh tôi đến nhà ga."
   },
   {
     "type": "fillblank",
@@ -21981,7 +22124,8 @@
     "answer": "rises",
     "explain": "rises = mọc",
     "baseForm": "rise",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Mặt trời mọc ở phía đông."
   },
   {
     "type": "fillblank",
@@ -22338,7 +22482,8 @@
     "answer": 2,
     "explain": "left = de quên (Past)",
     "baseForm": "leave",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi điện thoại nhà."
   },
   {
     "type": "quiz",
@@ -22611,7 +22756,8 @@
     "answer": 2,
     "explain": "have = bi cam",
     "baseForm": "have",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi cần."
   },
   {
     "type": "word",
@@ -22819,7 +22965,8 @@
     "answer": 1,
     "explain": "got = ve (Past)",
     "baseForm": "go",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ nhà."
   },
   {
     "type": "quiz",
@@ -22845,7 +22992,8 @@
     "answer": 0,
     "explain": "handles = xử lý (Present simple, chủ ngữ số ít)",
     "baseForm": "handle",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "API xử lý mọi yêu cầu từ client."
   },
   {
     "type": "typeblank",
@@ -22853,7 +23001,8 @@
     "answer": "attended",
     "explain": "attended = tham du (Past)",
     "baseForm": "attend",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ cuộc họp."
   },
   {
     "type": "grammar",
@@ -22990,7 +23139,8 @@
       "too",
       "loud."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Music too."
   },
   {
     "type": "typeblank",
@@ -23479,7 +23629,8 @@
       "been",
       "updated."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Schedule đã được updated."
   },
   {
     "type": "word",
@@ -23516,7 +23667,8 @@
     "answer": 0,
     "explain": "am = (I am hungry)",
     "baseForm": "be",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi ăn."
   },
   {
     "type": "word",
@@ -23657,7 +23809,8 @@
     "answer": 3,
     "explain": "called = goi (Past)",
     "baseForm": "cal",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ gọi taxi."
   },
   {
     "type": "quiz",
@@ -23752,7 +23905,8 @@
       "the",
       "shelf."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Book trên."
   },
   {
     "type": "reorder",
@@ -23940,7 +24094,8 @@
     "answer": 3,
     "explain": "closed = dong (Past)",
     "baseForm": "close",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ cửa sổ."
   },
   {
     "type": "reorder",
@@ -24023,7 +24178,8 @@
     "answer": "swam",
     "explain": "swam = boi (Past)",
     "baseForm": "swim",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Bọn trẻ bơi trong hồ."
   },
   {
     "type": "quiz",
@@ -24088,7 +24244,8 @@
     "answer": 2,
     "explain": "have = có (cuộc họp)",
     "baseForm": "have",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ cuộc họp."
   },
   {
     "type": "word",
@@ -24183,7 +24340,8 @@
     "answer": "go",
     "explain": "go = đi (plural)",
     "baseForm": "go",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Bọn trẻ đi học lúc 8 giờ."
   },
   {
     "type": "quiz",
@@ -24763,7 +24921,8 @@
     "answer": 3,
     "explain": "have lived = đã sống (Present perfect)",
     "baseForm": "have",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ ở đây."
   },
   {
     "type": "quiz",
@@ -24977,7 +25136,8 @@
     "answer": 3,
     "explain": "go = đi (Present simple, they)",
     "baseForm": "go",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ công việc xe buýt."
   },
   {
     "type": "grammar",
@@ -25289,7 +25449,8 @@
     "answer": 0,
     "explain": "closed = dong (Past)",
     "baseForm": "clos",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi cửa sổ."
   },
   {
     "type": "reorder",
@@ -25526,7 +25687,8 @@
     "answer": 1,
     "explain": "rises = mọc",
     "baseForm": "rise",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Mặt trời mọc ở phía đông."
   },
   {
     "type": "quiz",
@@ -25556,7 +25718,8 @@
       "for",
       "sale."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "House cho."
   },
   {
     "type": "word",
@@ -25666,7 +25829,8 @@
     "answer": 1,
     "explain": "borrowed = muon (Past)",
     "baseForm": "borrow",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi sách từ."
   },
   {
     "type": "word",
@@ -25993,7 +26157,8 @@
     "answer": "said",
     "baseForm": "say",
     "explain": "said = nói (past)",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi nói rõ ràng."
   },
   {
     "type": "reorder",
@@ -26011,7 +26176,8 @@
       "been",
       "revised."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Policy đã được revised."
   },
   {
     "type": "quiz",
@@ -26047,7 +26213,8 @@
     "answer": "need",
     "explain": "need = can",
     "baseForm": "need",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ mới xe."
   },
   {
     "type": "quiz",
@@ -26436,7 +26603,8 @@
     "answer": "praised",
     "explain": "praised = khen (Past)",
     "baseForm": "prais",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Giáo viên khen ngợi học sinh."
   },
   {
     "type": "grammar",
@@ -26546,7 +26714,8 @@
     "answer": "called",
     "explain": "called = goi (Past)",
     "baseForm": "call",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ gọi taxi."
   },
   {
     "type": "word",
@@ -26620,7 +26789,8 @@
       "been",
       "approved."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Budget đã được approved."
   },
   {
     "type": "reorder",
@@ -27097,7 +27267,8 @@
     "answer": "liked",
     "explain": "liked = thich (Past)",
     "baseForm": "like",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ đã là/ở tốt."
   },
   {
     "type": "word",
@@ -27252,7 +27423,8 @@
     "answer": "lost",
     "explain": "lost = lam mat (Past)",
     "baseForm": "lose",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi giúp."
   },
   {
     "type": "word",
@@ -27411,7 +27583,8 @@
     "answer": 0,
     "explain": "rises = mọc",
     "baseForm": "rise",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Mặt trời mọc ở phía đông."
   },
   {
     "type": "typeblank",
@@ -27460,7 +27633,8 @@
       "was",
       "delicious."
     ],
-    "explain": "Quá khứ đơn (Past Simple): S + V2/ed"
+    "explain": "Quá khứ đơn (Past Simple): S + V2/ed",
+    "vietnameseSentence": "Đồ ăn rất ngon."
   },
   {
     "type": "reorder",
@@ -27497,7 +27671,8 @@
     "answer": "go",
     "explain": "go = đi (plural)",
     "baseForm": "go",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Bọn trẻ đi học lúc 8 giờ."
   },
   {
     "type": "word",
@@ -27782,7 +27957,8 @@
       "next",
       "week."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Exam next."
   },
   {
     "type": "reorder",
@@ -27835,7 +28011,8 @@
     "answer": "departs",
     "explain": "departs = khởi hành",
     "baseForm": "depart",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Chuyến bay khởi hành sau hai giờ."
   },
   {
     "type": "word",
@@ -28338,7 +28515,8 @@
     "answer": "went",
     "explain": "went = di (Past)",
     "baseForm": "go",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ đi đến buổi hòa nhạc."
   },
   {
     "type": "quiz",
@@ -28492,7 +28670,8 @@
       "was",
       "interesting."
     ],
-    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing"
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Phim thú vị."
   },
   {
     "type": "reorder",
@@ -29178,7 +29357,8 @@
     "answer": "borrowed",
     "explain": "borrowed = muon (Past)",
     "baseForm": "borrow",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi sách từ."
   },
   {
     "type": "quiz",
@@ -29369,7 +29549,8 @@
     "answer": 2,
     "explain": "opened = mo (Past)",
     "baseForm": "open",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ cửa sổ đã là/ở."
   },
   {
     "type": "quiz",
@@ -29609,7 +29790,8 @@
     "answer": 3,
     "explain": "have lived = đã sống (Present perfect)",
     "baseForm": "have",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ ở đây."
   },
   {
     "type": "quiz",
@@ -29726,7 +29908,8 @@
     "answer": 0,
     "baseForm": "know",
     "explain": "knowing = biết (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Tôi là/ở về."
   },
   {
     "type": "quiz",
@@ -29773,7 +29956,8 @@
     "answer": "rang",
     "explain": "rang = rêu (Past)",
     "baseForm": "ring",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Chuông reo báo giờ giải lao."
   },
   {
     "type": "word",
@@ -29840,7 +30024,8 @@
       "been",
       "signed."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Contract đã được signed."
   },
   {
     "type": "reorder",
@@ -29907,7 +30092,8 @@
     "answer": 1,
     "explain": "took = chup (Past)",
     "baseForm": "take",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ nhiều."
   },
   {
     "type": "word",
@@ -30213,7 +30399,8 @@
     "answer": "begins",
     "explain": "begins = bắt đầu",
     "baseForm": "begin",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Phim bắt đầu lúc 7 giờ."
   },
   {
     "type": "grammar",
@@ -30319,7 +30506,8 @@
     "answer": 0,
     "baseForm": "give",
     "explain": "gave = cho/tặng (past)",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi sách."
   },
   {
     "type": "reorder",
@@ -30557,7 +30745,8 @@
     "answer": 2,
     "explain": "need = can",
     "baseForm": "ne",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ mới xe."
   },
   {
     "type": "word",
@@ -30682,7 +30871,8 @@
       "was",
       "amazing."
     ],
-    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing"
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Buổi hòa nhạc tuyệt vời."
   },
   {
     "type": "word",
@@ -30860,7 +31050,8 @@
       "been",
       "solved."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Problem đã được solved."
   },
   {
     "type": "quiz",
@@ -31053,7 +31244,8 @@
     "answer": "struck",
     "explain": "struck = dong (Past)",
     "baseForm": "struck",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Đồng hồ điểm 12 giờ."
   },
   {
     "type": "word",
@@ -31391,7 +31583,8 @@
       "been",
       "completed."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Work đã được completed."
   },
   {
     "type": "quiz",
@@ -31555,7 +31748,8 @@
       "left",
       "open."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Door đã được left."
   },
   {
     "type": "quiz",
@@ -31756,7 +31950,8 @@
       "been",
       "resolved."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Situation đã được resolved."
   },
   {
     "type": "grammar",
@@ -31986,7 +32181,8 @@
     "answer": 3,
     "explain": "barked = sua (Past)",
     "baseForm": "bark",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Con chó sủa người lạ."
   },
   {
     "type": "word",
@@ -32384,7 +32580,8 @@
     "answer": 1,
     "baseForm": "do",
     "explain": "doing = làm (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Họ là/ở."
   },
   {
     "type": "reorder",
@@ -32404,7 +32601,8 @@
       "the",
       "garage."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Xe ở."
   },
   {
     "type": "word",
@@ -32916,7 +33114,8 @@
     "answer": "got",
     "explain": "got = ve (Past)",
     "baseForm": "go",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ nhà."
   },
   {
     "type": "word",
@@ -32932,7 +33131,8 @@
     "answer": "caught",
     "explain": "caught = bat (Past)",
     "baseForm": "catch",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Mèo bắt được chuột."
   },
   {
     "type": "reorder",
@@ -32952,7 +33152,8 @@
       "the",
       "road."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Con chó chạy qua đường."
   },
   {
     "type": "word",
@@ -33258,7 +33459,8 @@
       "been",
       "sold."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "House đã được sold."
   },
   {
     "type": "word",
@@ -33363,7 +33565,8 @@
       "is",
       "ringing."
     ],
-    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing"
+    "explain": "Hiện tại tiếp diễn (Present Continuous): S + am/is/are + V-ing",
+    "vietnameseSentence": "Phone ringing."
   },
   {
     "type": "fillblank",
@@ -33394,7 +33597,8 @@
     "answer": "said",
     "baseForm": "say",
     "explain": "said = nói (past)",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi nói rõ ràng."
   },
   {
     "type": "fillblank",
@@ -33629,7 +33833,8 @@
     "answer": 3,
     "explain": "begins = bat dau",
     "baseForm": "begin",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Phim bắt đầu lúc 7 giờ 30."
   },
   {
     "type": "word",
@@ -33732,7 +33937,8 @@
       "closed",
       "today."
     ],
-    "explain": "Câu bị động (Passive Voice): S + be + V3"
+    "explain": "Câu bị động (Passive Voice): S + be + V3",
+    "vietnameseSentence": "Cửa hàng đóng cửa."
   },
   {
     "type": "word",
@@ -33918,7 +34124,8 @@
       "by",
       "him."
     ],
-    "explain": "Câu bị động (Passive Voice): S + be + V3"
+    "explain": "Câu bị động (Passive Voice): S + be + V3",
+    "vietnameseSentence": "Cuốn sách được viết bởi anh ấy."
   },
   {
     "type": "fillblank",
@@ -34000,7 +34207,8 @@
       "was",
       "shocking."
     ],
-    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing"
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Tin tức gây sốc."
   },
   {
     "type": "quiz",
@@ -34323,7 +34531,8 @@
     "answer": 2,
     "explain": "went = di (Past)",
     "baseForm": "go",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ đi đến buổi hòa nhạc."
   },
   {
     "type": "word",
@@ -34357,7 +34566,8 @@
     "answer": 0,
     "explain": "flows = chay",
     "baseForm": "flow",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Dòng sông chảy qua thị trấn."
   },
   {
     "type": "quiz",
@@ -34407,7 +34617,8 @@
     "answer": 2,
     "baseForm": "be",
     "explain": "am = là/ở (present_simple_1s)",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi là một sinh viên."
   },
   {
     "type": "quiz",
@@ -34551,7 +34762,8 @@
     "answer": "flows",
     "explain": "flows = chay",
     "baseForm": "flow",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Dòng sông chảy qua thị trấn."
   },
   {
     "type": "quiz",
@@ -34801,7 +35013,8 @@
       "nice",
       "today."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Thời tiết đẹp."
   },
   {
     "type": "word",
@@ -35144,7 +35357,8 @@
     "answer": "go",
     "explain": "go = di",
     "baseForm": "go",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ giống."
   },
   {
     "type": "typeblank",
@@ -35152,7 +35366,8 @@
     "answer": "bought",
     "explain": "bought = mua (Past)",
     "baseForm": "buy",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ mới nhà."
   },
   {
     "type": "quiz",
@@ -35677,7 +35892,8 @@
     "answer": 2,
     "baseForm": "be",
     "explain": "are = là/ở (present_simple_plural)",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ bạn bè."
   },
   {
     "type": "quiz",
@@ -35835,7 +36051,8 @@
       "were",
       "laughing."
     ],
-    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing"
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Bọn trẻ đang cười."
   },
   {
     "type": "word",
@@ -36113,7 +36330,8 @@
     "answer": "taking",
     "baseForm": "take",
     "explain": "taking = lấy/cầm (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Họ là/ở."
   },
   {
     "type": "fillblank",
@@ -36376,7 +36594,8 @@
     "answer": "lost",
     "explain": "lost = làm mất (Past)",
     "baseForm": "lose",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi có."
   },
   {
     "type": "quiz",
@@ -36490,7 +36709,8 @@
     "answer": "won",
     "explain": "won = thang (Past)",
     "baseForm": "win",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ thắng trận 2-1."
   },
   {
     "type": "word",
@@ -36685,7 +36905,8 @@
     "answer": 2,
     "explain": "attended = tham du (Past)",
     "baseForm": "attend",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ cuộc họp."
   },
   {
     "type": "quiz",
@@ -36909,7 +37130,8 @@
     "answer": "saying",
     "baseForm": "say",
     "explain": "saying = nói (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Họ là/ở."
   },
   {
     "type": "grammar",
@@ -37192,7 +37414,8 @@
     "answer": "flew",
     "explain": "flew = bay (Past)",
     "baseForm": "fly",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Con chim bay lên bầu trời."
   },
   {
     "type": "word",
@@ -37764,7 +37987,8 @@
       "been",
       "cancelled."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Meeting đã được cancelled."
   },
   {
     "type": "word",
@@ -37991,7 +38215,8 @@
     "answer": "making",
     "baseForm": "make",
     "explain": "making = làm/tạo (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Họ là/ở."
   },
   {
     "type": "word",
@@ -38168,7 +38393,8 @@
     "answer": "thinking",
     "baseForm": "think",
     "explain": "thinking = nghĩ (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Tôi là/ở về."
   },
   {
     "type": "quiz",
@@ -38430,7 +38656,8 @@
     "answer": "met",
     "explain": "met = gap (Past)",
     "baseForm": "meet",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi bạn."
   },
   {
     "type": "quiz",
@@ -38527,7 +38754,8 @@
     "answer": "live",
     "explain": "live = song",
     "baseForm": "live",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ nhỏ."
   },
   {
     "type": "quiz",
@@ -38777,7 +39005,8 @@
     "answer": 2,
     "explain": "drove = lai (Past)",
     "baseForm": "drive",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi lái xe đưa anh tôi đến nhà ga."
   },
   {
     "type": "quiz",
@@ -38829,7 +39058,8 @@
     "answer": "took",
     "explain": "took = chup (Past)",
     "baseForm": "take",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ nhiều."
   },
   {
     "type": "word",
@@ -39035,7 +39265,8 @@
     "answer": 2,
     "explain": "know = biet",
     "baseForm": "know",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi câu hỏi."
   },
   {
     "type": "word",
@@ -39159,7 +39390,8 @@
       "was",
       "boring."
     ],
-    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing"
+    "explain": "Quá khứ tiếp diễn (Past Continuous): S + was/were + V-ing",
+    "vietnameseSentence": "Cuốn sách nhàm chán."
   },
   {
     "type": "word",
@@ -39245,7 +39477,8 @@
       "at",
       "three."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Meeting lúc."
   },
   {
     "type": "grammar",
@@ -40214,7 +40447,8 @@
     "answer": 3,
     "baseForm": "take",
     "explain": "taking = lấy/cầm (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Họ là/ở."
   },
   {
     "type": "reorder",
@@ -40846,7 +41080,8 @@
     "answer": 3,
     "baseForm": "get",
     "explain": "getting = nhận/lấy (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Họ là/ở."
   },
   {
     "type": "grammar",
@@ -40924,7 +41159,8 @@
     "answer": "ride",
     "explain": "ride = dap xe",
     "baseForm": "ride",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Tôi công việc."
   },
   {
     "type": "word",
@@ -41139,7 +41375,8 @@
     "answer": "gave",
     "baseForm": "give",
     "explain": "gave = cho/tặng (past)",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi sách."
   },
   {
     "type": "quiz",
@@ -41207,7 +41444,8 @@
     "answer": "have lived",
     "explain": "have lived = đã sống (Present perfect)",
     "baseForm": "have",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ ở đây."
   },
   {
     "type": "grammar",
@@ -41625,7 +41863,8 @@
     "answer": "barked",
     "explain": "barked = sua (Past)",
     "baseForm": "bark",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Con chó sủa người lạ."
   },
   {
     "type": "grammar",
@@ -41645,7 +41884,8 @@
     "answer": "begins",
     "explain": "begins = bắt đầu",
     "baseForm": "begin",
-    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)"
+    "tenseHint": "Hiện tại đơn (Present Simple - ngôi thứ 3)",
+    "vietnameseSentence": "Phim bắt đầu lúc 7 giờ."
   },
   {
     "type": "reorder",
@@ -42062,7 +42302,8 @@
       "very",
       "big."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Room very."
   },
   {
     "type": "word",
@@ -42107,7 +42348,8 @@
     "answer": "won",
     "explain": "won = thang (Past)",
     "baseForm": "win",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ thắng trận đấu với 2 bàn thắng."
   },
   {
     "type": "word",
@@ -42959,7 +43201,8 @@
     "answer": 1,
     "explain": "takes off = cat canh",
     "baseForm": "take",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Máy bay cất cánh lúc 6 giờ sáng."
   },
   {
     "type": "word",
@@ -43005,7 +43248,8 @@
       "been",
       "approved."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Application đã được approved."
   },
   {
     "type": "reorder",
@@ -43218,7 +43462,8 @@
     "answer": "played",
     "explain": "played = chỏi (Past)",
     "baseForm": "play",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Bọn trẻ chơi trong vườn."
   },
   {
     "type": "quiz",
@@ -43312,7 +43557,8 @@
     "answer": 1,
     "explain": "live = song",
     "baseForm": "live",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ nhỏ."
   },
   {
     "type": "word",
@@ -43546,7 +43792,8 @@
     "answer": 2,
     "baseForm": "come",
     "explain": "come = đến (present_simple_plural)",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ đến thăm chúng tôi."
   },
   {
     "type": "word",
@@ -44054,7 +44301,8 @@
     "answer": 2,
     "explain": "won = thang (Past)",
     "baseForm": "win",
-    "tenseHint": "Hiện tại đơn (Present Simple)"
+    "tenseHint": "Hiện tại đơn (Present Simple)",
+    "vietnameseSentence": "Họ thắng trận 2-1."
   },
   {
     "type": "quiz",
@@ -44096,7 +44344,8 @@
       "been",
       "updated."
     ],
-    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3"
+    "explain": "Hiện tại hoàn thành (Present Perfect): S + have/has + V3",
+    "vietnameseSentence": "Quy tắc đã được cập nhật."
   },
   {
     "type": "word",
@@ -44175,7 +44424,8 @@
     "answer": 0,
     "baseForm": "know",
     "explain": "knew = biết (past)",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi đã làm điều đó trước đây."
   },
   {
     "type": "grammar",
@@ -44239,7 +44489,8 @@
     "answer": "making",
     "baseForm": "make",
     "explain": "making = làm/tạo (present_participle)",
-    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)"
+    "tenseHint": "Hiện tại tiếp diễn (Present Continuous)",
+    "vietnameseSentence": "Họ là/ở."
   },
   {
     "type": "quiz",
@@ -44331,7 +44582,8 @@
     "answer": "slept",
     "explain": "slept = ngu (Past)",
     "baseForm": "sleep",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Mèo ngủ trên ghế sofa."
   },
   {
     "type": "word",
@@ -44641,7 +44893,8 @@
       "is",
       "beautiful."
     ],
-    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)"
+    "explain": "Hiện tại đơn (Present Simple): S + V(s/es)",
+    "vietnameseSentence": "Garden beautiful."
   },
   {
     "type": "quiz",
@@ -44826,7 +45079,8 @@
     "answer": 0,
     "explain": "met = gap (Past)",
     "baseForm": "meet",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Tôi bạn."
   },
   {
     "type": "word",
@@ -44926,7 +45180,8 @@
     "answer": "opened",
     "explain": "opened = mo (Past)",
     "baseForm": "open",
-    "tenseHint": "Quá khứ đơn (Past Simple)"
+    "tenseHint": "Quá khứ đơn (Past Simple)",
+    "vietnameseSentence": "Họ cửa sổ đã là/ở."
   },
   {
     "type": "grammar",
