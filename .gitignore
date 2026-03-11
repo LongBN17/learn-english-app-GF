@@ -1,0 +1,25 @@
+# Python scripts helper (temporary, not needed in repo)
+*.py
+
+# Temporary data files
+examples_to_translate.json
+translations.json
+
+# Browser extension files (not related to main app)
+icon.png
+manifest.json
+popup.html
+popup.js
+background.js
+check_ipa.js
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
