@@ -225,7 +225,7 @@
     }
 
     .main-content {
-      padding: 40px 56px 56px;
+      padding: 40px 56px 120px; /* chừa chỗ cho thanh nút cố định ở đáy */
       max-width: none;
     }
 
@@ -273,14 +273,38 @@
       box-shadow: 0 15px 50px rgba(0, 0, 0, 0.15);
     }
 
-    .card.flip {
-      animation: flipCard 0.6s ease-in-out;
+    /* Animation trượt ngang khi đổi bài */
+    .slide-animation {
+      animation: slideHorizontal 0.4s ease-out;
     }
 
-    @keyframes flipCard {
-      0% { transform: rotateY(0deg); }
-      50% { transform: rotateY(90deg); }
-      100% { transform: rotateY(0deg); }
+    @keyframes slideHorizontal {
+      0% {
+        transform: translateX(40px);
+        opacity: 0;
+      }
+      100% {
+        transform: translateX(0);
+        opacity: 1;
+      }
+    }
+
+    /* Giảm hiệu ứng hover để đỡ chóng mặt */
+    .card,
+    .card:hover {
+      transform: none;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+    }
+
+    .btn::before {
+      display: none;
+    }
+
+    .btn,
+    .btn:hover,
+    .btn:active {
+      transform: none;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     }
 
     .term-container {
@@ -772,11 +796,158 @@
       box-shadow: 0 2px 8px rgba(59, 130, 246, 0.4);
     }
 
+    /* Welcome Screen Styles */
+    #welcomeScreen {
+      padding: 40px 30px;
+      background: linear-gradient(135deg, #f8fafc 0%, #e0f2fe 100%);
+    }
+
+    .welcome-header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .welcome-header h2 {
+      font-size: 32px;
+      color: #1e40af;
+      margin-bottom: 10px;
+      font-weight: 700;
+    }
+
+    .welcome-header p {
+      font-size: 18px;
+      color: #64748b;
+    }
+
+    .learning-paths {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 25px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .learning-path-card {
+      background: white;
+      border-radius: 16px;
+      padding: 30px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+      border: 3px solid transparent;
+    }
+
+    .learning-path-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+      border-color: #3b82f6;
+    }
+
+    .learning-path-card.beginner {
+      border-top: 4px solid #10b981;
+    }
+
+    .learning-path-card.intermediate {
+      border-top: 4px solid #f59e0b;
+    }
+
+    .learning-path-card.advanced {
+      border-top: 4px solid #ef4444;
+    }
+
+    .path-icon {
+      font-size: 48px;
+      text-align: center;
+      margin-bottom: 15px;
+    }
+
+    .path-title {
+      font-size: 24px;
+      font-weight: 700;
+      margin-bottom: 8px;
+      color: #1e293b;
+      text-align: center;
+    }
+
+    .path-level {
+      text-align: center;
+      font-size: 14px;
+      color: #64748b;
+      margin-bottom: 15px;
+      font-weight: 600;
+    }
+
+    .path-topics {
+      list-style: none;
+      padding: 0;
+      margin: 15px 0;
+    }
+
+    .path-topics li {
+      padding: 8px 0;
+      color: #475569;
+      font-size: 15px;
+      padding-left: 24px;
+      position: relative;
+    }
+
+    .path-topics li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: #3b82f6;
+      font-weight: 700;
+    }
+
+    .path-stats {
+      display: flex;
+      justify-content: space-around;
+      margin-top: 20px;
+      padding-top: 20px;
+      border-top: 2px solid #e2e8f0;
+    }
+
+    .path-stat {
+      text-align: center;
+    }
+
+    .path-stat-value {
+      font-size: 24px;
+      font-weight: 700;
+      color: #3b82f6;
+    }
+
+    .path-stat-label {
+      font-size: 12px;
+      color: #64748b;
+      margin-top: 4px;
+    }
+
+    .hidden {
+      display: none !important;
+    }
+
     .actions {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 15px;
       margin-top: 30px;
+    }
+
+    /* Thanh nút Learn cố định ở lề dưới màn hình, chiếm ngang giống nội dung */
+    #contentLearn .actions {
+      position: fixed;
+      left: 50%;
+      transform: translateX(-50%);
+      bottom: 24px;
+      width: min(1120px, 100% - 80px);
+      padding-top: 12px;
+      padding-bottom: 12px;
+      margin-top: 0;
+      background: rgba(248, 250, 252, 0.96);
+      box-shadow: 0 -4px 20px rgba(15, 23, 42, 0.12);
+      border-radius: 16px;
+      z-index: 40;
     }
 
     .btn {
@@ -1031,16 +1202,102 @@
       </div>
     </div>
 
-    <div class="tabs">
+    <!-- Welcome Screen -->
+    <div id="welcomeScreen">
+      <div class="welcome-header">
+        <h2>🎓 Hôm nay bạn muốn học gì?</h2>
+        <p>Chọn lộ trình học phù hợp với trình độ của bạn</p>
+      </div>
+
+      <div class="learning-paths">
+        <!-- Beginner Path -->
+        <div class="learning-path-card beginner" onclick="selectLearningPath('beginner')">
+          <div class="path-icon">🌱</div>
+          <div class="path-title">Cơ Bản</div>
+          <div class="path-level">Beginner (A1-A2)</div>
+          <ul class="path-topics">
+            <li>Thì cơ bản (Present, Past, Future)</li>
+            <li>Từ vựng hàng ngày</li>
+            <li>Ngữ pháp đơn giản</li>
+            <li>Câu giao tiếp cơ bản</li>
+          </ul>
+          <div class="path-stats">
+            <div class="path-stat">
+              <div class="path-stat-value" id="beginnerCount">0</div>
+              <div class="path-stat-label">Bài học</div>
+            </div>
+            <div class="path-stat">
+              <div class="path-stat-value" id="beginnerProgress">0%</div>
+              <div class="path-stat-label">Hoàn thành</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Intermediate Path -->
+        <div class="learning-path-card intermediate" onclick="selectLearningPath('intermediate')">
+          <div class="path-icon">🚀</div>
+          <div class="path-title">Trung Cấp</div>
+          <div class="path-level">Intermediate (B1-B2)</div>
+          <ul class="path-topics">
+            <li>Thì hoàn thành (Perfect tenses)</li>
+            <li>Câu điều kiện, Bị động</li>
+            <li>Từ vựng chuyên ngành</li>
+            <li>Giao tiếp nâng cao</li>
+          </ul>
+          <div class="path-stats">
+            <div class="path-stat">
+              <div class="path-stat-value" id="intermediateCount">0</div>
+              <div class="path-stat-label">Bài học</div>
+            </div>
+            <div class="path-stat">
+              <div class="path-stat-value" id="intermediateProgress">0%</div>
+              <div class="path-stat-label">Hoàn thành</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Advanced Path -->
+        <div class="learning-path-card advanced" onclick="selectLearningPath('advanced')">
+          <div class="path-icon">🏆</div>
+          <div class="path-title">Nâng Cao</div>
+          <div class="path-level">Advanced (C1-C2)</div>
+          <ul class="path-topics">
+            <li>Thì phức tạp (Perfect Continuous)</li>
+            <li>Mệnh đề quan hệ, Đảo ngữ</li>
+            <li>Từ vựng học thuật</li>
+            <li>Văn phong chính thức</li>
+          </ul>
+          <div class="path-stats">
+            <div class="path-stat">
+              <div class="path-stat-value" id="advancedCount">0</div>
+              <div class="path-stat-label">Bài học</div>
+            </div>
+            <div class="path-stat">
+              <div class="path-stat-value" id="advancedProgress">0%</div>
+              <div class="path-stat-label">Hoàn thành</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="tabs hidden" id="mainTabs">
       <button class="tab active" id="tabLearn" data-tab="learn">
         📖 Học (Learn)
       </button>
       <button class="tab" id="tabPractice" data-tab="practice">
         🎯 Luyện tập (Practice)
       </button>
+      <button class="tab" onclick="backToWelcome()" style="margin-left: auto; background: #f1f5f9;">
+        🏠 Đổi lộ trình
+      </button>
     </div>
 
-    <div class="main-content">
+    <div class="hidden" id="pathIndicator" style="padding: 15px 30px; background: linear-gradient(135deg, #e0f2fe, #bae6fd); text-align: center; font-weight: 600; color: #0c4a6e; font-size: 16px;">
+      Đang học: <span id="currentPathName">Tất cả</span>
+    </div>
+
+    <div class="main-content hidden" id="mainContent">
       <!-- Tab 1: Learn (Chỉ đọc thông tin) -->
       <div class="tab-content active" id="contentLearn">
         <div class="card-container">
@@ -1051,7 +1308,10 @@
           </div>
         </div>
 
-        <div class="actions" style="grid-template-columns: repeat(2, 1fr);">
+        <div class="actions" style="grid-template-columns: repeat(3, 1fr);">
+          <button class="btn btn-secondary" id="prevLearnBtn">
+            <span class="btn-icon">⬅️</span> Back
+          </button>
           <button class="btn btn-info" id="speakLearnBtn">
             <span class="btn-icon">🔊</span> Speak
           </button>
@@ -1189,6 +1449,9 @@
     // ===== STATE =====
     let allData = [];
     let learnData = [];  // Nội dung riêng cho tab Học (bài học chi tiết)
+    // Learn tab: đi lần lượt từng bài, có thể Next / Back
+    let learnSequence = [];
+    let learnIndex = 0;
     let currentItem = null;
     let currentLearnItem = null;
     let showHints = false;
@@ -1201,6 +1464,7 @@
     let fillblankAnswered = false;
     let reorderChosen = [];
     let typeblankAnswered = false;
+    let selectedLearningPath = null;  // 'beginner', 'intermediate', 'advanced', or null (all)
 
     // ===== UTILITIES =====
     function makeId(item) {
@@ -1325,9 +1589,15 @@
     // ===== GET RANDOM ITEM =====
     function getRandomItem() {
       let data = allData;
+      
+      // Filter by content type
       if (contentType !== 'all' && contentType !== 'random') {
         data = allData.filter(item => item.type === contentType);
       }
+      
+      // Filter by learning path
+      data = filterByLearningPath(data);
+      
       if (data.length === 0) data = allData;
 
       const progressById = loadProgress();
@@ -1351,10 +1621,41 @@
       return pickFrom[Math.floor(Math.random() * pickFrom.length)];
     }
 
-    // ===== GET LEARN ITEM (chỉ dùng cho tab Học - từ learn_content.json) =====
-    function getLearnItem() {
-      if (learnData.length === 0) return null;
-      return learnData[Math.floor(Math.random() * learnData.length)];
+    // ===== LEARN SEQUENCE (Tab Học: đi từng bài, có thể Back) =====
+    function buildLearnSequence() {
+      if (!learnData || learnData.length === 0) {
+        learnSequence = [];
+        learnIndex = 0;
+        return;
+      }
+
+      // Áp dụng lộ trình (Cơ bản / Trung cấp / Nâng cao) nếu có
+      let data = filterByLearningPath(learnData);
+      if (!data || data.length === 0) {
+        data = learnData;
+      }
+
+      learnSequence = data.slice();
+      // Bắt đầu từ bài đầu tiên
+      learnIndex = 0;
+    }
+
+    function getLearnItem(direction = 0) {
+      if (!learnSequence || learnSequence.length === 0) {
+        buildLearnSequence();
+      }
+      if (!learnSequence || learnSequence.length === 0) return null;
+
+      // direction: 0 = giữ nguyên, 1 = Next, -1 = Back
+      if (direction !== 0) {
+        learnIndex = (learnIndex + direction + learnSequence.length) % learnSequence.length;
+      }
+
+      // Đảm bảo index hợp lệ
+      if (learnIndex < 0) learnIndex = 0;
+      if (learnIndex >= learnSequence.length) learnIndex = learnSequence.length - 1;
+
+      return learnSequence[learnIndex];
     }
 
     // ===== SPEAK =====
@@ -1381,8 +1682,10 @@
 
       currentLearnItem = item;
       const card = document.getElementById('cardLearn');
-      card.classList.add('flip-animation');
-      setTimeout(() => card.classList.remove('flip-animation'), 600);
+      // Reset scroll của card về đầu
+      card.scrollTop = 0;
+      card.classList.add('slide-animation');
+      setTimeout(() => card.classList.remove('slide-animation'), 400);
 
       let html = renderCardContent(item, false);
       document.getElementById('cardLearn').innerHTML = html;
@@ -1411,8 +1714,8 @@
       const progress = progressById[id];
 
       const card = document.getElementById('cardPractice');
-      card.classList.add('flip-animation');
-      setTimeout(() => card.classList.remove('flip-animation'), 600);
+      card.classList.add('slide-animation');
+      setTimeout(() => card.classList.remove('slide-animation'), 400);
 
       let html = renderCardContent(item, true);
       
@@ -2072,10 +2375,25 @@
       loadNextPractice();
     }
 
+    function scrollToLearnCardTop() {
+      const card = document.getElementById('cardLearn');
+      if (card) {
+        card.scrollTop = 0;
+        const container = card.parentElement || card;
+        container.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+
     function loadNextLearn() {
-      const item = getLearnItem();
+      const item = getLearnItem(1);
       renderLearn(item);
-      document.getElementById('tabLearn').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      scrollToLearnCardTop();
+    }
+
+    function loadPrevLearn() {
+      const item = getLearnItem(-1);
+      renderLearn(item);
+      scrollToLearnCardTop();
     }
 
     function loadNextPractice() {
@@ -2137,6 +2455,130 @@
       document.getElementById('dueCount').textContent = stats.due || 0;
     }
 
+    // ===== LEARNING PATH =====
+    function selectLearningPath(path) {
+      selectedLearningPath = path;
+      localStorage.setItem('selectedLearningPath', path);
+      // Khi chọn lộ trình mới, xây lại danh sách bài học theo đúng đường đi
+      buildLearnSequence();
+      showMainApp();
+    }
+
+    function showMainApp() {
+      document.getElementById('welcomeScreen').classList.add('hidden');
+      document.getElementById('mainTabs').classList.remove('hidden');
+      document.getElementById('mainContent').classList.remove('hidden');
+      document.getElementById('pathIndicator').classList.remove('hidden');
+      
+      // Update path name display
+      const pathNames = {
+        'beginner': '🌱 Cơ Bản (A1-A2)',
+        'intermediate': '🚀 Trung Cấp (B1-B2)',
+        'advanced': '🏆 Nâng Cao (C1-C2)'
+      };
+      const pathNameEl = document.getElementById('currentPathName');
+      if (pathNameEl) {
+        pathNameEl.textContent = pathNames[selectedLearningPath] || 'Tất cả';
+      }
+      
+      // Vào tab Học thì đi từ bài đầu tiên trong lộ trình
+      buildLearnSequence();
+      if (currentTab === 'learn') {
+        const firstItem = getLearnItem(0);
+        renderLearn(firstItem);
+      } else {
+        loadNext();
+      }
+    }
+
+    function backToWelcome() {
+      selectedLearningPath = null;
+      localStorage.removeItem('selectedLearningPath');
+      
+      document.getElementById('welcomeScreen').classList.remove('hidden');
+      document.getElementById('mainTabs').classList.add('hidden');
+      document.getElementById('mainContent').classList.add('hidden');
+      document.getElementById('pathIndicator').classList.add('hidden');
+      
+      updateWelcomeStats();
+    }
+
+    function updateWelcomeStats() {
+      // Count items by level
+      const beginnerLevels = ['A1', 'A2'];
+      const intermediateLevels = ['B1', 'B2'];
+      const advancedLevels = ['C1', 'C2'];
+
+      const beginnerCount = allData.filter(item => 
+        beginnerLevels.includes(item.level)
+      ).length;
+
+      const intermediateCount = allData.filter(item => 
+        intermediateLevels.includes(item.level)
+      ).length;
+
+      const advancedCount = allData.filter(item => 
+        advancedLevels.includes(item.level)
+      ).length;
+
+      // Update UI
+      const beginnerEl = document.getElementById('beginnerCount');
+      const intermediateEl = document.getElementById('intermediateCount');
+      const advancedEl = document.getElementById('advancedCount');
+
+      if (beginnerEl) beginnerEl.textContent = beginnerCount;
+      if (intermediateEl) intermediateEl.textContent = intermediateCount;
+      if (advancedEl) advancedEl.textContent = advancedCount;
+
+      // Calculate progress (based on known items)
+      const progressById = loadProgress();
+      const knownItems = Object.keys(progressById).filter(id => progressById[id].correct >= 3);
+
+      const beginnerKnown = knownItems.filter(id => {
+        const item = allData.find(i => makeId(i) === id);
+        return item && beginnerLevels.includes(item.level);
+      }).length;
+
+      const intermediateKnown = knownItems.filter(id => {
+        const item = allData.find(i => makeId(i) === id);
+        return item && intermediateLevels.includes(item.level);
+      }).length;
+
+      const advancedKnown = knownItems.filter(id => {
+        const item = allData.find(i => makeId(i) === id);
+        return item && advancedLevels.includes(item.level);
+      }).length;
+
+      const beginnerProgressEl = document.getElementById('beginnerProgress');
+      const intermediateProgressEl = document.getElementById('intermediateProgress');
+      const advancedProgressEl = document.getElementById('advancedProgress');
+
+      if (beginnerProgressEl && beginnerCount > 0) {
+        beginnerProgressEl.textContent = Math.floor(100 * beginnerKnown / beginnerCount) + '%';
+      }
+      if (intermediateProgressEl && intermediateCount > 0) {
+        intermediateProgressEl.textContent = Math.floor(100 * intermediateKnown / intermediateCount) + '%';
+      }
+      if (advancedProgressEl && advancedCount > 0) {
+        advancedProgressEl.textContent = Math.floor(100 * advancedKnown / advancedCount) + '%';
+      }
+    }
+
+    function filterByLearningPath(items) {
+      if (!selectedLearningPath) return items;
+
+      const levelMap = {
+        'beginner': ['A1', 'A2'],
+        'intermediate': ['B1', 'B2'],
+        'advanced': ['C1', 'C2']
+      };
+
+      const levels = levelMap[selectedLearningPath];
+      if (!levels) return items;
+
+      return items.filter(item => levels.includes(item.level));
+    }
+
     // ===== INIT =====
     async function init() {
       try {
@@ -2193,7 +2635,17 @@
         document.getElementById('contentTypeInput').value = contentType;
 
         updateStats();
-        loadNext();
+        updateWelcomeStats();
+        // Chuẩn bị danh sách bài học cho tab Học (theo từng tense, có thứ tự)
+        buildLearnSequence();
+        
+        // Show welcome screen first
+        const savedPath = localStorage.getItem('selectedLearningPath');
+        if (savedPath) {
+          selectedLearningPath = savedPath;
+          showMainApp();
+        }
+        // If no saved path, welcome screen already shown by default
       } catch (error) {
         console.error('Init error:', error);
         const isFileProtocol = window.location.protocol === 'file:';
@@ -2259,6 +2711,7 @@
     document.getElementById('tabPractice').addEventListener('click', () => switchTab('practice'));
     
     // Learn tab buttons
+    document.getElementById('prevLearnBtn').addEventListener('click', loadPrevLearn);
     document.getElementById('nextLearnBtn').addEventListener('click', loadNextLearn);
     document.getElementById('speakLearnBtn').addEventListener('click', () => {
       if (currentLearnItem) {
@@ -2350,6 +2803,8 @@
         // Learn tab shortcuts
         if (e.key === 'n' || e.key === 'N') {
           loadNextLearn();
+        } else if (e.key === 'b' || e.key === 'B' || e.key === 'ArrowLeft') {
+          loadPrevLearn();
         } else         if (e.key === 's' || e.key === 'S') {
           if (currentLearnItem) {
             if (currentLearnItem.type === 'lesson' && currentLearnItem.title) {
