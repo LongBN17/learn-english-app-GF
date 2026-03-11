@@ -1825,7 +1825,7 @@
 
     function setupReorderHandlers() {
       if (!currentItem || currentItem.type !== 'reorder') return;
-      const words = currentItem.words || [];
+      let words = currentItem.words || [];
       const answer = currentItem.answer;
       const answerArr = Array.isArray(answer) ? answer : (typeof answer === 'string' ? answer.trim().split(/\s+/) : []);
       
@@ -1845,9 +1845,15 @@
             console.error('Reorder: container or answerArea not found', { container, answerArea });
             return;
           }
+
+          // Nếu dữ liệu thiếu mảng words nhưng có đáp án, tự sinh words từ đáp án
+          if ((!words || words.length === 0) && answerArr && answerArr.length > 0) {
+            console.warn('Reorder: words array empty, fallback from answer', currentItem);
+            words = answerArr.slice();
+          }
           
           if (!words || words.length === 0) {
-            console.error('Reorder: words array is empty', currentItem);
+            console.error('Reorder: words array is empty, even after fallback', currentItem);
             container.innerHTML = '<p style="color: red;">Lỗi: Không có từ để sắp xếp</p>';
             return;
           }
@@ -2564,6 +2570,52 @@
       }
     }
 
+    function inferLessonLevel(lesson) {
+      const id = (lesson.id || '').toLowerCase();
+      const title = (lesson.title || '').toLowerCase();
+
+      // Nếu đã có level thì giữ nguyên
+      if (lesson.level) return lesson.level;
+
+      // Nhóm cơ bản (Beginner A1–A2)
+      const beginnerPatterns = [
+        'present simple',
+        'present continuous',
+        'past simple',
+        'future simple',
+        'to be',
+        'countable',
+        'uncountable',
+        'article',
+        'comparative',
+        'superlative'
+      ];
+
+      // Nhóm trung cấp (Intermediate B1–B2)
+      const intermediatePatterns = [
+        'present perfect',
+        'past continuous',
+        'future continuous',
+        'present perfect continuous',
+        'past perfect',
+        'future perfect',
+        'passive',
+        'conditional',
+        'reported speech',
+        'relative clause',
+        'modal verb',
+        'quantifier'
+      ];
+
+      const haystack = id + ' ' + title;
+      if (beginnerPatterns.some(p => haystack.includes(p))) return 'A2';
+      if (intermediatePatterns.some(p => haystack.includes(p))) return 'B1';
+
+      // Mặc định: nâng cao nếu có từ "advanced", ngược lại coi như trung cấp
+      if (haystack.includes('advanced')) return 'C1';
+      return 'B2';
+    }
+
     function filterByLearningPath(items) {
       if (!selectedLearningPath) return items;
 
@@ -2618,8 +2670,16 @@
             if (learnRes.ok) {
               const data = await learnRes.json();
               if (Array.isArray(data)) {
-                learnData = data.filter(item => item.type === 'lesson');
-                console.log(`Loaded learn_content.json from: ${path} (${learnData.length} lessons)`);
+                learnData = data
+                  .filter(item => item.type === 'lesson')
+                  .map(lesson => {
+                    // Tự động gán level (A1–C2) cho từng bài để lọc theo lộ trình
+                    return {
+                      ...lesson,
+                      level: inferLessonLevel(lesson)
+                    };
+                  });
+                console.log(`Loaded learn_content.json from: ${path} (${learnData.length} lessons, with levels)`);
                 break;
               }
             }
