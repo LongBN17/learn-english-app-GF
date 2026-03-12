@@ -1597,7 +1597,9 @@
       
       // Filter by learning path
       data = filterByLearningPath(data);
-      
+
+      // Nếu người dùng đã chọn lộ trình mà không có item phù hợp thì KHÔNG fallback về allData
+      if (selectedLearningPath && data.length === 0) return null;
       if (data.length === 0) data = allData;
 
       const progressById = loadProgress();
@@ -1631,9 +1633,13 @@
 
       // Áp dụng lộ trình (Cơ bản / Trung cấp / Nâng cao) nếu có
       let data = filterByLearningPath(learnData);
-      if (!data || data.length === 0) {
-        data = learnData;
+      // Nếu đã chọn lộ trình mà không có bài phù hợp thì để rỗng (không fallback về cơ bản)
+      if (selectedLearningPath && (!data || data.length === 0)) {
+        learnSequence = [];
+        learnIndex = 0;
+        return;
       }
+      if (!data || data.length === 0) data = learnData;
 
       learnSequence = data.slice();
       // Bắt đầu từ bài đầu tiên
@@ -1674,6 +1680,8 @@
       if (!item) {
         if (learnData.length === 0) {
           cardEl.innerHTML = '<div class="empty-state"><h2>Chưa có bài học</h2><p>Vui lòng thêm file <code>data/learn_content.json</code></p></div>';
+        } else if (selectedLearningPath) {
+          cardEl.innerHTML = '<div class="empty-state"><h2>Chưa có bài phù hợp lộ trình này</h2><p>Hiện tại chưa có lesson được gán level tương ứng. Bạn có thể đổi lộ trình khác hoặc bổ sung bài học cho level này.</p></div>';
         } else {
           cardEl.innerHTML = '<div class="empty-state"><h2>Không có bài học</h2><p>Bấm Next để thử lại.</p></div>';
         }
@@ -1698,7 +1706,10 @@
     // ===== RENDER PRACTICE TAB (Có SRS) =====
     function renderPractice(item) {
       if (!item) {
-        document.getElementById('cardPractice').innerHTML = '<div class="empty-state"><h2>No items found</h2><p>Please check your content.json file</p></div>';
+        const msg = selectedLearningPath
+          ? '<div class="empty-state"><h2>Không có nội dung luyện tập cho lộ trình này</h2><p>Hãy thử đổi lộ trình khác hoặc kiểm tra lại trường <code>level</code> trong <code>data/content.json</code>.</p></div>'
+          : '<div class="empty-state"><h2>No items found</h2><p>Please check your content.json file</p></div>';
+        document.getElementById('cardPractice').innerHTML = msg;
         return;
       }
 
@@ -2573,12 +2584,17 @@
     function inferLessonLevel(lesson) {
       const id = (lesson.id || '').toLowerCase();
       const title = (lesson.title || '').toLowerCase();
+      const definition = (lesson.definition || '').toLowerCase();
 
       // Nếu đã có level thì giữ nguyên
       if (lesson.level) return lesson.level;
 
       // Nhóm cơ bản (Beginner A1–A2)
       const beginnerPatterns = [
+        'thì hiện tại đơn',
+        'thì hiện tại tiếp diễn',
+        'thì quá khứ đơn',
+        'thì tương lai đơn',
         'present simple',
         'present continuous',
         'past simple',
@@ -2593,6 +2609,15 @@
 
       // Nhóm trung cấp (Intermediate B1–B2)
       const intermediatePatterns = [
+        'thì hiện tại hoàn thành',
+        'thì quá khứ tiếp diễn',
+        'thì quá khứ hoàn thành',
+        'thì tương lai hoàn thành',
+        'câu điều kiện',
+        'câu bị động',
+        'mệnh đề quan hệ',
+        'câu gián tiếp',
+        'động từ khuyết thiếu',
         'present perfect',
         'past continuous',
         'future continuous',
@@ -2607,12 +2632,37 @@
         'quantifier'
       ];
 
+      // Nhóm nâng cao (Advanced C1–C2)
+      const advancedPatterns = [
+        'đảo ngữ',
+        'câu đảo',
+        'giả định',
+        'subjunctive',
+        'inversion',
+        'cleft sentence',
+        'câu chẻ',
+        'reduced relative',
+        'mệnh đề rút gọn',
+        'participle clause',
+        'mệnh đề phân từ',
+        'mixed conditional',
+        'điều kiện hỗn hợp',
+        'wish',
+        'if only',
+        'modal perfect',
+        'hedging',
+        'discourse marker'
+      ];
+
       const haystack = id + ' ' + title;
-      if (beginnerPatterns.some(p => haystack.includes(p))) return 'A2';
-      if (intermediatePatterns.some(p => haystack.includes(p))) return 'B1';
+      const full = haystack + ' ' + definition;
+
+      if (advancedPatterns.some(p => full.includes(p))) return 'C1';
+      if (beginnerPatterns.some(p => full.includes(p))) return 'A2';
+      if (intermediatePatterns.some(p => full.includes(p))) return 'B1';
 
       // Mặc định: nâng cao nếu có từ "advanced", ngược lại coi như trung cấp
-      if (haystack.includes('advanced')) return 'C1';
+      if (full.includes('advanced')) return 'C1';
       return 'B2';
     }
 

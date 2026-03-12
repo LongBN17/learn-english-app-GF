@@ -9222,5 +9222,208 @@
       "Học đều đặn mỗi ngày."
     ],
     "signals": "Review. Practice."
+  },
+  {
+    "type": "lesson",
+    "id": "inversion-basics",
+    "level": "C1",
+    "title": "Đảo ngữ (Inversion) - Nhấn mạnh câu",
+    "definition": "Đảo ngữ là việc đưa trợ động từ/động từ to be lên trước chủ ngữ để nhấn mạnh hoặc tạo văn phong trang trọng. Đảo ngữ thường gặp sau các trạng từ phủ định/giới hạn (Never, Rarely, Seldom...) hoặc cấu trúc nhấn mạnh (Not only..., Hardly..., No sooner...).",
+    "formula": {
+      "headers": [
+        "Cấu trúc",
+        "Công thức",
+        "Ghi chú"
+      ],
+      "rows": [
+        [
+          "Negative adverb",
+          "Never/Rarely/Seldom... + auxiliary + S + V",
+          "Dùng trợ động từ đúng thì"
+        ],
+        [
+          "Not only... but also...",
+          "Not only + auxiliary + S + V, but S also + V",
+          "Vế 1 đảo, vế 2 bình thường"
+        ],
+        [
+          "Hardly/No sooner",
+          "Hardly/No sooner + had + S + V3 + when/than + clause",
+          "Thường dùng quá khứ hoàn thành"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ",
+        "Giải thích"
+      ],
+      "rows": [
+        [
+          "Never have I seen such a beautiful view.",
+          "Nhấn mạnh: chưa bao giờ tôi thấy..."
+        ],
+        [
+          "Not only did she apologize, but she also fixed the issue.",
+          "Vế 1 đảo để nhấn mạnh"
+        ],
+        [
+          "Hardly had we arrived when it started to rain.",
+          "Vừa mới... thì..."
+        ]
+      ]
+    },
+    "usage": [
+      "Dùng để nhấn mạnh, thường gặp trong văn viết hoặc speech trang trọng.",
+      "Chọn trợ động từ đúng theo thì (do/does/did, have/has/had, will...).",
+      "Sau cụm phủ định/giới hạn đứng đầu câu thường cần đảo ngữ."
+    ],
+    "signals": "Never, Rarely, Seldom, Hardly, No sooner, Not only, Little, Under no circumstances."
+  },
+  {
+    "type": "lesson",
+    "id": "subjunctive-essentials",
+    "level": "C1",
+    "title": "Câu giả định (Subjunctive) - It is essential that...",
+    "definition": "Subjunctive thường dùng sau các động từ/tính từ thể hiện yêu cầu, đề nghị, cần thiết. Mệnh đề sau 'that' dùng động từ nguyên thể (bare infinitive) không chia theo ngôi.",
+    "formula": {
+      "headers": [
+        "Mẫu câu",
+        "Công thức"
+      ],
+      "rows": [
+        [
+          "It is + adj + that + S + V (bare)",
+          "It is essential/important/necessary that he be on time."
+        ],
+        [
+          "S1 + suggest/insist/recommend + that + S2 + V (bare)",
+          "They suggested that she take a break."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ",
+        "Ghi chú"
+      ],
+      "rows": [
+        [
+          "It is important that he submit the report today.",
+          "submit = bare infinitive"
+        ],
+        [
+          "The doctor recommended that she rest for a few days.",
+          "rest = bare infinitive"
+        ]
+      ]
+    },
+    "usage": [
+      "Dùng nhiều trong văn viết, email công việc, học thuật.",
+      "Không chia -s/-es dù chủ ngữ là he/she/it.",
+      "Có thể gặp dạng 'should + V' trong Anh-Anh: It is essential that he should be..."
+    ],
+    "signals": "It is essential/important/necessary, suggest, insist, recommend, demand."
+  },
+  {
+    "type": "lesson",
+    "id": "reduced-clauses",
+    "level": "C1",
+    "title": "Mệnh đề rút gọn (Reduced clauses) - V-ing / V3",
+    "definition": "Mệnh đề rút gọn giúp câu gọn hơn bằng cách lược bỏ đại từ quan hệ + động từ to be hoặc chuyển mệnh đề quan hệ/ trạng ngữ về cụm phân từ (V-ing/V3).",
+    "formula": {
+      "headers": [
+        "Loại rút gọn",
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Active (V-ing)",
+          "N + (who/that + V) → N + V-ing",
+          "The man who is standing there → The man standing there"
+        ],
+        [
+          "Passive (V3)",
+          "N + (which/that + be + V3) → N + V3",
+          "The book which was written in 1990 → The book written in 1990"
+        ],
+        [
+          "Time/Reason clause",
+          "When/After/Because + S + V → V-ing/V3 (same subject)",
+          "After I finished, I left → After finishing, I left"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Students taking this course must submit weekly homework."
+        ],
+        [
+          "Products made in Japan are often reliable."
+        ],
+        [
+          "Having checked the data, we approved the release."
+        ]
+      ]
+    },
+    "usage": [
+      "Chỉ rút gọn khi 2 mệnh đề có cùng chủ ngữ (đặc biệt với mệnh đề trạng ngữ).",
+      "V-ing cho chủ động, V3 cho bị động.",
+      "Giữ nghĩa rõ ràng, tránh gây mơ hồ chủ ngữ."
+    ],
+    "signals": "who/which/that, when/after/before/because, V-ing, V3."
+  },
+  {
+    "type": "lesson",
+    "id": "cleft-sentences",
+    "level": "C1",
+    "title": "Câu chẻ (Cleft sentences) - It is/was ... that/who ...",
+    "definition": "Câu chẻ dùng để nhấn mạnh một thành phần trong câu (chủ ngữ/tân ngữ/trạng ngữ). Thường gặp dạng 'It is/was + focus + that/who + clause'.",
+    "formula": {
+      "headers": [
+        "Dạng",
+        "Công thức",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "It-cleft",
+          "It is/was + focus + that/who + clause",
+          "It was John who called me."
+        ],
+        [
+          "Wh-cleft",
+          "What + clause + be + focus",
+          "What I need is a break."
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ",
+        "Nhấn mạnh"
+      ],
+      "rows": [
+        [
+          "It is tomorrow that we will announce the result.",
+          "trạng ngữ thời gian"
+        ],
+        [
+          "What she wants is respect.",
+          "tân ngữ/ý chính"
+        ]
+      ]
+    },
+    "usage": [
+      "Dùng trong nói/viết để làm rõ trọng tâm thông tin.",
+      "Chọn who cho người, that cho mọi trường hợp (who cũng dùng được trong nhiều ngữ cảnh).",
+      "Giữ thì của 'is/was' phù hợp (hiện tại/quá khứ)."
+    ],
+    "signals": "It is/was ..., What ... is ..."
   }
 ]
