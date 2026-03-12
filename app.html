@@ -693,6 +693,34 @@
       border-radius: 10px;
       border-left: 4px solid #3b82f6;
     }
+    .lesson-formula-inline {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 14px;
+      font-weight: 700;
+      color: #1e40af;
+      background: rgba(59, 130, 246, 0.10);
+      border: 1px solid rgba(59, 130, 246, 0.22);
+      border-radius: 10px;
+      padding: 10px 12px;
+      margin-bottom: 10px;
+      white-space: nowrap;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+    .lesson-formula-inline::-webkit-scrollbar {
+      height: 8px;
+    }
+    .lesson-formula-inline::-webkit-scrollbar-thumb {
+      background: rgba(30, 64, 175, 0.25);
+      border-radius: 999px;
+    }
+    .lesson-definition ul {
+      margin: 10px 0 0 18px;
+      padding: 0;
+    }
+    .lesson-definition li {
+      margin: 6px 0;
+    }
     .lesson-definition strong {
       color: #1e3a5f;
     }
@@ -757,6 +785,23 @@
       border-radius: 10px;
       font-weight: 600;
       line-height: 1.5;
+    }
+    .signal-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 8px;
+    }
+    .signal-chip {
+      display: inline-block;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: rgba(59, 130, 246, 0.12);
+      border: 1px solid rgba(59, 130, 246, 0.25);
+      color: #1e40af;
+      font-size: 13px;
+      font-weight: 700;
+      line-height: 1;
     }
 
     @keyframes fadeIn {
@@ -1436,6 +1481,21 @@
         .replace(/"/g, '&quot;');
     }
 
+    function formatSignals(text) {
+      if (!text) return '';
+      const raw = String(text).trim();
+      if (!raw) return '';
+      const parts = raw
+        .split(/[,;]\s*/g)
+        .map(s => s.trim())
+        .filter(Boolean);
+      if (parts.length <= 1) {
+        return `<div>${escapeHtml(raw)}</div>`;
+      }
+      const chips = parts.map(p => `<span class="signal-chip">${escapeHtml(p)}</span>`).join('');
+      return `<div class="signal-chips">${chips}</div>`;
+    }
+
     // ===== CONFIG =====
     const SRS_INTERVALS_MS = [
       10 * 60 * 1000,    // 10m
@@ -2029,6 +2089,43 @@
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;');
       const raw = text.trim();
+      const ul = (items) => `<ul style="margin: 10px 0 0 18px; line-height: 1.6;">${items.map(b => `<li>${escape(b)}</li>`).join('')}</ul>`;
+      const isFormulaLike = (s) => {
+        if (!s) return false;
+        const plusCount = (s.match(/\+/g) || []).length;
+        if (plusCount < 2) return false;
+        return /\bS\b/.test(s) || /\bV\b/.test(s) || /V\d/.test(s);
+      };
+
+      // Kiểu 0: có xuống dòng + gạch đầu dòng -> render dạng list cho rõ ràng
+      // Hỗ trợ: "-", "•", "*", "–", "—"
+      if (raw.includes('\n')) {
+        const lines = raw.split('\n').map(l => l.trim()).filter(Boolean);
+        const bulletRe = /^([-*•–—]+)\s+(.*)$/;
+        const bullets = [];
+        const normals = [];
+        for (const line of lines) {
+          const m = line.match(bulletRe);
+          if (m) bullets.push(m[2]);
+          else normals.push(line);
+        }
+        if (bullets.length > 0) {
+          const head = normals.length ? `<div>${escape(normals.join(' '))}</div>` : '';
+          return `${head}${ul(bullets)}`;
+        }
+      }
+
+      // Kiểu 0b: dạng "X: a; b; c" hoặc "X: a; b; c." -> render thành bullet
+      // Ví dụ: "The dùng cho: đã xác định...; duy nhất...; nhạc cụ..."
+      const colonIdx = raw.indexOf(':');
+      if (colonIdx > 0 && raw.includes(';')) {
+        const head = raw.slice(0, colonIdx).trim();
+        const tail = raw.slice(colonIdx + 1).trim().replace(/\.$/, '');
+        const items = tail.split(/\s*;\s*/).map(s => s.trim()).filter(Boolean);
+        if (items.length >= 2 && head.length <= 80) {
+          return `<div><strong>${escape(head)}:</strong></div>${ul(items)}`;
+        }
+      }
 
       // Kiểu 1: (1), (2), (3) ...
       let parts = raw.split(/\s*\(\d{1,2}\)\s*/);
@@ -2069,10 +2166,11 @@
             const content = m[2].trim();
             // Trong nội dung, nếu có "; " thì xuống dòng từng ý
             const subParts = content.split(/\s*;\s*/).map(s => s.trim()).filter(Boolean);
-            const contentStr = subParts.length > 1
-              ? subParts.map((s, i) => (i === 0 ? escape(s) : '• ' + escape(s))).join('<br>')
-              : escape(content).replace(/\n/g, '<br>');
+            const contentStr = subParts.length > 1 ? ul(subParts) : `<span>${escape(content).replace(/\n/g, '<br>')}</span>`;
             result += (result ? '<br>' : '') + '<strong>' + escape(m[1].trim()) + ':</strong> ' + contentStr;
+          } else if (isFormulaLike(p)) {
+            // Dòng công thức: hiển thị dạng "code chip" để không bị wrap gãy dòng
+            result += (result ? '<br>' : '') + `<div class="lesson-formula-inline">${escape(p)}</div>`;
           } else {
             result += (result ? '<br>' : '') + escape(p).replace(/\n/g, '<br>');
           }
@@ -2094,11 +2192,11 @@
               if (pm) {
                 result += '<br><strong>' + escape(pm[1].trim()) + ':</strong> ' + escape(pm[2].trim());
               } else {
-                result += '<br>• ' + escape(parts[i]);
+                result += ul([parts[i]]);
               }
             }
           } else {
-            result = parts.map((p, i) => (i === 0 ? escape(p) : '• ' + escape(p))).join('<br>');
+            return ul(parts);
           }
           return result.replace(/\n/g, '<br>');
         }
@@ -2187,7 +2285,7 @@
         if (item.signals) {
           html += '<div class="lesson-section">';
           html += '<div class="lesson-section-title">🔍 Dấu hiệu nhận biết</div>';
-          html += `<div class="lesson-signals">${item.signals}</div>`;
+          html += `<div class="lesson-signals">${formatSignals(item.signals)}</div>`;
           html += '</div>';
         }
 
@@ -2549,7 +2647,7 @@
 
       // Calculate progress (based on known items)
       const progressById = loadProgress();
-      const knownItems = Object.keys(progressById).filter(id => progressById[id].correct >= 3);
+      const knownItems = Object.keys(progressById).filter(id => (progressById[id]?.box ?? 0) >= 99);
 
       const beginnerKnown = knownItems.filter(id => {
         const item = allData.find(i => makeId(i) === id);

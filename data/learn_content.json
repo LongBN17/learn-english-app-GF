@@ -69,7 +69,8 @@
       "Describe habits, preferences or opinions.",
       "Describe actions perceived by senses at the moment of speaking.",
       "Describe fixed schedules (transport, etc.)."
-    ]
+    ],
+    "level": "A2"
   },
   {
     "type": "lesson",
@@ -128,7 +129,8 @@
       "Temporary action, not finished.",
       "Pre-arranged plan in the near future.",
       "Complaint (with always)."
-    ]
+    ],
+    "level": "A2"
   },
   {
     "type": "lesson",
@@ -187,7 +189,8 @@
       "Experience up to the present (ever, never).",
       "Past action with result in the present.",
       "Action started in the past and continues to the present."
-    ]
+    ],
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -248,7 +251,8 @@
       "Action that happened and ended in the past.",
       "Past habit (no longer continued).",
       "Sequence of actions in the past."
-    ]
+    ],
+    "level": "A2"
   },
   {
     "type": "lesson",
@@ -307,7 +311,8 @@
       "Sudden decision at the moment of speaking.",
       "Promise, offer, request.",
       "First conditional."
-    ]
+    ],
+    "level": "A2"
   },
   {
     "type": "lesson",
@@ -357,7 +362,8 @@
       "Action in progress at a point in the past.",
       "Action in progress when another interrupted (when/while).",
       "Two parallel actions in the past (while)."
-    ]
+    ],
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -407,7 +413,8 @@
       "Action completed before another past action.",
       "Action completed before a point in the past (by + time).",
       "In third conditional."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -455,7 +462,8 @@
     "usageEn": [
       "Action in progress at a point in the future.",
       "Planned or habitual future action."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -505,7 +513,8 @@
       "Action from past to present (emphasis on duration).",
       "Action just finished, result still visible.",
       "Often with since, for."
-    ]
+    ],
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -552,7 +561,8 @@
     "usageEn": [
       "State general truths and scientific facts.",
       "State habits and rules."
-    ]
+    ],
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -598,7 +608,8 @@
       "Real possibility in the future.",
       "Suggestion, warning, agreement.",
       "Unless = if not."
-    ]
+    ],
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -644,7 +655,8 @@
       "Unreal present or future (wish, hypothesis).",
       "Advice: If I were you, I would...",
       "Use 'were' for all persons in formal style."
-    ]
+    ],
+    "level": "C1"
   },
   {
     "type": "lesson",
@@ -690,7 +702,8 @@
       "Unreal past.",
       "Regret about what did not happen.",
       "Speculation about a different past result."
-    ]
+    ],
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -734,7 +747,8 @@
     "usageEn": [
       "Emphasize the receiver of the action.",
       "When the doer is unknown or unnecessary."
-    ]
+    ],
+    "level": "A2"
   },
   {
     "type": "lesson",
@@ -776,7 +790,8 @@
     "signals": "Was/Were + V3.",
     "usageEn": [
       "Describe a completed passive action in the past."
-    ]
+    ],
+    "level": "A2"
   },
   {
     "type": "lesson",
@@ -822,7 +837,8 @@
     "signals": "Can/Could/May/Must/Should + be + V3.",
     "usageEn": [
       "Passive with ability, obligation, or advice."
-    ]
+    ],
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -860,7 +876,8 @@
     "signals": "Can + V (không có to).",
     "usageEn": [
       "Present ability, permission, request."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -898,7 +915,8 @@
     "signals": "Could + V-inf.",
     "usageEn": [
       "Past ability, polite request, conditional."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -936,7 +954,8 @@
     "signals": "May + V-inf.",
     "usageEn": [
       "Formal permission, uncertainty."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -974,7 +993,8 @@
     "signals": "Might + V-inf.",
     "usageEn": [
       "Lower possibility than may."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1012,7 +1032,8 @@
     "signals": "Must + V-inf. Mustn't = cấm.",
     "usageEn": [
       "Obligation, strong necessity, certainty."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1050,7 +1071,8 @@
     "signals": "Have to / Has to + V-inf.",
     "usageEn": [
       "External obligation (rules, circumstances)."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1088,7 +1110,8 @@
     "signals": "Should + V-inf.",
     "usageEn": [
       "Advice, suggestion, reasonable expectation."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1126,7 +1149,8 @@
     "signals": "Ought to + V-inf.",
     "usageEn": [
       "Formal advice, moral duty."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1164,7 +1188,8 @@
     "signals": "Would + V-inf.",
     "usageEn": [
       "Past habit, polite offer, conditional."
-    ]
+    ],
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -1202,7 +1227,8 @@
     "signals": "Used to + V-inf. (chỉ quá khứ).",
     "usageEn": [
       "Past habit or state, no longer true."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1256,7 +1282,8 @@
       "Compare two: use comparative.",
       "Compare three or more: use superlative.",
       "Short adj: -er/-est. Long adj: more/most."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1304,7 +1331,8 @@
     "usageEn": [
       "Too: beyond desired level, often negative result.",
       "Enough: sufficient for something."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1348,7 +1376,8 @@
     "usageEn": [
       "So + adj/adv.",
       "Such + (a/an) + adj + N."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1400,7 +1429,8 @@
     "usageEn": [
       "Used to: past only, not present.",
       "Be/Get used to: followed by V-ing or N."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1448,7 +1478,8 @@
     "usageEn": [
       "Would rather: preference, choice.",
       "Had better: strong advice (warning)."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1502,7 +1533,8 @@
       "Auxiliary in tag matches the tense.",
       "Tag subject is always a pronoun.",
       "Rising tone = real question; falling = expect agreement."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1556,7 +1588,8 @@
       "A/An: first mention, indefinite.",
       "The: definite, listener knows what; unique things.",
       "No a/an with uncountable or plural."
-    ]
+    ],
+    "level": "A2"
   },
   {
     "type": "lesson",
@@ -1610,7 +1643,8 @@
       "At: specific time (hour).",
       "On: day.",
       "In: longer period (month, year)."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1664,7 +1698,8 @@
       "In: inside, within.",
       "On: surface.",
       "At: point or place."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1718,7 +1753,8 @@
       "Some: positive or offer.",
       "Any: negative or question.",
       "No + N = not any."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1772,7 +1808,8 @@
       "Who/Which/That as subject cannot be omitted.",
       "That often replaces who/which in defining clauses.",
       "Whom: object (person); can be omitted."
-    ]
+    ],
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -1818,7 +1855,8 @@
       "V-ing: when verb is subject or after preposition.",
       "To V: purpose, after adjective, after certain verbs.",
       "Remember/Forget/Stop + V-ing (past) / to V (future)."
-    ]
+    ],
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1862,7 +1900,8 @@
     "usage": [
       "Nối ý tương phản (although) hoặc kết quả (therefore)."
     ],
-    "signals": "Although + clause. However, ... Therefore, ..."
+    "signals": "Although + clause. However, ... Therefore, ...",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1899,7 +1938,8 @@
       "Đếm được: dùng a/an, many, few.",
       "Không đếm được: dùng some, much, little (không dùng a/an)."
     ],
-    "signals": "Many + countable. Much + uncountable."
+    "signals": "Many + countable. Much + uncountable.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1944,7 +1984,8 @@
       "Much/Many thường dùng trong câu phủ định và nghi vấn.",
       "A lot of thường dùng trong khẳng định."
     ],
-    "signals": "Much + U. Many + C. A lot of + C/U."
+    "signals": "Much + U. Many + C. A lot of + C/U.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -1985,7 +2026,8 @@
       "Lùi thì: present → past, will → would, can → could.",
       "Đổi ngôi, đổi trạng từ thời gian/nơi chốn."
     ],
-    "signals": "Say/Tell + (that) + clause. Lùi thì."
+    "signals": "Say/Tell + (that) + clause. Lùi thì.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2022,7 +2064,8 @@
       "Bỏ trợ động từ do/does/did, đổi thành S + V (lùi thì).",
       "If/Whether cho câu hỏi Yes/No."
     ],
-    "signals": "Asked + if/whether. Asked + wh-word."
+    "signals": "Asked + if/whether. Asked + wh-word.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2068,7 +2111,8 @@
       "Ước về quá khứ: had V3.",
       "Ước về tương lai: would V (thường phàn nàn)."
     ],
-    "signals": "Wish + past (unreal)."
+    "signals": "Wish + past (unreal).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2110,7 +2154,8 @@
       "Luôn xác định chủ ngữ chính (có thể sau of, with, as well as).",
       "Each, Every, Nobody, Someone → V số ít."
     ],
-    "signals": "S (singular) + V-s. S (plural) + V."
+    "signals": "S (singular) + V-s. S (plural) + V.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2155,7 +2200,8 @@
       "Trạng từ tần suất: giữa chủ ngữ và động từ (sau be).",
       "Trạng từ cách thức: sau động từ (hoặc sau tân ngữ)."
     ],
-    "signals": "Frequency: before main V, after be. Manner: after V/O."
+    "signals": "Frequency: before main V, after be. Manner: after V/O.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2200,7 +2246,8 @@
       "Both...and. Either...or. Neither...nor.",
       "Either/Neither of + N (plural) + V singular (formal)."
     ],
-    "signals": "Both + plural. Either/Neither + singular."
+    "signals": "Both + plural. Either/Neither + singular.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2245,7 +2292,8 @@
       "Học thuộc nghĩa từng cụm.",
       "Một số có thể tách (turn it off), một số không (look after him)."
     ],
-    "signals": "Verb + particle. Meaning often different from verb."
+    "signals": "Verb + particle. Meaning often different from verb.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2293,7 +2341,8 @@
       "Thường dùng với for, since, by the time, before.",
       "Phân biệt với Past perfect: nhấn mạnh sự kéo dài chứ không chỉ hoàn thành."
     ],
-    "signals": "Before, By the time, For, Since, How long."
+    "signals": "Before, By the time, For, Since, How long.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -2340,7 +2389,8 @@
       "Hành động hoàn thành trước một thời điểm trong tương lai (by + time).",
       "Thường dùng với by then, by the time, by 2025."
     ],
-    "signals": "By + time in future, By then, By the time."
+    "signals": "By + time in future, By then, By the time.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2380,7 +2430,8 @@
       "Dùng khi nhấn mạnh hành động đang diễn ra (bị động).",
       "Không dùng với các động từ chỉ trạng thái (know, want, like)."
     ],
-    "signals": "Am/Is/Are being + V3."
+    "signals": "Am/Is/Are being + V3.",
+    "level": "A2"
   },
   {
     "type": "lesson",
@@ -2420,7 +2471,8 @@
       "Nhấn mạnh kết quả ở hiện tại hơn là thời điểm hành động.",
       "Thường dùng với yet, already, just."
     ],
-    "signals": "Have/Has been + V3."
+    "signals": "Have/Has been + V3.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -2465,7 +2517,8 @@
       "Không dùng do/does/did trong mệnh đề gián tiếp.",
       "Lịch sự hơn câu hỏi trực tiếp."
     ],
-    "signals": "Could you tell me... Do you know... I wonder..."
+    "signals": "Could you tell me... Do you know... I wonder...",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2518,7 +2571,8 @@
       "Trợ động từ (do, does, did, have, has, can, will...) phải phù hợp với câu gốc.",
       "So/Neither đứng đầu, sau đó trợ động từ rồi chủ ngữ."
     ],
-    "signals": "So + aux + S. Neither/Nor + aux + S."
+    "signals": "So + aux + S. Neither/Nor + aux + S.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2566,7 +2620,8 @@
       "Who dùng khi nhấn mạnh người (chủ ngữ); that dùng cho vật hoặc người.",
       "Phổ biến trong văn viết và nói trang trọng."
     ],
-    "signals": "It is/was...that/who/which. Nhấn mạnh thành phần câu."
+    "signals": "It is/was...that/who/which. Nhấn mạnh thành phần câu.",
+    "level": "C1"
   },
   {
     "type": "lesson",
@@ -2614,7 +2669,8 @@
       "Chỉ dùng khi từ phủ định/đặc biệt đứng đầu câu.",
       "Trợ động từ (do, did, have, had, can...) đảo lên trước chủ ngữ."
     ],
-    "signals": "Never had I... Not only did he... Hardly had... Only then..."
+    "signals": "Never had I... Not only did he... Hardly had... Only then...",
+    "level": "C1"
   },
   {
     "type": "lesson",
@@ -2658,7 +2714,8 @@
       "Sau despite/in spite of không dùng câu đầy đủ (không có chủ ngữ + động từ).",
       "Muốn dùng câu thì dùng Although/Though + S + V."
     ],
-    "signals": "Despite/In spite of + N/V-ing. Không + clause."
+    "signals": "Despite/In spite of + N/V-ing. Không + clause.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2701,7 +2758,8 @@
       "Because of = due to = owing to (theo sau là N).",
       "Khi có S + V thì dùng because."
     ],
-    "signals": "Because + clause. Because of + N/V-ing."
+    "signals": "Because + clause. Because of + N/V-ing.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2749,7 +2807,8 @@
       "In order to trang trọng hơn to; nghĩa tương đương.",
       "So that thường đi với can, could, will, would, would like."
     ],
-    "signals": "To/In order to + V. So that + S + can/could/will/would + V."
+    "signals": "To/In order to + V. So that + S + can/could/will/would + V.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2801,7 +2860,8 @@
       "Không dùng the với tên riêng (Vietnam, Hanoi), bữa ăn (breakfast), môn học (math).",
       "Đã đề cập lần trước → dùng the."
     ],
-    "signals": "The = xác định, duy nhất, đã biết. The + adj = nhóm."
+    "signals": "The = xác định, duy nhất, đã biết. The + adj = nhóm.",
+    "level": "A2"
   },
   {
     "type": "lesson",
@@ -2849,7 +2909,8 @@
       "Danh từ không đếm được mang nghĩa chung: không the (Life is short.).",
       "Số nhiều chung: Cats are animals. (không the)."
     ],
-    "signals": "Meals, languages, sports, proper nouns → no article."
+    "signals": "Meals, languages, sports, proper nouns → no article.",
+    "level": "A2"
   },
   {
     "type": "lesson",
@@ -2907,7 +2968,8 @@
       "Few/Little: gần như không đủ, mang nghĩa tiêu cực.",
       "A few/A little: ít nhưng vẫn có, đủ dùng."
     ],
-    "signals": "Few/A few + C (plural). Little/A little + U."
+    "signals": "Few/A few + C (plural). Little/A little + U.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -2960,7 +3022,8 @@
       "Another = an + other (một cái nữa).",
       "The other day = vài ngày trước (thành ngữ)."
     ],
-    "signals": "Another + singular. Other + plural. The other = còn lại."
+    "signals": "Another + singular. Other + plural. The other = còn lại.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3010,7 +3073,8 @@
       "None of + N (plural): động từ số ít (formal) hoặc số nhiều đều chấp nhận.",
       "All/Most/Some có thể bỏ of khi theo sau là the, this, my..."
     ],
-    "signals": "All/Most/Some/None + (of) + N."
+    "signals": "All/Most/Some/None + (of) + N.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3053,7 +3117,8 @@
       "Every không dùng với of (every one of, không phải every of).",
       "Each có thể đứng một mình: Each has their own room."
     ],
-    "signals": "Each + singular. Every + singular. Each = từng; Every = mọi."
+    "signals": "Each + singular. Every + singular. Each = từng; Every = mọi.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3116,7 +3181,8 @@
       "Its (sở hữu) khác it's (it is).",
       "Đại từ sở hữu không có mạo từ (a mine → sai)."
     ],
-    "signals": "My/Your/His/Her + N. Mine/Yours/His/Hers (thay N)."
+    "signals": "My/Your/His/Her + N. Mine/Yours/His/Hers (thay N).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3171,7 +3237,8 @@
       "Không dùng reflexive khi chủ ngữ và tân ngữ khác nhau: He hit him. (him = người khác).",
       "Một số động từ thường đi với reflexive: enjoy yourself, help yourself, behave yourself."
     ],
-    "signals": "Myself, yourself... By myself = alone."
+    "signals": "Myself, yourself... By myself = alone.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3224,7 +3291,8 @@
       "Động từ chia theo N đứng sau (there is a book and two pens → có thể dùng are).",
       "There + be khác với Have: There is a book = Có một cuốn sách; I have a book = Tôi có một cuốn sách."
     ],
-    "signals": "There is/are + N. N quyết định is/are/was/were."
+    "signals": "There is/are + N. N quyết định is/are/was/were.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3267,7 +3335,8 @@
       "Have got thường không dùng trong thì tiếp diễn.",
       "Trong quá khứ: had got ít dùng; dùng had (I had a car)."
     ],
-    "signals": "Have got = have (possession). Haven't got / Hasn't got."
+    "signals": "Have got = have (possession). Haven't got / Hasn't got.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3318,7 +3387,8 @@
       "Chủ ngữ you thường được ẩn.",
       "Let's + V = đề nghị cùng làm: Let's go."
     ],
-    "signals": "V-inf. Don't + V-inf. Do + V (nhấn mạnh)."
+    "signals": "V-inf. Don't + V-inf. Do + V (nhấn mạnh).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3366,7 +3436,8 @@
       "What theo sau bởi danh từ (có a/an nếu danh từ đếm được số ít).",
       "How theo sau bởi adj/adv hoặc S + V."
     ],
-    "signals": "What a/an + adj + N! How + adj/adv + S + V!"
+    "signals": "What a/an + adj + N! How + adj/adv + S + V!",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3406,7 +3477,8 @@
       "Hai mệnh đề đều dùng the + so sánh hơn.",
       "Có thể rút gọn: The more, the merrier."
     ],
-    "signals": "The more...the more... The + comparative...the + comparative."
+    "signals": "The more...the more... The + comparative...the + comparative.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3454,7 +3526,8 @@
       "So...as thường dùng trong câu phủ định (not so...as).",
       "As long as = miễn là (nghĩa khác)."
     ],
-    "signals": "As + adj/adv + as. Not as/so...as."
+    "signals": "As + adj/adv + as. Not as/so...as.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3502,7 +3575,8 @@
       "Whose luôn đứng trước danh từ.",
       "Trong văn nói: The woman I met (bỏ whom)."
     ],
-    "signals": "Whose + N. Whom = tân ngữ (người)."
+    "signals": "Whose + N. Whom = tân ngữ (người).",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -3550,7 +3624,8 @@
       "Chủ ngữ của mệnh đề phân từ phải trùng với chủ ngữ mệnh đề chính.",
       "V3 (past participle) dùng cho bị động."
     ],
-    "signals": "V-ing (active). V3 (passive). Having + V3 (trước)."
+    "signals": "V-ing (active). V3 (passive). Having + V3 (trước).",
+    "level": "C1"
   },
   {
     "type": "lesson",
@@ -3593,7 +3668,8 @@
       "Oi (người) thường đứng trước Od (vật) khi không có giới từ.",
       "Khi Od là đại từ (it, them): Give it to me. (không nói Give me it.)"
     ],
-    "signals": "V + Oi + Od. V + Od + to/for + Oi."
+    "signals": "V + Oi + Od. V + Od + to/for + Oi.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3646,7 +3722,8 @@
       "Học theo cụm, không dịch từng từ.",
       "Tra từ điển collocation khi nghi ngờ."
     ],
-    "signals": "Make/Do/Take + N. Adj + N (heavy rain, strong coffee)."
+    "signals": "Make/Do/Take + N. Adj + N (heavy rain, strong coffee).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3704,7 +3781,8 @@
       "Chính tả: im- trước p, m; il- trước l; ir- trước r.",
       "Một số từ không theo quy tắc: informal, impatient."
     ],
-    "signals": "Un-/In-/Dis- = not. Re- = again. Pre- = before."
+    "signals": "Un-/In-/Dis- = not. Re- = again. Pre- = before.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3762,7 +3840,8 @@
       "-ful = đầy (careful = đầy sự cẩn thận). -less = không có (careless).",
       "Tính từ tận cùng -y → -ily (happy → happily)."
     ],
-    "signals": "-tion/-ment = N. -ful/-less = adj. -ly = adv."
+    "signals": "-tion/-ment = N. -ful/-less = adj. -ly = adv.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3814,7 +3893,8 @@
       "Tên riêng gồm nhiều từ: mỗi từ chính viết hoa (the United States).",
       "Sau dấu hai chấm: viết hoa nếu là câu hoàn chỉnh."
     ],
-    "signals": "First letter of sentence. Proper nouns. I. Months, days."
+    "signals": "First letter of sentence. Proper nouns. I. Months, days.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3867,7 +3947,8 @@
       "Không dùng dấu phẩy tách chủ ngữ và động từ: The man, who was tired, left. (mệnh đề không xác định có dấu phẩy).",
       "Viết hoa sau dấu chấm."
     ],
-    "signals": "Period (.). Comma (,). Question (?). Exclamation (!)."
+    "signals": "Period (.). Comma (,). Question (?). Exclamation (!).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3920,7 +4001,8 @@
       "On + ngày. In + tháng/năm. At + giờ.",
       "Số thứ tự: 1st, 2nd, 3rd, 4th, 21st, 22nd, 23rd."
     ],
-    "signals": "Ordinals: first, second. On + day. In + month/year. At + time."
+    "signals": "Ordinals: first, second. On + day. In + month/year. At + time.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -3968,7 +4050,8 @@
       "Không dùng 's với đại từ sở hữu: yours, ours, theirs (không your's).",
       "Sở hữu với tên kết thúc bằng s: James' book hoặc James's book."
     ],
-    "signals": "'s = is/has hoặc possessive. s' = plural possessive. Its ≠ it's."
+    "signals": "'s = is/has hoặc possessive. s' = plural possessive. Its ≠ it's.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4016,7 +4099,8 @@
       "Gấp đôi khi: 1 nguyên âm + 1 phụ âm + nhấn âm cuối (begin → beginning).",
       "Không gấp đôi: open → opening (nhấn âm đầu); visit → visiting (2 phụ âm)."
     ],
-    "signals": "Double consonant: 1 vowel + 1 consonant + stress."
+    "signals": "Double consonant: 1 vowel + 1 consonant + stress.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4066,7 +4150,8 @@
       "Mỗi loại có cấu trúc và dấu câu riêng.",
       "Câu hỏi kết thúc bằng ?. Câu cảm thán thường có !."
     ],
-    "signals": "Declarative (.). Interrogative (?). Imperative. Exclamatory (!)."
+    "signals": "Declarative (.). Interrogative (?). Imperative. Exclamatory (!).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4117,7 +4202,8 @@
       "Mệnh đề phụ thuộc không đứng một mình thành câu.",
       "Liên từ phụ thuộc: because, when, although, if, that, who, which."
     ],
-    "signals": "Simple: 1 clause. Compound: and/but/or. Complex: subordinator."
+    "signals": "Simple: 1 clause. Compound: and/but/or. Complex: subordinator.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4172,7 +4258,8 @@
       "However thường đứng đầu câu mới, sau dấu chấm.",
       "Although + clause. Despite + N/V-ing."
     ],
-    "signals": "And, but, however, because, so, first, then, therefore."
+    "signals": "And, but, however, because, so, first, then, therefore.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4230,7 +4317,8 @@
       "Since + mốc (since Monday, since 2020). For + khoảng (for 2 hours, for a week).",
       "Learn/Teach: learn sth; teach sb sth. Hear/Listen: hear = nghe thấy; listen = lắng nghe."
     ],
-    "signals": "Since/For. Say/Tell. Make/Do. Third person -s. Much/Many."
+    "signals": "Since/For. Say/Tell. Make/Do. Third person -s. Much/Many.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4270,7 +4358,8 @@
       "Thường dùng với by + time, by then.",
       "Nhấn mạnh độ dài của hành động đến một mốc tương lai."
     ],
-    "signals": "By + time. Will have been + V-ing."
+    "signals": "By + time. Will have been + V-ing.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -4313,7 +4402,8 @@
       "Diễn tả hậu quả kéo dài đến hiện tại của điều kiện quá khứ.",
       "If I had... → ...would V (không phải would have V3)."
     ],
-    "signals": "If + had V3, would + V (present result)."
+    "signals": "If + had V3, would + V (present result).",
+    "level": "C1"
   },
   {
     "type": "lesson",
@@ -4352,7 +4442,8 @@
     "usage": [
       "Dùng khi nhấn mạnh hành động đang diễn ra (bị động) trong quá khứ."
     ],
-    "signals": "Was/Were being + V3."
+    "signals": "Was/Were being + V3.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -4391,7 +4482,8 @@
     "usage": [
       "Will be + V3. Có thể thêm by + O nếu cần nêu tác nhân."
     ],
-    "signals": "Will be + V3."
+    "signals": "Will be + V3.",
+    "level": "A2"
   },
   {
     "type": "lesson",
@@ -4431,7 +4523,8 @@
       "Get + V3 thường dùng trong văn nói.",
       "Một số cụm cố định: get married, get dressed, get lost."
     ],
-    "signals": "Get + V3. Get married/dressed/lost."
+    "signals": "Get + V3. Get married/dressed/lost.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -4471,7 +4564,8 @@
       "Chủ ngữ thường là vật (the car, the room).",
       "V-ing ở đây mang nghĩa bị động."
     ],
-    "signals": "Need + V-ing = need to be + V3."
+    "signals": "Need + V-ing = need to be + V3.",
+    "level": "A2"
   },
   {
     "type": "lesson",
@@ -4523,7 +4617,8 @@
       "Prefer đi với to V. Rather đi với V (không to).",
       "Would rather + S + V2: lùi thì (hiện tại)."
     ],
-    "signals": "Would prefer to V. Would rather V. Would rather S + V2."
+    "signals": "Would prefer to V. Would rather V. Would rather S + V2.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4571,7 +4666,8 @@
       "Had better không dùng trong câu hỏi thông thường.",
       "Ought to have V3: đáng lẽ đã nên làm (nhưng không làm)."
     ],
-    "signals": "Had better (warning). Should (advice). Ought to (formal)."
+    "signals": "Had better (warning). Should (advice). Ought to (formal).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4611,7 +4707,8 @@
       "Might ít chắc chắn hơn may. Could vừa khả năng vừa điều kiện.",
       "May/Might/Could + have V3: phỏng đoán về việc đã xảy ra."
     ],
-    "signals": "May/Might/Could + V. + have V3 (past)."
+    "signals": "May/Might/Could + V. + have V3 (past).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4655,7 +4752,8 @@
       "Quá khứ: had to (must không có quá khứ).",
       "Must không dùng trong thì tương lai; dùng will have to."
     ],
-    "signals": "Must (internal). Have to (external). Mustn't = prohibit. Don't have to = not necessary."
+    "signals": "Must (internal). Have to (external). Mustn't = prohibit. Don't have to = not necessary.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4713,7 +4811,8 @@
       "Look forward to theo sau bởi V-ing (không to V).",
       "Look up to / look down on: theo sau là người (object)."
     ],
-    "signals": "Look after, look for, look forward to, look up."
+    "signals": "Look after, look for, look forward to, look up.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4771,7 +4870,8 @@
       "Take place = happen (không bị động).",
       "Take off (cất cánh): The plane took off at 6."
     ],
-    "signals": "Take off, take care of, take part in, take place, take up."
+    "signals": "Take off, take care of, take part in, take place, take up.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4829,7 +4929,8 @@
       "Get used to + V-ing/N (quen với). Khác used to + V (đã từng).",
       "Get over + N (vượt qua bệnh, nỗi buồn)."
     ],
-    "signals": "Get up, get on/off, get over, get along with, get rid of."
+    "signals": "Get up, get on/off, get over, get along with, get rid of.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4887,7 +4988,8 @@
       "Put on (mặc): Put your shoes on / Put on your shoes.",
       "Put off = postpone."
     ],
-    "signals": "Put on, put off, put away, put up with, put out."
+    "signals": "Put on, put off, put away, put up with, put out.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -4945,7 +5047,8 @@
       "Come across = tình cờ gặp hoặc tìm thấy.",
       "Come up with = think of (nảy ra ý tưởng)."
     ],
-    "signals": "Come in, come back, come across, come up with, come true."
+    "signals": "Come in, come back, come across, come up with, come true.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5003,7 +5106,8 @@
       "Thành ngữ thường không dịch từng từ.",
       "Học theo ngữ cảnh và ví dụ."
     ],
-    "signals": "Break the ice, piece of cake, under the weather, on the same page."
+    "signals": "Break the ice, piece of cake, under the weather, on the same page.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5061,7 +5165,8 @@
       "Thành ngữ thường dùng trong văn nói.",
       "Spill the beans = let the cat out of the bag (tiết lộ)."
     ],
-    "signals": "Cost an arm and a leg, miss the boat, spill the beans."
+    "signals": "Cost an arm and a leg, miss the boat, spill the beans.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5109,7 +5214,8 @@
       "How do you do? thường đáp bằng How do you do? (trang trọng).",
       "What's up? có thể chỉ là lời chào, không cần trả lời chi tiết."
     ],
-    "signals": "Hi, Hello. How are you? I'm fine. What's up?"
+    "signals": "Hi, Hello. How are you? I'm fine. What's up?",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5162,7 +5268,8 @@
       "Would you mind + V-ing: đáp 'No' = tôi không phiền = đồng ý.",
       "Do you mind if I V: đáp 'No' = không phiền = đồng ý."
     ],
-    "signals": "Could you...? Would you mind V-ing? Do you mind if I...?"
+    "signals": "Could you...? Would you mind V-ing? Do you mind if I...?",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5210,7 +5317,8 @@
       "Trong tranh luận trang trọng dùng I'm afraid I disagree.",
       "I see your point = tôi hiểu ý bạn (trước khi nói ý khác)."
     ],
-    "signals": "I agree. I don't think so. I see your point, but..."
+    "signals": "I agree. I don't think so. I see your point, but...",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5259,7 +5367,8 @@
       "In my view = In my opinion.",
       "I reckon (informal) = I think."
     ],
-    "signals": "I think. In my opinion. From my point of view. What do you think?"
+    "signals": "I think. In my opinion. From my point of view. What do you think?",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5308,7 +5417,8 @@
       "How about/What about theo sau bởi V-ing hoặc N.",
       "Shall we...? thường dùng cho gợi ý làm cùng nhau."
     ],
-    "signals": "Let's. Why don't we? How about V-ing? Shall we?"
+    "signals": "Let's. Why don't we? How about V-ing? Shall we?",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5356,7 +5466,8 @@
       "I'm sorry to hear that = chia buồn (khi ai đó gặp chuyện không hay).",
       "Formal: I would like to apologize for..."
     ],
-    "signals": "I'm sorry. That's OK. Don't worry. I forgive you."
+    "signals": "I'm sorry. That's OK. Don't worry. I forgive you.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5404,7 +5515,8 @@
       "Appreciate + N/V-ing (I appreciate your help. I appreciate being invited).",
       "Formal: I would like to express my gratitude."
     ],
-    "signals": "Thank you. Thanks a lot. You're welcome. My pleasure."
+    "signals": "Thank you. Thanks a lot. You're welcome. My pleasure.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5452,7 +5564,8 @@
       "When/Where/Why có thể bỏ trong mệnh đề xác định (the day we met).",
       "The reason why = the reason that; why có thể bỏ."
     ],
-    "signals": "When (time). Where (place). Why (reason)."
+    "signals": "When (time). Where (place). Why (reason).",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -5495,7 +5608,8 @@
       "Tên riêng + mệnh đề quan hệ thường là non-defining (Mary, who is my friend, ...).",
       "Which trong non-defining có thể thay cả mệnh đề trước: He was late, which made me angry."
     ],
-    "signals": "Defining: no comma, that OK. Non-defining: comma, which, no that."
+    "signals": "Defining: no comma, that OK. Non-defining: comma, which, no that.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -5543,7 +5657,8 @@
       "Tell/Ask/Order + O + to V. Suggest + V-ing hoặc suggest that S + (should) V.",
       "Offer to V. Advise sb to V."
     ],
-    "signals": "Tell/Ask + O + to V. Suggest V-ing. Offer to V."
+    "signals": "Tell/Ask + O + to V. Suggest V-ing. Offer to V.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5593,7 +5708,8 @@
       "Tell luôn có tân ngữ chỉ người (tell me, tell her). Say không bắt buộc (he said).",
       "Talk thường có to/with. Speak a language; talk about a topic."
     ],
-    "signals": "Say sth. Tell sb sth. Talk to sb about. Speak (language)."
+    "signals": "Say sth. Tell sb sth. Talk to sb about. Speak (language).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5645,7 +5761,8 @@
       "Make thường tạo ra cái mới hoặc kết quả. Do thường là hành động công việc.",
       "Make a mistake (không do). Do your hair (làm tóc). Make a bed (dọn giường)."
     ],
-    "signals": "Make: create, produce. Do: perform, execute. Learn collocations."
+    "signals": "Make: create, produce. Do: perform, execute. Learn collocations.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5697,7 +5814,8 @@
       "Nhớ: Affect = Action (động từ). Effect = End result (danh từ).",
       "Effect (v) = bring about, thường dùng trong văn formal."
     ],
-    "signals": "Affect (v) = ảnh hưởng. Effect (n) = ảnh hưởng, kết quả."
+    "signals": "Affect (v) = ảnh hưởng. Effect (n) = ảnh hưởng, kết quả.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5749,7 +5867,8 @@
       "Rise = tự tăng. Raise = làm (cái gì) tăng.",
       "Arise thường dùng với problem, question, situation."
     ],
-    "signals": "Rise (no object). Raise + object. Arise (problems arise)."
+    "signals": "Rise (no object). Raise + object. Arise (problems arise).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5801,7 +5920,8 @@
       "Lay cần tân ngữ (lay something). Lie (nằm) không có tân ngữ.",
       "Quá khứ của lie (nằm) là lay — dễ nhầm với lay (đặt)."
     ],
-    "signals": "Lay (laid) + object. Lie (lay, lain) = recline. Lie (lied) = tell a lie."
+    "signals": "Lay (laid) + object. Lie (lay, lain) = recline. Lie (lied) = tell a lie.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5844,7 +5964,8 @@
       "Learn how to V = học cách làm. Teach sb a lesson = dạy cho ai một bài học (thành ngữ).",
       "Self-taught = tự học."
     ],
-    "signals": "Learn = học. Teach = dạy. Learn from. Teach sb sth."
+    "signals": "Learn = học. Teach = dạy. Learn from. Teach sb sth.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5897,7 +6018,8 @@
       "Listen luôn có to (listen to). Hear không cần to.",
       "Hear from = receive news from."
     ],
-    "signals": "Hear = nghe thấy. Listen to = lắng nghe. Hear from = nhận tin."
+    "signals": "Hear = nghe thấy. Listen to = lắng nghe. Hear from = nhận tin.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5945,7 +6067,8 @@
       "Look at + N. Watch + N (chương trình, trận đấu).",
       "See a film/movie (Anh-Mỹ cũng dùng see)."
     ],
-    "signals": "See = thấy. Look at = nhìn. Watch = xem (TV, match)."
+    "signals": "See = thấy. Look at = nhìn. Watch = xem (TV, match).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -5991,7 +6114,8 @@
       "Borrow from. Lend to. Lend = give temporarily.",
       "Loan (n/v) = cho vay (formal), lend thường dùng hơn trong nói."
     ],
-    "signals": "Borrow from (mượn). Lend to (cho mượn)."
+    "signals": "Borrow from (mượn). Lend to (cho mượn).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6042,7 +6166,8 @@
       "Hope + present tense for future: I hope she comes. (không will).",
       "Wish + past: unreal. Hope + (that) + S + V: real possibility."
     ],
-    "signals": "Hope = hy vọng. Wish = ước (unreal). Expect = mong đợi."
+    "signals": "Hope = hy vọng. Wish = ước (unreal). Expect = mong đợi.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6100,7 +6225,8 @@
       "Trong email: Dear Mr X (formal). Hi John (informal).",
       "Tránh viết tắt (don't, I'm) trong văn formal."
     ],
-    "signals": "Formal: commence, require, Could you. Informal: start, need, Can you."
+    "signals": "Formal: commence, require, Could you. Informal: start, need, Can you.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6150,7 +6276,8 @@
       "Topic sentence thường là câu đầu đoạn.",
       "Tránh bắt đầu mọi đoạn bằng Same word (đa dạng hóa)."
     ],
-    "signals": "Firstly, However, Moreover, Therefore, In conclusion."
+    "signals": "Firstly, However, Moreover, Therefore, In conclusion.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6205,7 +6332,8 @@
       "Một đoạn thường một ý chính.",
       "Supporting sentences có thể dùng ví dụ, số liệu, so sánh."
     ],
-    "signals": "Topic sentence → Supporting → Concluding."
+    "signals": "Topic sentence → Supporting → Concluding.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6248,7 +6376,8 @@
       "Skimming trước khi đọc chi tiết giúp não định hướng.",
       "Scanning dùng khi câu hỏi hỏi chi tiết (who, when, where)."
     ],
-    "signals": "Skimming = main idea. Scanning = find specific info."
+    "signals": "Skimming = main idea. Scanning = find specific info.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6296,7 +6425,8 @@
       "Đọc cả câu/cả đoạn trước khi đoán.",
       "Context clues giúp tăng vốn từ khi đọc."
     ],
-    "signals": "Such as, that is, but, however → clues."
+    "signals": "Such as, that is, but, however → clues.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6359,7 +6489,8 @@
       "Nor thường đi với đảo ngữ: Nor did I. (Tôi cũng không.)",
       "Dấu phẩy trước but, and, or, so khi nối hai mệnh đề."
     ],
-    "signals": "FANBOYS: For, And, Nor, But, Or, Yet, So."
+    "signals": "FANBOYS: For, And, Nor, But, Or, Yet, So.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6412,7 +6543,8 @@
       "Mệnh đề phụ có thể đứng trước hoặc sau mệnh đề chính.",
       "When mệnh đề phụ đứng trước: dấu phẩy sau mệnh đề phụ."
     ],
-    "signals": "When, because, although, if. Subordinate clause + main clause."
+    "signals": "When, because, although, if. Subordinate clause + main clause.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6475,7 +6607,8 @@
       "Who làm chủ ngữ: Who saw you? (không dùng did). Who làm tân ngữ: Who did you see?",
       "How + adj: How old, How far, How often."
     ],
-    "signals": "What, Who, When, Where, Why, How. How much/many/long."
+    "signals": "What, Who, When, Where, Why, How. How much/many/long.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6528,7 +6661,8 @@
       "Trợ động từ phải khớp với câu hỏi (Do you...? → Yes, I do.).",
       "Không nói Yes, I like. Phải nói Yes, I do."
     ],
-    "signals": "Yes, I do. No, she doesn't. Trợ ĐT + đại từ."
+    "signals": "Yes, I do. No, she doesn't. Trợ ĐT + đại từ.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6576,7 +6710,8 @@
       "So = câu khẳng định (I think so). Not = câu phủ định (I hope not).",
       "One/Ones thay danh từ đếm được (the red one)."
     ],
-    "signals": "So do I. I think so. One/ones. Ellipsis."
+    "signals": "So do I. I think so. One/ones. Ellipsis.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6624,7 +6759,8 @@
       "Do/Does/Did nhấn mạnh động từ: phát âm nhấn vào do/did.",
       "It is...that có thể nhấn mạnh nhiều thành phần."
     ],
-    "signals": "It is...that. Do + V. Very/Really. Reflexive. Inversion."
+    "signals": "It is...that. Do + V. Very/Really. Reflexive. Inversion.",
+    "level": "C1"
   },
   {
     "type": "lesson",
@@ -6672,7 +6808,8 @@
       "Every không đi với of (every one of us). Each (of) + N + V singular.",
       "All (of) the + N. Every + N (singular)."
     ],
-    "signals": "All (plural/U). Every (singular, all). Each (singular, individual)."
+    "signals": "All (plural/U). Every (singular, all). Each (singular, individual).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6725,7 +6862,8 @@
       "Nothing = not anything. Nobody = not anybody. Không dùng double negative: I don't know nothing → sai; đúng: I don't know anything.",
       "None có thể trả lời How many/much? — None."
     ],
-    "signals": "No + N. None (of). Nothing. Nobody/No one."
+    "signals": "No + N. None (of). Nothing. Nobody/No one.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6783,7 +6921,8 @@
       "Already trong câu hỏi: ngạc nhiên (Have you already finished?).",
       "Still trong phủ định = vẫn chưa (annoyance). Any more = không còn (nữa)."
     ],
-    "signals": "Already (done). Yet (not done). Still (continuing). Any more (no longer)."
+    "signals": "Already (done). Yet (not done). Still (continuing). Any more (no longer).",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -6841,7 +6980,8 @@
       "Me too (informal) = So am I / So do I.",
       "Trợ động từ phải đúng: I am → So am I (không So do I)."
     ],
-    "signals": "So + aux + S (agree +). Neither/Nor + aux + S (agree -)."
+    "signals": "So + aux + S (agree +). Neither/Nor + aux + S (agree -).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -6878,7 +7018,8 @@
       "Chọn thì theo time marker và ngữ cảnh.",
       "Câu điều kiện: if + thì nào → mệnh đề chính thì nào."
     ],
-    "signals": "Review tenses. Review conditionals. Practice."
+    "signals": "Review tenses. Review conditionals. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -6915,7 +7056,8 @@
       "Bị động: chủ ngữ là người/vật chịu tác động.",
       "Mustn't = cấm. Don't have to = không cần."
     ],
-    "signals": "Passive: be + V3. Modals: can, must, should, may, might."
+    "signals": "Passive: be + V3. Modals: can, must, should, may, might.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -6952,7 +7094,8 @@
       "Mệnh đề phụ có thể đứng trước hoặc sau mệnh đề chính.",
       "Defining: không dấu phẩy. Non-defining: dấu phẩy."
     ],
-    "signals": "Conjunctions. Relative clauses. Complex sentences."
+    "signals": "Conjunctions. Relative clauses. Complex sentences.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -6993,7 +7136,8 @@
       "Tra collocation khi nghi ngờ.",
       "Phrasal verb: nghĩa thường khác động từ gốc."
     ],
-    "signals": "Collocations. Phrasal verbs. Confusing words."
+    "signals": "Collocations. Phrasal verbs. Confusing words.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -7033,7 +7177,8 @@
       "Viết: một đoạn một ý. Nói: dùng cụm lịch sự (Could you...? I'd appreciate...).",
       "Đọc: skimming cho ý chính, scanning cho chi tiết."
     ],
-    "signals": "Writing: topic sentence, linking. Speaking: polite phrases. Reading: skimming, scanning."
+    "signals": "Writing: topic sentence, linking. Speaking: polite phrases. Reading: skimming, scanning.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -7073,7 +7218,8 @@
       "Could không dùng cho thành công một lần trong quá khứ (He could leave yesterday → sai; He was able to leave.).",
       "Be able to dùng khi can không có (future, perfect, infinitive: would like to be able to)."
     ],
-    "signals": "Can (present). Be able to (all tenses). Was able to = succeeded."
+    "signals": "Can (present). Be able to (all tenses). Was able to = succeeded.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7121,7 +7267,8 @@
       "Would you like + N (mời dùng gì). Would you like to + V (mời làm gì).",
       "Shall I/we...? = đề nghị làm (cho mình/cho nhau)."
     ],
-    "signals": "Could you...? Shall I...? Would you like to...?"
+    "signals": "Could you...? Shall I...? Would you like to...?",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7165,7 +7312,8 @@
       "Pardon? (Anh-Anh). Sorry? (thân mật).",
       "Could you run that by me again? (informal)."
     ],
-    "signals": "Sorry? What do you mean? I mean..."
+    "signals": "Sorry? What do you mean? I mean...",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7205,7 +7353,8 @@
       "No way = không thể nào (ngạc nhiên hoặc từ chối).",
       "I see = tôi hiểu (đang lắng nghe)."
     ],
-    "signals": "Really? No way! That's interesting. Tell me more."
+    "signals": "Really? No way! That's interesting. Tell me more.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7260,7 +7409,8 @@
       "Into = movement inside. In = position inside.",
       "Onto = lên trên bề mặt. On = vị trí trên."
     ],
-    "signals": "To, into, out of, through, across, along, towards."
+    "signals": "To, into, out of, through, across, along, towards.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7318,7 +7468,8 @@
       "Between + 2. Among + 3 or more.",
       "By + time = trước (hoàn thành trước thời điểm)."
     ],
-    "signals": "By, with, without, about, for, between, among."
+    "signals": "By, with, without, about, for, between, among.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -7391,7 +7542,8 @@
       "Ghi nhớ: OSAShCOMP (Opinion, Size, Age, Shape, color, Origin, Material, Purpose).",
       "Thực tế: 2–3 tính từ là đủ."
     ],
-    "signals": "Opinion → Size → Age → Shape → Color → Origin → Material."
+    "signals": "Opinion → Size → Age → Shape → Color → Origin → Material.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7439,7 +7591,8 @@
       "100%: always. 0%: never. Giữa: usually, often, sometimes, rarely.",
       "Seldom, rarely, never đứng đầu câu → đảo ngữ (Rarely did he complain)."
     ],
-    "signals": "After be. Before main V. Between aux and V. Never/Rarely at start → inversion."
+    "signals": "After be. Before main V. Between aux and V. Never/Rarely at start → inversion.",
+    "level": "C1"
   },
   {
     "type": "lesson",
@@ -7487,7 +7640,8 @@
       "Already trong câu hỏi: ngạc nhiên (You've finished already?).",
       "Yet chỉ dùng trong phủ định và nghi vấn (chưa)."
     ],
-    "signals": "Already (done). Yet (not yet). Still (continuing). Any more (no longer)."
+    "signals": "Already (done). Yet (not yet). Still (continuing). Any more (no longer).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7530,7 +7684,8 @@
       "Even though = although (stronger). Even if = whether or not.",
       "Even if có thể là điều kiện chưa xảy ra hoặc không chắc."
     ],
-    "signals": "Even though = fact. Even if = hypothesis."
+    "signals": "Even though = fact. Even if = hypothesis.",
+    "level": "C1"
   },
   {
     "type": "lesson",
@@ -7578,7 +7733,8 @@
       "Whether or not = có... hay không. If không dùng sau giới từ.",
       "Sau know, wonder, ask: if và whether đều được."
     ],
-    "signals": "Whether: after discuss, depend, preposition, before to V. If: condition."
+    "signals": "Whether: after discuss, depend, preposition, before to V. If: condition.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7626,7 +7782,8 @@
       "Unless + positive verb = if + negative. (Unless you go = If you don't go.)",
       "As long as = on condition that."
     ],
-    "signals": "Unless = if not. As long as = provided that = miễn là."
+    "signals": "Unless = if not. As long as = provided that = miễn là.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7670,7 +7827,8 @@
       "Though = although (informal hơn).",
       "Despite the fact that + clause = Although (formal)."
     ],
-    "signals": "Although + clause. Despite + N/V-ing. Though at end = however."
+    "signals": "Although + clause. Despite + N/V-ing. Though at end = however.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7718,7 +7876,8 @@
       "So + adj (không có N). Such + (a/an) + adj + N.",
       "So many/much + N. Such a lot of + N."
     ],
-    "signals": "So + adj/adv. Such + (a/an) + adj + N. So many/much."
+    "signals": "So + adj/adv. Such + (a/an) + adj + N. So many/much.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7771,7 +7930,8 @@
       "Sau than: me (informal) hoặc I (formal: She's taller than I am).",
       "As...as dùng trong so sánh bằng; than dùng trong so sánh hơn."
     ],
-    "signals": "As...as. -er/more + than. The -est / the most."
+    "signals": "As...as. -er/more + than. The -est / the most.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7815,7 +7975,8 @@
       "Advice, information, furniture, news: không đếm được (không có -s).",
       "A piece of advice, a piece of information, a piece of furniture."
     ],
-    "signals": "Countable: a/an, many, few. Uncountable: no a/an, much, little."
+    "signals": "Countable: a/an, many, few. Uncountable: no a/an, much, little.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7860,7 +8021,8 @@
       "Stress thường ở từ đầu: 'blackboard, 'swimming pool.",
       "Một số viết liền, một số có gạch nối (check dictionary)."
     ],
-    "signals": "N+N, Adj+N, V-ing+N. Plural on main noun."
+    "signals": "N+N, Adj+N, V-ing+N. Plural on main noun.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7923,7 +8085,8 @@
       "Một số từ không theo quy tắc: informal, impatient (im-).",
       "Tra từ điển khi không chắc."
     ],
-    "signals": "Un-, In-, Im-, Il-, Ir-, Dis-. In- not before l, r."
+    "signals": "Un-, In-, Im-, Il-, Ir-, Dis-. In- not before l, r.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -7986,7 +8149,8 @@
       "-tion sau V (invent → invention). -ness sau adj (kind → kindness).",
       "-ize (Anh-Mỹ), -ise (Anh-Anh): organize/organise."
     ],
-    "signals": "-tion, -ment, -ness. -ize, -en, -ify."
+    "signals": "-tion, -ment, -ness. -ize, -en, -ify.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -8035,7 +8199,8 @@
       "Tránh viết tắt (I'm → I am). Tránh từ quá thân mật.",
       "Yours sincerely khi bắt đầu Dear Mr X. Yours faithfully khi Dear Sir/Madam."
     ],
-    "signals": "Dear... I am writing to... Yours sincerely/faithfully."
+    "signals": "Dear... I am writing to... Yours sincerely/faithfully.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -8076,7 +8241,8 @@
       "Viết tắt OK: I'm, we'll, don't. Emoji tùy người nhận.",
       "Cheers (Anh-Anh) = Thanks / Bye."
     ],
-    "signals": "Hi... Thanks for... See you. Best/Cheers."
+    "signals": "Hi... Thanks for... See you. Best/Cheers.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -8117,7 +8283,8 @@
       "Keyword listening: không cần hiểu hết.",
       "Chấp nhận miss một phần, bắt kịp phần sau."
     ],
-    "signals": "Preview questions. Focus on key words. Check spelling."
+    "signals": "Preview questions. Focus on key words. Check spelling.",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -8162,7 +8329,8 @@
       "Âm vô thanh: không rung cổ họng (p, t, k, f, s, sh, ch).",
       "Hữu thanh: rung (b, d, g, v, z, m, n, l, r...)."
     ],
-    "signals": "-ed: /t/ (voiceless), /d/ (voiced), /ɪd/ (after t, d)."
+    "signals": "-ed: /t/ (voiceless), /d/ (voiced), /ɪd/ (after t, d).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -8207,7 +8375,8 @@
       "Thêm -es khi N/V tận cùng s, x, z, ch, sh: box → boxes.",
       "Phát âm /ɪz/ = thêm âm tiết."
     ],
-    "signals": "-s/-es: /s/ (voiceless), /z/ (voiced), /ɪz/ (after sibilant)."
+    "signals": "-s/-es: /s/ (voiceless), /z/ (voiced), /ɪz/ (after sibilant).",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -8260,7 +8429,8 @@
       "Dùng để nối ý, chuyển ý trong nói và viết.",
       "To be honest, Having said that: rất thường gặp."
     ],
-    "signals": "At the end of the day. To be honest. In terms of. Having said that."
+    "signals": "At the end of the day. To be honest. In terms of. Having said that.",
+    "level": "A2"
   },
   {
     "type": "lesson",
@@ -8308,7 +8478,8 @@
       "It's time we left (lùi thì: left, không leave).",
       "Would you mind...? Đáp No = đồng ý (No, not at all.)."
     ],
-    "signals": "It's time S + V2. I'd appreciate it if. Would you mind V-ing?"
+    "signals": "It's time S + V2. I'd appreciate it if. Would you mind V-ing?",
+    "level": "B2"
   },
   {
     "type": "lesson",
@@ -8353,7 +8524,8 @@
       "200 bài đầy đủ, rõ ràng. Tùy trình độ có thể học theo thứ tự hoặc chọn chủ đề.",
       "Tra từ điển và collocation khi cần. Luyện nghe nói song song với ngữ pháp."
     ],
-    "signals": "Review all. Practice. Consistency is key. Good luck!"
+    "signals": "Review all. Practice. Consistency is key. Good luck!",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8384,7 +8556,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8415,7 +8588,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8446,7 +8620,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8477,7 +8652,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8508,7 +8684,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8539,7 +8716,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8570,7 +8748,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8601,7 +8780,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8632,7 +8812,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8663,7 +8844,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8694,7 +8876,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8725,7 +8908,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8756,7 +8940,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8787,7 +8972,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8818,7 +9004,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8849,7 +9036,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8880,7 +9068,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8911,7 +9100,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8942,7 +9132,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -8973,7 +9164,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -9004,7 +9196,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -9035,7 +9228,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -9066,7 +9260,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -9097,7 +9292,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -9128,7 +9324,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -9159,7 +9356,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -9190,7 +9388,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -9221,7 +9420,8 @@
       "Ôn tập định kỳ giúp ghi nhớ lâu.",
       "Học đều đặn mỗi ngày."
     ],
-    "signals": "Review. Practice."
+    "signals": "Review. Practice.",
+    "level": "B1"
   },
   {
     "type": "lesson",
@@ -9425,5 +9625,48 @@
       "Giữ thì của 'is/was' phù hợp (hiện tại/quá khứ)."
     ],
     "signals": "It is/was ..., What ... is ..."
+  },
+  {
+    "type": "lesson",
+    "id": "mixed-conditionals",
+    "level": "C2",
+    "title": "Điều kiện hỗn hợp (Mixed conditionals)",
+    "definition": "Mixed conditionals kết hợp thời gian khác nhau giữa mệnh đề if và mệnh đề chính (ví dụ: điều kiện trong quá khứ nhưng kết quả ở hiện tại).",
+    "formula": {
+      "headers": [
+        "Loại",
+        "Công thức"
+      ],
+      "rows": [
+        [
+          "Past condition → Present result",
+          "If + S + had + V3, S + would + V1"
+        ],
+        [
+          "Present condition → Past result",
+          "If + S + V2/Ved, S + would have + V3"
+        ]
+      ]
+    },
+    "examples": {
+      "headers": [
+        "Ví dụ",
+        "Ý nghĩa"
+      ],
+      "rows": [
+        [
+          "If I had studied harder, I would have a better job now.",
+          "Quá khứ ảnh hưởng hiện tại"
+        ],
+        [
+          "If I were more careful, I would have avoided that mistake.",
+          "Hiện tại ảnh hưởng quá khứ (giả định)"
+        ]
+      ]
+    },
+    "usage": [
+      "Dùng khi muốn nhấn mạnh mối quan hệ nhân-quả “lệch thời gian”."
+    ],
+    "signals": "If only, I wish, would (have)."
   }
 ]
